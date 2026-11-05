@@ -2311,6 +2311,465 @@
       "h": 1168,
       "file": "media/IMG_0715.JPG",
       "thumb": "media/IMG_0715.JPG"
+    },
+    {
+      "id": "xqhywi3nubfoh3wlhumh",
+      "title": "The Pumpkin Ballroom",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Halloween",
+        "Gothic",
+        "Pumpkin"
+      ],
+      "description": "An ornate golden pumpkin opens onto a candlelit ballroom filled with dancers, framed by autumn leaves and curling vines.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1568.JPG",
+      "thumb": "media/IMG_1568.JPG"
+    },
+    {
+      "id": "tjrgio686n6xx8wgzgpm",
+      "title": "The Drowning Sailor's Reach",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Ocean",
+        "Storm",
+        "Ghost Ship"
+      ],
+      "description": "A bearded sailor reaches from churning storm waves toward a ghostly ship looming in the mist.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0580.JPG",
+      "thumb": "media/IMG_0580.JPG"
+    },
+    {
+      "id": "506g3i86iayg56sqnxj0",
+      "title": "Golden Hour Smile",
+      "style": "Pop Art Portrait",
+      "themes": [
+        "Portrait",
+        "Comic Style",
+        "Cheerful"
+      ],
+      "description": "A smiling blonde woman in a black blouse poses in a bright comic-book style interior.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 1296,
+      "h": 1520,
+      "file": "media/IMG_1436.JPG",
+      "thumb": "media/IMG_1436.JPG"
+    },
+    {
+      "id": "pafh2hkeu964cv2w7zuz",
+      "title": "Sunset Over the Valley",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Sunset",
+        "Tattooed Woman",
+        "Bohemian"
+      ],
+      "description": "A tattooed woman in worn boots sits on a cliff edge watching the sun set over a river valley.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 1056,
+      "h": 1872,
+      "file": "media/IMG_0073.JPG",
+      "thumb": "media/IMG_0073.JPG"
+    },
+    {
+      "id": "ns60tc9pyxja3zndkgig",
+      "title": "Barn Days and a Best Friend",
+      "style": "Rustic Portrait",
+      "themes": [
+        "Countryside",
+        "Dog",
+        "Summer"
+      ],
+      "description": "A blonde woman in cowboy boots lounges in a wheelbarrow beside a weathered barn, a puppy in her lap and a cold drink in hand.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0518.JPG",
+      "thumb": "media/IMG_0518.JPG"
+    },
+    {
+      "id": "i4kbcqdo87j5kz44lx3v",
+      "title": "Shhh, the Gallery Clown",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Clown",
+        "Horror",
+        "Gallery"
+      ],
+      "description": "A pale clown-faced woman with a red nose presses a finger to her lips in a blood-red gallery.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0654.JPG",
+      "thumb": "media/IMG_0654.JPG"
+    },
+    {
+      "id": "9pgf3l47brwmnyxeu2nd",
+      "title": "Sunflower Psychedelia",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Sunflowers",
+        "Psychedelic",
+        "Portrait"
+      ],
+      "description": "A woman's face blooms with sunflowers and rainbow swirls in a riot of psychedelic color.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0529.JPG",
+      "thumb": "media/IMG_0529.JPG"
+    },
+    {
+      "id": "m0gf0edvxo6ye7ab2ttc",
+      "title": "Angel at Daybreak",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Angel",
+        "Dawn",
+        "Serenity"
+      ],
+      "description": "A winged angel in flowing white robes kneels in prayer beneath a breaking dawn sky.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1469.JPG",
+      "thumb": "media/IMG_1469.JPG"
+    },
+    {
+      "id": "x11qqz3gwxhes3qv7ojl",
+      "title": "The Crow Sorceress",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Sorceress",
+        "Crows",
+        "Gothic"
+      ],
+      "description": "A green-haired sorceress in dark armor grips a curved dagger as crows circle through candlelight.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0709.JPG",
+      "thumb": "media/IMG_0709.JPG"
+    },
+    {
+      "id": "t9c6nl7ayxaswuwtl6gi",
+      "title": "Mushroom Lantern Friends",
+      "style": "Fantasy Illustration",
+      "themes": [
+        "Mushroom",
+        "Forest",
+        "Whimsical"
+      ],
+      "description": "A bunny in a flower crown and a small elf share a glowing mushroom lantern in an enchanted forest.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0519.JPG",
+      "thumb": "media/IMG_0519.JPG"
+    },
+    {
+      "id": "3vmn4ymxt4p4fr2ch482",
+      "title": "Crimson Horned Temptress",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demon",
+        "Gothic",
+        "Red Light"
+      ],
+      "description": "A horned demoness in dark lace glows under crimson light, her gaze fixed on the viewer.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1285.JPG",
+      "thumb": "media/IMG_1285.JPG"
+    },
+    {
+      "id": "qsppgknzlvd9lccpjjhu",
+      "title": "Jellyfish Goddess of the Deep",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Jellyfish",
+        "Goddess",
+        "Cosmic"
+      ],
+      "description": "A radiant goddess of light drifts among glowing jellyfish and mushrooms in a violet cosmic sea.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0840.JPG",
+      "thumb": "media/IMG_0840.JPG"
+    },
+    {
+      "id": "nsopydp6jsgiw9fy0gjx",
+      "title": "Midnight Rider Under the Skull Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Biker",
+        "Skull",
+        "Night Ride"
+      ],
+      "description": "A hooded rider on a blazing motorcycle charges beneath a skull flag and a purple full moon.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1140.JPG",
+      "thumb": "media/IMG_1140.JPG"
+    },
+    {
+      "id": "vxxo4dnfwsaf0qec3v48",
+      "title": "Reaper of the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demon",
+        "Reaper",
+        "Blood Moon"
+      ],
+      "description": "A white-haired winged demoness holds a scythe beneath a blood-red moon as a raven watches.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0687.JPG",
+      "thumb": "media/IMG_0687.JPG"
+    },
+    {
+      "id": "hy2tck3sazb4wvxsbtrx",
+      "title": "The Burning One",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Fire Demon",
+        "Flames",
+        "Inferno"
+      ],
+      "description": "A muscular fire demon wreathed in living flame stands amid an inferno of embers.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0668.JPG",
+      "thumb": "media/IMG_0668.JPG"
+    },
+    {
+      "id": "abq80x7aj21ct092gtmv",
+      "title": "The Iron Colossus",
+      "style": "Steampunk",
+      "themes": [
+        "Steampunk",
+        "Gothic City",
+        "Machine"
+      ],
+      "description": "A colossal brass and iron machine looms over a gothic city of spires and clock towers.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1206.JPG",
+      "thumb": "media/IMG_1206.JPG"
+    },
+    {
+      "id": "uhojjkcbb74lfc759bge",
+      "title": "The Porch Ghost",
+      "style": "Gothic Horror",
+      "themes": [
+        "Ghost",
+        "Haunted House",
+        "Night"
+      ],
+      "description": "A translucent ghost in white drifts down the porch steps of a dark Victorian house under a full moon.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1654.JPG",
+      "thumb": "media/IMG_1654.JPG"
+    },
+    {
+      "id": "6dauo28ze4x7olm3fvmj",
+      "title": "The Cracked Doll of the Mountains",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Doll",
+        "Cracked Porcelain",
+        "Mountains"
+      ],
+      "description": "A woman's cracked porcelain face weeps blood against a backdrop of snow-capped peaks.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0666.JPG",
+      "thumb": "media/IMG_0666.JPG"
+    },
+    {
+      "id": "pf5chortns3sxdhidx8u",
+      "title": "The Red-Eyed Temptress",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demon",
+        "Red Eyes",
+        "Gothic"
+      ],
+      "description": "A horned demoness with split red-and-white hair and glowing red eyes gazes out from the dark.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1277.JPG",
+      "thumb": "media/IMG_1277.JPG"
+    },
+    {
+      "id": "079lyb6hg75hyq1pi225",
+      "title": "The Frog Oracle",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Frog",
+        "Skull",
+        "Lotus"
+      ],
+      "description": "A hooded frog wizard cradles a skull among lotus blooms beneath a canopy of watchful eyes.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0635.JPG",
+      "thumb": "media/IMG_0635.JPG"
+    },
+    {
+      "id": "sfa5sa2bjthrrlyuuslb",
+      "title": "Roping the Herd",
+      "style": "Western Portrait",
+      "themes": [
+        "Cowboy",
+        "Cattle",
+        "Plains"
+      ],
+      "description": "A weathered cowboy swings his lasso over a dusty herd on the open plains.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 1664,
+      "h": 1184,
+      "file": "media/IMG_0176.JPG",
+      "thumb": "media/IMG_0176.JPG"
+    },
+    {
+      "id": "qj5bct06orv6qnkeb5d3",
+      "title": "Graveyard Reaper",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reaper",
+        "Graveyard",
+        "Blood Moon"
+      ],
+      "description": "A winged reaper with a scythe and her raven stand among gravestones beneath a blood moon.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0694.JPG",
+      "thumb": "media/IMG_0694.JPG"
+    },
+    {
+      "id": "0c50im1bpx2jbdo92s1g",
+      "title": "The Galaxy Eye",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Eye",
+        "Galaxy",
+        "Cosmic"
+      ],
+      "description": "A close-up eye holds a swirling galaxy in its iris, ringed by stars and color.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0831.JPG",
+      "thumb": "media/IMG_0831.JPG"
+    },
+    {
+      "id": "c00q9rpi77exis9qszsv",
+      "title": "The Viking's Hearth",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Viking",
+        "Warrior",
+        "Campfire"
+      ],
+      "description": "A bearded Viking warrior in full armor stands by a crackling fire in his timber hall.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1860.JPG",
+      "thumb": "media/IMG_1860.JPG"
+    },
+    {
+      "id": "97qps38a26g6h90k2ljs",
+      "title": "Beneath the Skull Tree",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Skull Tree",
+        "Night Forest",
+        "Mystery"
+      ],
+      "description": "A hooded figure rests beneath a towering tree shaped like a skull in a moonlit forest.",
+      "kind": "image",
+      "createdAt": 1793919308829,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1064.JPG",
+      "thumb": "media/IMG_1064.JPG"
+    },
+    {
+      "id": "sqsoi4bifjl9pz1kg915",
+      "title": "Werewolves of London",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Werewolf",
+        "Horror",
+        "Moonlight"
+      ],
+      "description": "A snarling werewolf emerges from the mist under a full moon.",
+      "kind": "video",
+      "createdAt": 1793919308829,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/04623588bf8348c29d00252e447b11ab.MOV",
+      "thumb": "media/04623588bf8348c29d00252e447b11ab_thumb.jpg"
+    },
+    {
+      "id": "slbixb538hn4237wrco0",
+      "title": "Zombie Horde on the City Street",
+      "style": "Horror",
+      "themes": [
+        "Zombie",
+        "Graveyard",
+        "Undead"
+      ],
+      "description": "A decaying zombie shambles through a leaf-strewn graveyard at dusk.",
+      "kind": "video",
+      "createdAt": 1793919308829,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/03c900fc87bd4215a1fdd3c9651dd8c6.MOV",
+      "thumb": "media/03c900fc87bd4215a1fdd3c9651dd8c6_thumb.jpg"
     }
   ]
 }
