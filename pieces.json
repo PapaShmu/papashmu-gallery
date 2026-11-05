@@ -594,6 +594,431 @@
       "h": 1168,
       "file": "media/IMG_0566.JPG",
       "thumb": "media/IMG_0566.JPG"
+    },
+    {
+      "id": "aj19tq3w5t8obo8op6q0",
+      "title": "Resting in Ink and Linen",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Tattoo Art",
+        "Portrait",
+        "Intimacy"
+      ],
+      "description": "A dark-haired woman covered in floral tattoos rests on white bedding, gazing out with quiet intensity.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1753.JPG",
+      "thumb": "media/IMG_1753.JPG"
+    },
+    {
+      "id": "7n9s6vo0x248yu1c70za",
+      "title": "Hush Among the Roses",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Clown",
+        "Horror",
+        "Roses"
+      ],
+      "description": "A red-haired clown with a painted white face presses a finger to his lips amid dark red roses.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0337.JPG",
+      "thumb": "media/IMG_0337.JPG"
+    },
+    {
+      "id": "l6ttacrqidm931l8oaef",
+      "title": "The Horned Queen in Red Lace",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demon",
+        "Gothic",
+        "Portrait"
+      ],
+      "description": "A horned demon woman in red and black lace stares out from the dark, her eyes rimmed in shadow.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1272.JPG",
+      "thumb": "media/IMG_1272.JPG"
+    },
+    {
+      "id": "m6qgo10k8odlkst1v7s9",
+      "title": "Smoke and Sunflowers",
+      "style": "Surrealism",
+      "themes": [
+        "Skeleton",
+        "Surreal",
+        "Still Life"
+      ],
+      "description": "A tattooed skeleton woman smokes at a rustic table while sunflowers bloom from her hair in stark monochrome.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0830.JPG",
+      "thumb": "media/IMG_0830.JPG"
+    },
+    {
+      "id": "bfk4wj6cagmal56h8wwu",
+      "title": "Blue Hour Solitude",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Melancholy",
+        "Portrait",
+        "Neon"
+      ],
+      "description": "A young man sits alone in a blue-lit room, head bowed beneath a poster on the wall.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1056,
+      "h": 1872,
+      "file": "media/IMG_1521.JPG",
+      "thumb": "media/IMG_1521.JPG"
+    },
+    {
+      "id": "cz6pm9g8543emop707cf",
+      "title": "The Pipe Smoker of the Mushroom Wood",
+      "style": "Fantasy",
+      "themes": [
+        "Hobbit",
+        "Mushrooms",
+        "Forest"
+      ],
+      "description": "A red-haired hobbit-like elder smokes his pipe on a mossy log among mushrooms and wildflowers.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0849.JPG",
+      "thumb": "media/IMG_0849.JPG"
+    },
+    {
+      "id": "p4v9gv30mkyopndoghda",
+      "title": "Viking of the Frozen Field",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Viking",
+        "Warrior",
+        "Winter"
+      ],
+      "description": "A scarred viking warrior grips his axe on a snowy battlefield, his army fading into the mist behind him.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1862.JPG",
+      "thumb": "media/IMG_1862.JPG"
+    },
+    {
+      "id": "96fxxs7fnkkk4x1hp5qc",
+      "title": "The Elf Queen's Ride",
+      "style": "Fantasy",
+      "themes": [
+        "Elf",
+        "Warrior",
+        "Forest"
+      ],
+      "description": "An armored elf queen rides her black horse through a sun-dappled forest, her golden hair streaming behind her.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0584.JPG",
+      "thumb": "media/IMG_0584.JPG"
+    },
+    {
+      "id": "wg1gsc0d9w62xj88okhj",
+      "title": "Angel Above the Clouds",
+      "style": "Fantasy",
+      "themes": [
+        "Angel",
+        "Heaven",
+        "Sunrise"
+      ],
+      "description": "A winged angel in white kneels on a rocky peak above a sea of clouds at sunrise.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1448.JPG",
+      "thumb": "media/IMG_1448.JPG"
+    },
+    {
+      "id": "9j749m7k0k4740sjb6ga",
+      "title": "Neon Valkyrie",
+      "style": "Cyberpunk",
+      "themes": [
+        "Cyberpunk",
+        "Warrior",
+        "Neon"
+      ],
+      "description": "A woman in glowing purple cyber armor stands in a neon city street, her eyes burning pink.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1798.JPG",
+      "thumb": "media/IMG_1798.JPG"
+    },
+    {
+      "id": "tc6xc98alu5te3uu1c01",
+      "title": "The Meditating Light",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Meditation",
+        "Cosmic",
+        "Sacred Geometry"
+      ],
+      "description": "A luminous blue figure meditates within concentric rings of sacred geometry against a starfield.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0842.JPG",
+      "thumb": "media/IMG_0842.JPG"
+    },
+    {
+      "id": "e3yx1ulyfcus3d2xzui1",
+      "title": "Street Machine 2077",
+      "style": "Cyberpunk",
+      "themes": [
+        "Cyberpunk",
+        "Neon",
+        "Machine"
+      ],
+      "description": "A colossal spiked cybernetic boot stomps through a rain-slick neon street lined with glowing signs.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1209.JPG",
+      "thumb": "media/IMG_1209.JPG"
+    },
+    {
+      "id": "1dbp5kzqgy5eo3630vp2",
+      "title": "Goddess of the Golden Light",
+      "style": "Fantasy",
+      "themes": [
+        "Goddess",
+        "Angel",
+        "Light"
+      ],
+      "description": "A radiant goddess in white and gold holds a glowing orb of light, her hair and gown streaming in brilliance.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9719.JPG",
+      "thumb": "media/IMG_9719.JPG"
+    },
+    {
+      "id": "xu22l03ak5woc7yngg5w",
+      "title": "The Molten Mask",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demon",
+        "Horror",
+        "Fire"
+      ],
+      "description": "A horned demon mask splits open to reveal a burning molten city within its cracked skull.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0308.JPG",
+      "thumb": "media/IMG_0308.JPG"
+    },
+    {
+      "id": "wfv5hlxc57qmio96prv7",
+      "title": "Leather and Brass",
+      "style": "Still Life",
+      "themes": [
+        "Leather",
+        "Detail",
+        "Western"
+      ],
+      "description": "A close-up study of a worn leather belt and brass buckle, every crease and stitch in sharp relief.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1184,
+      "h": 1680,
+      "file": "media/IMG_0188.JPG",
+      "thumb": "media/IMG_0188.JPG"
+    },
+    {
+      "id": "pmysbkgh8obmk3yuf3j4",
+      "title": "Lasso at Sunset",
+      "style": "Western Fantasy",
+      "themes": [
+        "Cowboy",
+        "Western",
+        "Sunset"
+      ],
+      "description": "A shirtless cowboy spins his lasso from horseback on the open plains at golden hour.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1728,
+      "h": 1136,
+      "file": "media/IMG_0180.JPG",
+      "thumb": "media/IMG_0180.JPG"
+    },
+    {
+      "id": "2zdoe9wa8rauko6cgu6a",
+      "title": "The Pale Mourner",
+      "style": "Horror",
+      "themes": [
+        "Horror",
+        "Portrait",
+        "Gothic"
+      ],
+      "description": "A pale woman with dark smeared makeup and a red clown nose emerges from blood-red shadow.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0674.JPG",
+      "thumb": "media/IMG_0674.JPG"
+    },
+    {
+      "id": "8h6oj944o35yonjse55r",
+      "title": "Wings Over the Coast",
+      "style": "Fantasy",
+      "themes": [
+        "Angel",
+        "Coast",
+        "Wings"
+      ],
+      "description": "A great-winged angel in flowing white stands on a rocky shore above a misty sea.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1451.JPG",
+      "thumb": "media/IMG_1451.JPG"
+    },
+    {
+      "id": "ou653irl8v2uvizz6tc8",
+      "title": "Flight Over the Canyon",
+      "style": "Fantasy",
+      "themes": [
+        "Angel",
+        "Canyon",
+        "Flight"
+      ],
+      "description": "A glowing angel soars over a golden desert canyon in a letterboxed frame of sky and stone.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1463.JPG",
+      "thumb": "media/IMG_1463.JPG"
+    },
+    {
+      "id": "uyvkgm9phclod2lcg2wf",
+      "title": "The Autumn Dead Walk",
+      "style": "Horror",
+      "themes": [
+        "Zombie",
+        "Graveyard",
+        "Autumn"
+      ],
+      "description": "A rotting zombie shambles through an autumn graveyard, dead leaves crunching underfoot.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1660.JPG",
+      "thumb": "media/IMG_1660.JPG"
+    },
+    {
+      "id": "o70le9wbsr02gedizi21",
+      "title": "The Boy and the Skull Tree",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Skull",
+        "Forest",
+        "Moonlight"
+      ],
+      "description": "A blue-haired boy sits beneath a gnarled skull-faced tree in a moonlit forest, fireflies drifting around him.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1067.JPG",
+      "thumb": "media/IMG_1067.JPG"
+    },
+    {
+      "id": "rn1bjrwsdvfa80ehrs82",
+      "title": "Neon Dreams",
+      "style": "Cyberpunk",
+      "themes": [
+        "Cyberpunk",
+        "Portrait",
+        "Neon"
+      ],
+      "description": "A woman's face glows with neon circuitry, her closed eyes lit pink and violet against the dark.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0667.JPG",
+      "thumb": "media/IMG_0667.JPG"
+    },
+    {
+      "id": "i8814km5tksa31dt0bei",
+      "title": "Beer on the Porch",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Country",
+        "Porch",
+        "Golden Hour"
+      ],
+      "description": "A blonde country girl in a white dress sits on a cabin porch with a beer, chickens pecking at her feet.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0628.JPG",
+      "thumb": "media/IMG_0628.JPG"
+    },
+    {
+      "id": "0tyvpzqibuamciye4n98",
+      "title": "The Skull Mountain",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Skull",
+        "Fog",
+        "Hooded Figure"
+      ],
+      "description": "A hooded figure faces a colossal skull-shaped mountain wreathed in fog and cold light.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1071.JPG",
+      "thumb": "media/IMG_1071.JPG"
+    },
+    {
+      "id": "1eqducbax35ruuggpztr",
+      "title": "Guitar on the Rails",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Country",
+        "Guitar",
+        "Sunset"
+      ],
+      "description": "A tattooed country girl plays her guitar on the steps of a train car as the sun sets over the tracks.",
+      "kind": "image",
+      "createdAt": 1793871066972,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0677.JPG",
+      "thumb": "media/IMG_0677.JPG"
     }
   ]
 }
