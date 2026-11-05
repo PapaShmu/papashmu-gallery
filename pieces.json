@@ -383,7 +383,7 @@
       "themes": [
         "Horror"
       ],
-      "description": "A wall of screaming, anguished faces twists together in darkness — a chorus of the damned.",
+      "description": "A wall of screaming, anguished faces twists together in darkness \u2014 a chorus of the damned.",
       "kind": "image",
       "createdAt": 1793848186578,
       "w": 784,
@@ -1886,6 +1886,431 @@
       "h": 1280,
       "file": "media/export_1793109344124.MOV",
       "thumb": "media/export_1793109344124_thumb.jpg"
+    },
+    {
+      "id": "55jxxo24tv4md37b54jv",
+      "title": "Turntables in Technicolor",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Music",
+        "Psychedelic",
+        "Portraits"
+      ],
+      "description": "A headphone-wearing DJ spins vinyl as swirling psychedelic color, musical notes, and paint splashes explode around him.",
+      "kind": "image",
+      "createdAt": 1793905248936,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/IMG_1703.JPG",
+      "thumb": "media/IMG_1703.JPG"
+    },
+    {
+      "id": "php7nwfoznvk83m77mdy",
+      "title": "Neon Skin Stories",
+      "style": "Cyberpunk Portrait",
+      "themes": [
+        "Cyberpunk",
+        "Portraits",
+        "Neon"
+      ],
+      "description": "A young woman's face, covered in tiny printed tattoos, glows under green and pink neon light.",
+      "kind": "image",
+      "createdAt": 1793905249936,
+      "w": 1472,
+      "h": 1344,
+      "file": "media/IMG_0122.JPG",
+      "thumb": "media/IMG_0122.JPG"
+    },
+    {
+      "id": "3o9xgp887o9tmot0u24k",
+      "title": "Reach of the Hollow Man",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Horror",
+        "Zombies",
+        "Night"
+      ],
+      "description": "A rotting zombie reaches out of the fog beneath a lone street lamp.",
+      "kind": "image",
+      "createdAt": 1793905250936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1664.JPG",
+      "thumb": "media/IMG_1664.JPG"
+    },
+    {
+      "id": "llngsh9vifdxrakxfht2",
+      "title": "Chrome Empress of the Neon Rain",
+      "style": "Sci-Fi Fantasy",
+      "themes": [
+        "Cyberpunk",
+        "Robots",
+        "Neon City"
+      ],
+      "description": "A gleaming chrome android strides down a rain-slick neon street beneath glowing signs and drones.",
+      "kind": "image",
+      "createdAt": 1793905251936,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1938.JPG",
+      "thumb": "media/IMG_1938.JPG"
+    },
+    {
+      "id": "wshba0ykuf82v0cqlt8k",
+      "title": "Hush, Little Horror",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Clowns",
+        "Horror",
+        "Portraits"
+      ],
+      "description": "A pale Victorian clown presses a finger to its lips in a shadowy, decaying room.",
+      "kind": "image",
+      "createdAt": 1793905252936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0636.JPG",
+      "thumb": "media/IMG_0636.JPG"
+    },
+    {
+      "id": "ayj7zdhtd914np7ppai8",
+      "title": "The Molten King",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Fire",
+        "Demons",
+        "Horror"
+      ],
+      "description": "A hulking demon of cracked molten rock and living flame towers against the dark.",
+      "kind": "image",
+      "createdAt": 1793905253936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9728.JPG",
+      "thumb": "media/IMG_9728.JPG"
+    },
+    {
+      "id": "uxw2gixb536wvodg3cer",
+      "title": "Pink Hair on the Downtown Line",
+      "style": "Photorealistic",
+      "themes": [
+        "Portraits",
+        "Urban",
+        "Tattoos"
+      ],
+      "description": "A pink-haired, heavily tattooed man waits on a subway platform as a train blurs past.",
+      "kind": "image",
+      "createdAt": 1793905254936,
+      "w": 1456,
+      "h": 1360,
+      "file": "media/IMG_0514.JPG",
+      "thumb": "media/IMG_0514.JPG"
+    },
+    {
+      "id": "mdzrozikdogiwibkxdkh",
+      "title": "Sunset Serenade on the Rails",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Music",
+        "Sunset",
+        "Portraits"
+      ],
+      "description": "A blonde woman in a white lace dress plays guitar on the steps of a boxcar as the sun sets over the tracks.",
+      "kind": "image",
+      "createdAt": 1793905255936,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0363.JPG",
+      "thumb": "media/IMG_0363.JPG"
+    },
+    {
+      "id": "wgbrcnrot1jscbtqk6ht",
+      "title": "The Reaper Queen and the Plague Doctor",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Death",
+        "Horror",
+        "Blood Moon"
+      ],
+      "description": "A winged reaper queen grips a bloodied scythe beside a plague doctor beneath a red moon.",
+      "kind": "image",
+      "createdAt": 1793905256936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0706.JPG",
+      "thumb": "media/IMG_0706.JPG"
+    },
+    {
+      "id": "13kmejf31yqmxw1y60k4",
+      "title": "Two Faces in the Dark",
+      "style": "Photorealistic",
+      "themes": [
+        "Portraits",
+        "Romance",
+        "Night"
+      ],
+      "description": "A young couple faces each other in close profile, lit softly against the night.",
+      "kind": "image",
+      "createdAt": 1793905257936,
+      "w": 1056,
+      "h": 1872,
+      "file": "media/IMG_1525.JPG",
+      "thumb": "media/IMG_1525.JPG"
+    },
+    {
+      "id": "9ia4dd8el40l791hrjv5",
+      "title": "Woman of Violet Smoke",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demons",
+        "Magic",
+        "Portraits"
+      ],
+      "description": "A spectral woman emerges from swirling violet smoke and embers.",
+      "kind": "image",
+      "createdAt": 1793905258936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0535.JPG",
+      "thumb": "media/IMG_0535.JPG"
+    },
+    {
+      "id": "j9gguab7qmmz84p7pwqa",
+      "title": "Moonrise Over the Lake House",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Moonlight",
+        "Lakes",
+        "Night"
+      ],
+      "description": "A lantern-lit cabin sits on a moonlit lake island as a small boat drifts beneath a giant full moon.",
+      "kind": "image",
+      "createdAt": 1793905259936,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1889.JPG",
+      "thumb": "media/IMG_1889.JPG"
+    },
+    {
+      "id": "zt2sjhknjlckrwgyrsnr",
+      "title": "The Falcon Huntress of Winter",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Warriors",
+        "Winter",
+        "Snow"
+      ],
+      "description": "A fur-clad warrior woman with a bow and a falcon on her shoulder stands in a snowy forest.",
+      "kind": "image",
+      "createdAt": 1793905260936,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1857.JPG",
+      "thumb": "media/IMG_1857.JPG"
+    },
+    {
+      "id": "9razykdoejzlif6m73aw",
+      "title": "The Black Rose in Silver",
+      "style": "Gothic Illustration",
+      "themes": [
+        "Roses",
+        "Gothic",
+        "Tattoo Art"
+      ],
+      "description": "A velvety black rose blooms amid silver filigree scrollwork on a misty grey ground.",
+      "kind": "image",
+      "createdAt": 1793905261936,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1819.JPG",
+      "thumb": "media/IMG_1819.JPG"
+    },
+    {
+      "id": "firu5mwv91zjsbnci1t1",
+      "title": "The Autumn Eye",
+      "style": "Surrealism",
+      "themes": [
+        "Eyes",
+        "Autumn",
+        "Dreamscape"
+      ],
+      "description": "A close-up eye reflects a blazing autumn forest path within its iris.",
+      "kind": "image",
+      "createdAt": 1793905262936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1575.JPG",
+      "thumb": "media/IMG_1575.JPG"
+    },
+    {
+      "id": "1avpzlka73pjm49scwlh",
+      "title": "Half Man, Half Inferno",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Horror",
+        "Fire",
+        "Portraits"
+      ],
+      "description": "A man's body splits between flesh and burning bone, fire roaring from his chest.",
+      "kind": "image",
+      "createdAt": 1793905263936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0720.JPG",
+      "thumb": "media/IMG_0720.JPG"
+    },
+    {
+      "id": "e5uzjoobw9xiv291hx9d",
+      "title": "The Marigold Skull King",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Skulls",
+        "Day of the Dead",
+        "Psychedelic"
+      ],
+      "description": "A radiant purple skull crowned with marigolds hovers above a glowing path of orange petals.",
+      "kind": "image",
+      "createdAt": 1793905264936,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1142.JPG",
+      "thumb": "media/IMG_1142.JPG"
+    },
+    {
+      "id": "k8w35h5wgmanxo3go6xw",
+      "title": "Goddess of the Blue Temple",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Egyptian",
+        "Goddesses",
+        "Temples"
+      ],
+      "description": "A blue-skinned Egyptian goddess in gold regalia stands within a glowing, hieroglyph-covered temple.",
+      "kind": "image",
+      "createdAt": 1793905265936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0845.JPG",
+      "thumb": "media/IMG_0845.JPG"
+    },
+    {
+      "id": "mu71mhsppgmp5qth4t75",
+      "title": "Tears of the Blood Moon Clown",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Clowns",
+        "Horror",
+        "Blood Moon"
+      ],
+      "description": "A dark-haired clown woman weeps black tears beneath a blood-red moon.",
+      "kind": "image",
+      "createdAt": 1793905266936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0745.JPG",
+      "thumb": "media/IMG_0745.JPG"
+    },
+    {
+      "id": "us3t3cptrqp5trawuz73",
+      "title": "The Reaper Among Roses",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Death",
+        "Roses",
+        "Gothic"
+      ],
+      "description": "A long-haired hooded reaper stands among blood-red roses with a raven watching from above.",
+      "kind": "image",
+      "createdAt": 1793905267936,
+      "w": 784,
+      "h": 1093,
+      "file": "media/IMG_0966.JPG",
+      "thumb": "media/IMG_0966.JPG"
+    },
+    {
+      "id": "pyv6abtpe3t0ikz44ewt",
+      "title": "The Crimson Captain",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Pirates",
+        "Warriors",
+        "Adventure"
+      ],
+      "description": "A red-haired pirate captain lunges forward with her sword on the deck of her ship.",
+      "kind": "image",
+      "createdAt": 1793905268936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0672.JPG",
+      "thumb": "media/IMG_0672.JPG"
+    },
+    {
+      "id": "dm0c7wtor4h6itovt6j2",
+      "title": "The Bride in the Mist",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Brides",
+        "Ghosts",
+        "Mist"
+      ],
+      "description": "A white-haired woman in a flowing white gown drifts through pale mist.",
+      "kind": "image",
+      "createdAt": 1793905269936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0748.JPG",
+      "thumb": "media/IMG_0748.JPG"
+    },
+    {
+      "id": "fsv6q0dnqrkuya8m9xhp",
+      "title": "The Family at the Haunted House",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Horror",
+        "Haunted Houses",
+        "Zombies"
+      ],
+      "description": "Three gaunt figures stand before a dark, lamplit house on a foggy night.",
+      "kind": "image",
+      "createdAt": 1793905270936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1665.JPG",
+      "thumb": "media/IMG_1665.JPG"
+    },
+    {
+      "id": "kvcu77uea4masloakgzn",
+      "title": "The Gnome Elder's Mushroom Garden",
+      "style": "Fantasy Illustration",
+      "themes": [
+        "Gnomes",
+        "Mushrooms",
+        "Forest"
+      ],
+      "description": "A white-bearded gnome elder sits among glowing mushrooms, tiny frogs, and fireflies in an enchanted forest.",
+      "kind": "image",
+      "createdAt": 1793905271936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0352.JPG",
+      "thumb": "media/IMG_0352.JPG"
+    },
+    {
+      "id": "8557n4uxjuf0oetei1rm",
+      "title": "The Lantern Reaper",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Death",
+        "Lanterns",
+        "Night"
+      ],
+      "description": "A dark-haired reaper woman carries her scythe down a red-lantern street as ravens circle overhead.",
+      "kind": "image",
+      "createdAt": 1793905272936,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0715.JPG",
+      "thumb": "media/IMG_0715.JPG"
     }
   ]
 }
