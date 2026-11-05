@@ -1444,6 +1444,431 @@
       "h": 1472,
       "file": "media/IMG_0127.JPG",
       "thumb": "media/IMG_0127.JPG"
+    },
+    {
+      "id": "90c57hlojx4uhrvw6uxc",
+      "title": "The Iron Hand Reaches",
+      "style": "Sci-Fi Fantasy",
+      "themes": [
+        "Cyberpunk",
+        "Robotics",
+        "Dark Fantasy"
+      ],
+      "description": "A weathered robotic hand crackles with orange sparks as it reaches out of the dark toward the viewer.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1211.JPG",
+      "thumb": "media/IMG_1211.JPG"
+    },
+    {
+      "id": "3v8akjo8kx8vq0rm2j88",
+      "title": "The Winged Cowboy of Marigold Canyon",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Angel",
+        "Western",
+        "Sunset"
+      ],
+      "description": "A bearded winged cowboy in a long coat stands among marigolds in a golden canyon at sunset.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1138.JPG",
+      "thumb": "media/IMG_1138.JPG"
+    },
+    {
+      "id": "j58xr745ywf5jv36fetx",
+      "title": "Gilded Lips",
+      "style": "Surreal Portrait",
+      "themes": [
+        "Beauty",
+        "Macro",
+        "Metallic"
+      ],
+      "description": "A close-up of glossy lips coated in shimmering rose-gold metallic pigment.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1404.JPG",
+      "thumb": "media/IMG_1404.JPG"
+    },
+    {
+      "id": "hbcxsiqnm8vrll0e5zhj",
+      "title": "The Psychedelic Saxophonist",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Music",
+        "Psychedelic",
+        "Portrait"
+      ],
+      "description": "A red-haired young man plays a golden saxophone amid swirling paint splashes and floating musical notes.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/IMG_1716.JPG",
+      "thumb": "media/IMG_1716.JPG"
+    },
+    {
+      "id": "dpbrh7j97pnfdj5744y9",
+      "title": "Lantern Before the Heart Machine",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Surrealism",
+        "Sunset",
+        "Mystery"
+      ],
+      "description": "A hooded figure holding a lantern sits on a cliff edge facing a giant floating heart-shaped machine at sunset.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1068.JPG",
+      "thumb": "media/IMG_1068.JPG"
+    },
+    {
+      "id": "1cryf4l14gllxit1c2a5",
+      "title": "The War Horn Under the Aurora",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Viking",
+        "Aurora",
+        "Mythology"
+      ],
+      "description": "A long-haired Viking warrior in fur and armor blows a great war horn beneath a swirling aurora sky.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0319.JPG",
+      "thumb": "media/IMG_0319.JPG"
+    },
+    {
+      "id": "dsk3vscjmlvf8clwdxk1",
+      "title": "Night Rider on the Highway",
+      "style": "Realistic Portrait",
+      "themes": [
+        "Biker",
+        "Night",
+        "Highway"
+      ],
+      "description": "A bearded biker rides his motorcycle down a wet highway at dusk, headlight cutting through the gloom.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1376,
+      "h": 1440,
+      "file": "media/IMG_0140.JPG",
+      "thumb": "media/IMG_0140.JPG"
+    },
+    {
+      "id": "pyva3mnb5x5itmzitksu",
+      "title": "Fairy Lights and Ink",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Tattoo",
+        "Dreamlike",
+        "Portrait"
+      ],
+      "description": "A white-haired tattooed woman rests in bed among warm fairy lights, her blue eyes gazing softly aside.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 512,
+      "h": 512,
+      "file": "media/IMG_1772.HEIC",
+      "thumb": "media/IMG_1772.HEIC"
+    },
+    {
+      "id": "2bkxkmz5cdh7ocxz7tdm",
+      "title": "The Clown of the Red Lanterns",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Clown",
+        "Horror",
+        "Lanterns"
+      ],
+      "description": "A long-haired clown with cracked white face paint and a red nose stands in a lantern-lit street at night.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0316.JPG",
+      "thumb": "media/IMG_0316.JPG"
+    },
+    {
+      "id": "gw8jd31q0znlgsk7uwfs",
+      "title": "Emerging from Dark Water",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Horror",
+        "Water",
+        "Portrait"
+      ],
+      "description": "A weathered man's face breaks the surface of dark rippling water, staring upward with haunted eyes.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0592.JPG",
+      "thumb": "media/IMG_0592.JPG"
+    },
+    {
+      "id": "9nz9dxu6k2mgpispjv7e",
+      "title": "Feathered Lips",
+      "style": "Surrealism",
+      "themes": [
+        "Beauty",
+        "Surreal",
+        "Macro"
+      ],
+      "description": "A close-up of glossy lips framed by delicate blue and red feathers.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1403.JPG",
+      "thumb": "media/IMG_1403.JPG"
+    },
+    {
+      "id": "e3ucz8xao2zwknth9kni",
+      "title": "The Flaming Pumpkin Skull",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Halloween",
+        "Horror",
+        "Fire"
+      ],
+      "description": "A grinning jack-o'-lantern skull wreathed in flame and thorny vines looms over a burning city skyline.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0539.JPG",
+      "thumb": "media/IMG_0539.JPG"
+    },
+    {
+      "id": "k966wti0iuiyxk2r33iu",
+      "title": "The Cosmic Hand",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Cosmic",
+        "Galaxy",
+        "Mysticism"
+      ],
+      "description": "An open palm holds a swirling spiral galaxy, its fingers traced with glowing golden runes against the stars.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1204.JPG",
+      "thumb": "media/IMG_1204.JPG"
+    },
+    {
+      "id": "9w3d1x5wruexgzkdl6mt",
+      "title": "Reaching for the Surface",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Underwater",
+        "Drowning",
+        "Light"
+      ],
+      "description": "A drowned figure in dark rags reaches up through deep blue water toward the light breaking the surface.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0332.JPG",
+      "thumb": "media/IMG_0332.JPG"
+    },
+    {
+      "id": "dvi739dwzzkstz9it86z",
+      "title": "Springfield Blonde",
+      "style": "Pop Art",
+      "themes": [
+        "Cartoon",
+        "Pop Art",
+        "Portrait"
+      ],
+      "description": "A cheerful blonde cartoon woman in the style of a classic animated sitcom smiles in a sunlit hallway.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1296,
+      "h": 1520,
+      "file": "media/IMG_1435.JPG",
+      "thumb": "media/IMG_1435.JPG"
+    },
+    {
+      "id": "eru2gga0eb6vskjpbncn",
+      "title": "The Psychedelic Saxophonist in Red",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Music",
+        "Psychedelic",
+        "Portrait"
+      ],
+      "description": "A curly red-haired woman plays a golden saxophone amid swirling turquoise paint and floating musical notes.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/IMG_1709.JPG",
+      "thumb": "media/IMG_1709.JPG"
+    },
+    {
+      "id": "9ivfljmw8elej9awb8tx",
+      "title": "Sunset on the Hilltop",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Tattoo",
+        "Sunset",
+        "Nature"
+      ],
+      "description": "A heavily tattooed woman sits on a grassy hilltop at sunset, gazing over a golden lake below.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1280,
+      "h": 1536,
+      "file": "media/IMG_0072.JPG",
+      "thumb": "media/IMG_0072.JPG"
+    },
+    {
+      "id": "noy04bzqffv4t2zq47k9",
+      "title": "The Ghost Bride by the Window",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Ghost",
+        "Gothic",
+        "Bride"
+      ],
+      "description": "A veiled ghost bride in a flowing white gown stands in a dark room as pale light streams through a broken window.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1658.JPG",
+      "thumb": "media/IMG_1658.JPG"
+    },
+    {
+      "id": "72hbrj1lrj5rcq92xvvy",
+      "title": "The Pirate Captain",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Pirate",
+        "Sea",
+        "Warrior"
+      ],
+      "description": "A bald, heavily tattooed pirate captain grips his sword on the deck of his ship under grey storm clouds.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0297.JPG",
+      "thumb": "media/IMG_0297.JPG"
+    },
+    {
+      "id": "ulhc58u9ac48l5m8o4fd",
+      "title": "The Mushroom Cat",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Cat",
+        "Mushroom",
+        "Psychedelic"
+      ],
+      "description": "A cat's face blooms with neon pink and blue mushrooms, its mismatched rainbow eyes glowing in the dark.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0633.JPG",
+      "thumb": "media/IMG_0633.JPG"
+    },
+    {
+      "id": "7zzrcc0ipdix6zw9b9ih",
+      "title": "The Hooded Reaper in the Rosewood",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reaper",
+        "Gothic",
+        "Roses"
+      ],
+      "description": "A hooded reaper with long silver hair stands among dark trees, red roses and skulls in a shadowed wood.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0661.JPG",
+      "thumb": "media/IMG_0661.JPG"
+    },
+    {
+      "id": "cph4wobvxiwiaj1l22zn",
+      "title": "The Hologram Skull",
+      "style": "Cyberpunk",
+      "themes": [
+        "Hologram",
+        "Skull",
+        "Museum"
+      ],
+      "description": "A man leans over a glowing holographic skull displayed on a luminous grid in a dark museum hall.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1078.JPG",
+      "thumb": "media/IMG_1078.JPG"
+    },
+    {
+      "id": "oiz5gkc7kgn03hrl7wo8",
+      "title": "The Purple Mushroom Path",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushroom",
+        "Forest",
+        "Fantasy"
+      ],
+      "description": "A hooded figure walks a glowing path through a forest of giant purple and orange mushrooms at night.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1087.JPG",
+      "thumb": "media/IMG_1087.JPG"
+    },
+    {
+      "id": "1qmk7bmibm98ibej5jny",
+      "title": "Moon Goddess in a Galaxy Gown",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Goddess",
+        "Moon",
+        "Galaxy"
+      ],
+      "description": "A silver-haired moon goddess in a flowing galaxy gown stands beneath a huge glowing full moon.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1802.JPG",
+      "thumb": "media/IMG_1802.JPG"
+    },
+    {
+      "id": "af09df9d055puvkc4u2j",
+      "title": "The Chrome Water Sorceress",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Sorceress",
+        "Ice",
+        "Chrome"
+      ],
+      "description": "A silver-haired sorceress in gleaming ice-blue chrome armor strides through swirling clouds and mist.",
+      "kind": "image",
+      "createdAt": 1793899478299,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9712.JPG",
+      "thumb": "media/IMG_9712.JPG"
     }
   ]
 }
