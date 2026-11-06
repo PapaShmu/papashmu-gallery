@@ -3688,6 +3688,465 @@
       "h": 1152,
       "file": "media/Living_Original_2_Watermarked.MP4",
       "thumb": "media/Living_Original_2_Watermarked_thumb.jpg"
+    },
+    {
+      "id": "dg52yoamqwcg24rrvx5h",
+      "title": "Chrome Stallion Under Storm Clouds",
+      "style": "Photorealistic",
+      "themes": [
+        "motorcycle",
+        "open road",
+        "storm"
+      ],
+      "description": "A chrome motorcycle stands alone on an open road beneath a brooding storm sky.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 1344,
+      "h": 1472,
+      "file": "media/IMG_0145.JPG",
+      "thumb": "media/IMG_0145.JPG"
+    },
+    {
+      "id": "6v4njeshluj53a12ipmt",
+      "title": "Cowboy and His Golden Pup",
+      "style": "Photorealistic",
+      "themes": [
+        "cowboy",
+        "puppy",
+        "sunset"
+      ],
+      "description": "A cowboy in a denim jacket cradles a golden puppy in a field at sunset.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 1664,
+      "h": 1200,
+      "file": "media/IMG_0181.JPG",
+      "thumb": "media/IMG_0181.JPG"
+    },
+    {
+      "id": "ptajdpzrl7v2i34moypg",
+      "title": "Scream in Violet Lightning",
+      "style": "Dark Fantasy",
+      "themes": [
+        "scream",
+        "lightning",
+        "dark portrait"
+      ],
+      "description": "A woman screams skyward as violet lightning cracks across her face and hair.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0320.JPG",
+      "thumb": "media/IMG_0320.JPG"
+    },
+    {
+      "id": "krd8sqi8hob79jbcwim3",
+      "title": "Reaching for the Sunken Light",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "underwater",
+        "sunbeams",
+        "ruins"
+      ],
+      "description": "A woman reaches toward sunbeams piercing deep blue water above a sunken ruin.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0328.JPG",
+      "thumb": "media/IMG_0328.JPG"
+    },
+    {
+      "id": "mbp3j4yr7vxmhgbz8gqm",
+      "title": "Lantern Street at Midnight",
+      "style": "Dark Fantasy",
+      "themes": [
+        "lanterns",
+        "rain",
+        "gothic"
+      ],
+      "description": "A dark-haired woman walks a rain-slick street glowing with red paper lanterns.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0339.JPG",
+      "thumb": "media/IMG_0339.JPG"
+    },
+    {
+      "id": "d57n37ii4q88g3omdiyb",
+      "title": "Pumpkin Punisher of the Rain City",
+      "style": "Dark Fantasy",
+      "themes": [
+        "pumpkin head",
+        "vigilante",
+        "rainy city"
+      ],
+      "description": "A pumpkin-headed vigilante in black armor stands in a rain-soaked neon city street.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0358.JPG",
+      "thumb": "media/IMG_0358.JPG"
+    },
+    {
+      "id": "vvm3gzy8rgidh6m5u3dy",
+      "title": "The Top Hat Pumpkin",
+      "style": "Halloween Horror",
+      "themes": [
+        "jack-o'-lantern",
+        "top hat",
+        "full moon"
+      ],
+      "description": "A grinning jack-o'-lantern in a purple skull top hat glows beneath a full moon.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0533.JPG",
+      "thumb": "media/IMG_0533.JPG"
+    },
+    {
+      "id": "i1j23k3t24xsnm6x2v8d",
+      "title": "Hush, Little Clown",
+      "style": "Dark Fantasy",
+      "themes": [
+        "clown",
+        "roses",
+        "hush"
+      ],
+      "description": "A pale blonde clown presses a finger to her lips among dark roses.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0546.JPG",
+      "thumb": "media/IMG_0546.JPG"
+    },
+    {
+      "id": "6ewwo3txcchmm4sdwzcr",
+      "title": "Fallen Angel in the Clouds",
+      "style": "Dark Fantasy",
+      "themes": [
+        "angel",
+        "wings",
+        "clouds"
+      ],
+      "description": "A winged dark angel drifts through storm clouds with tattered wings spread wide.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0549.JPG",
+      "thumb": "media/IMG_0549.JPG"
+    },
+    {
+      "id": "avgsvbb4uc6hjookthkj",
+      "title": "Samurai of the Rice Fields",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "samurai",
+        "rice fields",
+        "mountains"
+      ],
+      "description": "An armored samurai woman stands in flooded rice fields beneath misty mountains.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0552.JPG",
+      "thumb": "media/IMG_0552.JPG"
+    },
+    {
+      "id": "z3p4cgwsht36vb70tka0",
+      "title": "Dusk Rider",
+      "style": "Photorealistic",
+      "themes": [
+        "tattooed woman",
+        "vintage car",
+        "dusk"
+      ],
+      "description": "A curly-haired tattooed woman leans on a vintage car under a desert dusk sky.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 1456,
+      "h": 1344,
+      "file": "media/IMG_0590.JPG",
+      "thumb": "media/IMG_0590.JPG"
+    },
+    {
+      "id": "3kekd5krti6vlvckjnlk",
+      "title": "Pumpkin Pie in the Dark Woods",
+      "style": "Halloween Horror",
+      "themes": [
+        "pumpkin heads",
+        "pie",
+        "forest"
+      ],
+      "description": "Three pumpkin-headed figures share a pie in a dark autumn forest.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0591.JPG",
+      "thumb": "media/IMG_0591.JPG"
+    },
+    {
+      "id": "v1et4nador2x56sl9ci8",
+      "title": "Raven Queen Under the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "raven queen",
+        "scythe",
+        "blood moon"
+      ],
+      "description": "A winged raven queen grips her scythe beside a black raven under a blood moon.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0617.JPG",
+      "thumb": "media/IMG_0617.JPG"
+    },
+    {
+      "id": "xvg9p8q2kceiqb75hh2e",
+      "title": "The Molten Horned Queen",
+      "style": "Dark Fantasy",
+      "themes": [
+        "demon queen",
+        "horns",
+        "fire"
+      ],
+      "description": "A horned demon queen with molten cracks across her brow stares out of the dark.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0625.JPG",
+      "thumb": "media/IMG_0625.JPG"
+    },
+    {
+      "id": "yyaequqohn71n5x5y3yl",
+      "title": "Country Girl in the Wheelbarrow",
+      "style": "Photorealistic",
+      "themes": [
+        "country girl",
+        "wheelbarrow",
+        "sunset"
+      ],
+      "description": "A blonde country girl sips a drink in a wheelbarrow with her chicken at sunset.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0712.JPG",
+      "thumb": "media/IMG_0712.JPG"
+    },
+    {
+      "id": "sl5hz5rbj1bmajtkit2t",
+      "title": "The Grinning Gourd",
+      "style": "Halloween Horror",
+      "themes": [
+        "jack-o'-lantern",
+        "grin",
+        "fire"
+      ],
+      "description": "A giant jack-o'-lantern grins with blazing eyes in the dark.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0743.JPG",
+      "thumb": "media/IMG_0743.JPG"
+    },
+    {
+      "id": "bq27om4o5rslynqkyfvp",
+      "title": "Mushroom Forest of the Cosmos",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "mushrooms",
+        "cosmic",
+        "forest"
+      ],
+      "description": "Glowing mushrooms light a forest path beneath a swirling cosmic sky.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1090.JPG",
+      "thumb": "media/IMG_1090.JPG"
+    },
+    {
+      "id": "94hnq9jwetcnklv6jr8t",
+      "title": "Neon Alley Cyber Samurai",
+      "style": "Cyberpunk",
+      "themes": [
+        "cyberpunk",
+        "neon",
+        "alley"
+      ],
+      "description": "A cybernetic figure glows pink and blue in a rain-slick neon alley.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1215.JPG",
+      "thumb": "media/IMG_1215.JPG"
+    },
+    {
+      "id": "0n86ph56thevppzwrkrs",
+      "title": "Horned Temptress in Red Light",
+      "style": "Dark Fantasy",
+      "themes": [
+        "demon woman",
+        "horns",
+        "red light"
+      ],
+      "description": "A horned woman with flowing red hair poses in deep red light.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1284.JPG",
+      "thumb": "media/IMG_1284.JPG"
+    },
+    {
+      "id": "annzhboddftsritxjemo",
+      "title": "Lips in Soft Light",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "lips",
+        "close-up",
+        "soft light"
+      ],
+      "description": "A close-up study of a woman's lips and nose in warm, soft light.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1408.JPG",
+      "thumb": "media/IMG_1408.JPG"
+    },
+    {
+      "id": "3ixx5vqjyoz6uqpz8vu3",
+      "title": "The Forest in Her Eye",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "eye",
+        "forest",
+        "reflection"
+      ],
+      "description": "A giant eye reflects a golden forest path within its iris.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1570.JPG",
+      "thumb": "media/IMG_1570.JPG"
+    },
+    {
+      "id": "7qu0n0xvbwv4fgkqdtrt",
+      "title": "Skull Arch Over the Burning Valley",
+      "style": "Dark Fantasy",
+      "themes": [
+        "skull",
+        "arch",
+        "sunset"
+      ],
+      "description": "A colossal skull forms a stone arch over a valley burning with sunset.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1571.JPG",
+      "thumb": "media/IMG_1571.JPG"
+    },
+    {
+      "id": "y4k612d8nj9xb8rka80s",
+      "title": "The Floating Castle Mirror",
+      "style": "Fantasy",
+      "themes": [
+        "floating castle",
+        "mirror",
+        "islands"
+      ],
+      "description": "Floating castle islands drift inside an ornate gilded mirror.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1580.JPG",
+      "thumb": "media/IMG_1580.JPG"
+    },
+    {
+      "id": "m28ub0245775qent3fsq",
+      "title": "Blue-Haired Guitar Punk",
+      "style": "Pop Art",
+      "themes": [
+        "guitarist",
+        "punk",
+        "graffiti"
+      ],
+      "description": "A blue-haired punk guitarist plays beneath a swirl of graffiti color.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/IMG_1710.JPG",
+      "thumb": "media/IMG_1710.JPG"
+    },
+    {
+      "id": "d54b34z67ulpqr085o20",
+      "title": "Shieldmaiden of the Snowy Shore",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "shieldmaiden",
+        "snow",
+        "viking"
+      ],
+      "description": "A fur-clad shieldmaiden stands on a snowy shore with sword and shield.",
+      "kind": "image",
+      "createdAt": 1793962536866,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1859.JPG",
+      "thumb": "media/IMG_1859.JPG"
+    },
+    {
+      "id": "zzpelccyi4n762y0cer1",
+      "title": "Living Original I \u2014 Dark Red Streaks in Candlelight",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "tattooed woman",
+        "candlelight",
+        "gothic"
+      ],
+      "description": "A dark-haired woman with red streaks in black lace sits among candles beside a chessboard.",
+      "kind": "video",
+      "createdAt": 1793962536866,
+      "w": 768,
+      "h": 1152,
+      "file": "media/Living_Original_1_Watermarked.MP4",
+      "thumb": "media/Living_Original_1_Watermarked_thumb.jpg"
+    },
+    {
+      "id": "41daukxmazffvjeq8tqb",
+      "title": "Urban Angels at Sunset",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "angel",
+        "city",
+        "sunset"
+      ],
+      "description": "A winged angel with braided hair and tattoos gazes over a city glowing at sunset.",
+      "kind": "video",
+      "createdAt": 1793962536866,
+      "w": 1080,
+      "h": 1914,
+      "file": "media/bd709dadb42d4554b3f29701e7e98b21.MOV",
+      "thumb": "media/bd709dadb42d4554b3f29701e7e98b21_thumb.jpg"
     }
   ]
 }
