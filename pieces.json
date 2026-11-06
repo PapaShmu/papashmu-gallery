@@ -3229,6 +3229,465 @@
       "h": 1152,
       "file": "media/Living_Original_4_Watermarked.MP4",
       "thumb": "media/Living_Original_4_Watermarked_thumb.jpg"
+    },
+    {
+      "id": "0rca3thlrw9i6n6cjsfm",
+      "title": "Shipwreck Dock at Night",
+      "style": "Dark Fantasy",
+      "themes": [
+        "shipwreck",
+        "night",
+        "ocean"
+      ],
+      "description": "A derelict ship rests at a lantern-lit dock over glowing teal water beneath a stormy dusk sky.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1892.JPG",
+      "thumb": "media/IMG_1892.JPG"
+    },
+    {
+      "id": "nbzzthk760c0ge9ye9d2",
+      "title": "The Crystal Skull",
+      "style": "Dark Fantasy",
+      "themes": [
+        "skull",
+        "desert",
+        "surreal"
+      ],
+      "description": "A lone figure in black approaches a colossal crystal skull rising from a blood-red desert plain.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1066.JPG",
+      "thumb": "media/IMG_1066.JPG"
+    },
+    {
+      "id": "ogz58vw9rvz0mtd12hrc",
+      "title": "Brother of the Road",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "biker",
+        "portrait",
+        "leather"
+      ],
+      "description": "A bearded, tattooed biker in a patched vest stares down the camera under a grey sky.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 1344,
+      "h": 1472,
+      "file": "media/IMG_0138.JPG",
+      "thumb": "media/IMG_0138.JPG"
+    },
+    {
+      "id": "cdp0p6ihk17k0t4op9vs",
+      "title": "Neon Heart Chibi",
+      "style": "Cyberpunk Anime",
+      "themes": [
+        "chibi",
+        "neon",
+        "anime"
+      ],
+      "description": "A tiny pink-haired chibi girl in a bubble helmet poses on a rain-slick neon street beneath glowing hearts.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1258.JPG",
+      "thumb": "media/IMG_1258.JPG"
+    },
+    {
+      "id": "sijf753eptuf4x570ttn",
+      "title": "Blue-Haired Punk",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "punk",
+        "portrait",
+        "neon"
+      ],
+      "description": "A blue-haired punk woman in a studded leather jacket gazes sideways in a graffiti-stained alley.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 1472,
+      "h": 1344,
+      "file": "media/IMG_0130.JPG",
+      "thumb": "media/IMG_0130.JPG"
+    },
+    {
+      "id": "jr2ozwk5pqeoej1253lj",
+      "title": "The Burning Rune",
+      "style": "Dark Fantasy",
+      "themes": [
+        "rune",
+        "standing stone",
+        "storm"
+      ],
+      "description": "A carved standing stone burns with a glowing orange rune above a storm-lashed sea cliff.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0626.JPG",
+      "thumb": "media/IMG_0626.JPG"
+    },
+    {
+      "id": "wpkysn0bv86plkch32ig",
+      "title": "Shieldmaiden of the North",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "viking",
+        "warrior",
+        "shieldmaiden"
+      ],
+      "description": "A fierce Viking shieldmaiden in fur and leather raises her axe, shield ready, war paint streaking her face.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 1264,
+      "h": 1568,
+      "file": "media/IMG_0759.JPG",
+      "thumb": "media/IMG_0759.JPG"
+    },
+    {
+      "id": "auuz25tv5cxdakla877p",
+      "title": "Smoke in the Night Market",
+      "style": "Cyberpunk",
+      "themes": [
+        "neon",
+        "night market",
+        "portrait"
+      ],
+      "description": "A tattooed man smokes beneath glowing signs and mushroom lanterns in a crowded neon night market.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0848.JPG",
+      "thumb": "media/IMG_0848.JPG"
+    },
+    {
+      "id": "8pt8iuh9cufzihygus1c",
+      "title": "Neon Mushroom Path",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "mushrooms",
+        "neon",
+        "forest"
+      ],
+      "description": "A winding path glows through a forest of giant neon mushrooms in violet, pink and electric blue.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1095.JPG",
+      "thumb": "media/IMG_1095.JPG"
+    },
+    {
+      "id": "a40wilguqxghkyid44cz",
+      "title": "Girl in the Bubble",
+      "style": "Cyberpunk Anime",
+      "themes": [
+        "chibi",
+        "bubble",
+        "neon"
+      ],
+      "description": "A pink-haired anime girl floats inside a shimmering bubble on a neon-drenched city street.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1252.JPG",
+      "thumb": "media/IMG_1252.JPG"
+    },
+    {
+      "id": "42s0fdym54i5k9oqrjb1",
+      "title": "The Clockwork Lady",
+      "style": "Steampunk Portrait",
+      "themes": [
+        "steampunk",
+        "portrait",
+        "gears"
+      ],
+      "description": "A red-haired woman in brass and leather finery poses among clocks and curling steam.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1801.JPG",
+      "thumb": "media/IMG_1801.JPG"
+    },
+    {
+      "id": "5yxybzpu5qmncjk5869s",
+      "title": "Queen and Panther",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "egyptian",
+        "queen",
+        "panther"
+      ],
+      "description": "An Egyptian queen in gold and fur stands beside her black panther before a giant golden eye.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0697.JPG",
+      "thumb": "media/IMG_0697.JPG"
+    },
+    {
+      "id": "mea73qif5frsg4qc2y55",
+      "title": "Storm Deck Duel",
+      "style": "Dark Fantasy",
+      "themes": [
+        "pirates",
+        "storm",
+        "battle"
+      ],
+      "description": "Pirates clash swords on a storm-tossed deck beneath a skull flag and lightning-split skies.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0663.JPG",
+      "thumb": "media/IMG_0663.JPG"
+    },
+    {
+      "id": "8omewr5wh1t00dgbmoxt",
+      "title": "The Jellyfish Room",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "jellyfish",
+        "orbs",
+        "surreal"
+      ],
+      "description": "A white-haired woman in a starry gown sits among floating jellyfish and glowing orbs in a dark gallery.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0850.JPG",
+      "thumb": "media/IMG_0850.JPG"
+    },
+    {
+      "id": "l87n8t9o169fc1kb9afp",
+      "title": "The Glowing Skull",
+      "style": "Dark Fantasy",
+      "themes": [
+        "skull",
+        "cathedral",
+        "gothic"
+      ],
+      "description": "A hooded figure gazes up at a luminous skull hovering in a ruined cathedral of stained glass.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1084.JPG",
+      "thumb": "media/IMG_1084.JPG"
+    },
+    {
+      "id": "vllrdcwslx85oniu9abt",
+      "title": "The Many-Eyed Scream",
+      "style": "Horror",
+      "themes": [
+        "horror",
+        "eyes",
+        "scream"
+      ],
+      "description": "A dark-haired figure screams as countless eyes open across her face and neck.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0347.JPG",
+      "thumb": "media/IMG_0347.JPG"
+    },
+    {
+      "id": "bjgqi7eyb5ejpu6jje0q",
+      "title": "Worn Leather",
+      "style": "Still Life",
+      "themes": [
+        "leather",
+        "belt",
+        "texture"
+      ],
+      "description": "A weathered leather belt with a steel buckle lies close-up on dusty, sun-baked ground.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 1632,
+      "h": 1216,
+      "file": "media/IMG_0182.JPG",
+      "thumb": "media/IMG_0182.JPG"
+    },
+    {
+      "id": "jhl8sckye5nes8mtkmr3",
+      "title": "Pumpkin Skull in Lava",
+      "style": "Horror",
+      "themes": [
+        "pumpkin",
+        "skull",
+        "lava"
+      ],
+      "description": "A flaming pumpkin skull with twisted branches looms over a river of molten lava.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0577.JPG",
+      "thumb": "media/IMG_0577.JPG"
+    },
+    {
+      "id": "vw849cw6chisbepfa03u",
+      "title": "Lady at the Bar",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "bar",
+        "night",
+        "portrait"
+      ],
+      "description": "A woman in a black dress stands at a candlelit bar, heels clicking on polished wood.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1919.JPG",
+      "thumb": "media/IMG_1919.JPG"
+    },
+    {
+      "id": "qls2bbxi02frdp90el1t",
+      "title": "Circuit Dreadlocks",
+      "style": "Cyberpunk Portrait",
+      "themes": [
+        "cyberpunk",
+        "dreadlocks",
+        "headphones"
+      ],
+      "description": "A woman with glowing blue circuit dreadlocks listens through headphones against a starfield.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1093,
+      "file": "media/IMG_0934.JPG",
+      "thumb": "media/IMG_0934.JPG"
+    },
+    {
+      "id": "umf5mpl6b5ymslye75ff",
+      "title": "Steel Rebellion",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "biker",
+        "vest",
+        "patch"
+      ],
+      "description": "The back of a leather vest bears the Steel Rebellion eagle patch above a bold MC rocker.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 1312,
+      "h": 1504,
+      "file": "media/IMG_0143.JPG",
+      "thumb": "media/IMG_0143.JPG"
+    },
+    {
+      "id": "d8zu6150pmlpo3c7cu19",
+      "title": "Mushroom Seat",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "mushroom",
+        "fantasy",
+        "whimsy"
+      ],
+      "description": "A girl in a floral top hat perches on a giant red-capped mushroom in a glowing forest.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0827.JPG",
+      "thumb": "media/IMG_0827.JPG"
+    },
+    {
+      "id": "qr2ioujk17aq98mtwvvo",
+      "title": "The Meditating Mushroom",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "mushroom",
+        "meditation",
+        "psychedelic"
+      ],
+      "description": "A tiny figure meditates beneath a colossal glowing mushroom in a starlit psychedelic grove.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1093.JPG",
+      "thumb": "media/IMG_1093.JPG"
+    },
+    {
+      "id": "k6bm5ldsnwbsyl9toa8z",
+      "title": "Reaper Queen Under the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "reaper",
+        "raven",
+        "blood moon"
+      ],
+      "description": "A winged reaper queen grips her scythe beneath a blood-red moon as ravens circle a graveyard.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0579.JPG",
+      "thumb": "media/IMG_0579.JPG"
+    },
+    {
+      "id": "dnqiqwgdlf1qyqusywet",
+      "title": "Skull Mountain Falls",
+      "style": "Dark Fantasy",
+      "themes": [
+        "skull",
+        "mountain",
+        "waterfall"
+      ],
+      "description": "A waterfall pours from the eye of a colossal skull mountain beneath a stormy moonlit sky.",
+      "kind": "image",
+      "createdAt": 1793948035346,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1573.JPG",
+      "thumb": "media/IMG_1573.JPG"
+    },
+    {
+      "id": "bjvn1wswxkq47y319fng",
+      "title": "Living Original III \u2014 Blonde in Candlelight",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "tattooed woman",
+        "candlelight",
+        "gothic"
+      ],
+      "description": "A blonde tattooed woman in black lace and leather sits among candles in a candlelit stone chamber.",
+      "kind": "video",
+      "createdAt": 1793948035346,
+      "w": 768,
+      "h": 1152,
+      "file": "media/Living_Original_3_Watermarked.MP4",
+      "thumb": "media/Living_Original_3_Watermarked_thumb.jpg"
+    },
+    {
+      "id": "keyrzhsfl8cavsuse54v",
+      "title": "Living Original II \u2014 Dark Hair in Candlelight",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "tattooed woman",
+        "candlelight",
+        "gothic"
+      ],
+      "description": "A dark-haired tattooed woman in black lace and leather sits among candles in a candlelit stone chamber.",
+      "kind": "video",
+      "createdAt": 1793948035346,
+      "w": 768,
+      "h": 1152,
+      "file": "media/Living_Original_2_Watermarked.MP4",
+      "thumb": "media/Living_Original_2_Watermarked_thumb.jpg"
     }
   ]
 }
