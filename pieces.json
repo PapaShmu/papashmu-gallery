@@ -2770,6 +2770,465 @@
       "h": 1920,
       "file": "media/03c900fc87bd4215a1fdd3c9651dd8c6.MOV",
       "thumb": "media/03c900fc87bd4215a1fdd3c9651dd8c6_thumb.jpg"
+    },
+    {
+      "id": "saghkwbvnrbjfhp8tcq9",
+      "title": "Crystal Galaxy Angel",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Angels",
+        "Galaxy",
+        "Cosmic"
+      ],
+      "description": "A white-haired angel with crystalline wings holds a swirling galaxy within her starlit form.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0734.JPG",
+      "thumb": "media/IMG_0734.JPG"
+    },
+    {
+      "id": "cyy68fbirffbrpve8150",
+      "title": "Rainbow Spiral Mushroom",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushrooms",
+        "Psychedelic",
+        "Rainbow"
+      ],
+      "description": "A giant rainbow-striped mushroom spirals with color beneath a starry sky dotted with glowing fungi.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1099.JPG",
+      "thumb": "media/IMG_1099.JPG"
+    },
+    {
+      "id": "dtkguic2qpha5kvy270c",
+      "title": "Werewolves of London Street",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Werewolves",
+        "Gothic",
+        "London"
+      ],
+      "description": "Three werewolves in long coats prowl a foggy moonlit London street beneath a gas lamp.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1670.JPG",
+      "thumb": "media/IMG_1670.JPG"
+    },
+    {
+      "id": "srnnpz252homgpa19t8p",
+      "title": "Reaper Queen and Raven Under the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reaper",
+        "Raven",
+        "Blood Moon"
+      ],
+      "description": "A horned reaper queen with a raven on her shoulder raises her scythe beneath a blood-red moon.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0717.JPG",
+      "thumb": "media/IMG_0717.JPG"
+    },
+    {
+      "id": "dry5kqmi71483xdt7hae",
+      "title": "Emerald Circuit Elf",
+      "style": "Cyberpunk Fantasy",
+      "themes": [
+        "Elf",
+        "Cyberpunk",
+        "Neon"
+      ],
+      "description": "A green-haired elf woman with glowing circuit patterns gazes across a neon cyberpunk city.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0722.JPG",
+      "thumb": "media/IMG_0722.JPG"
+    },
+    {
+      "id": "faa8hpjqg2y1ttzlbzko",
+      "title": "Verdant Elf Queen",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Elf",
+        "Nature",
+        "Glow"
+      ],
+      "description": "A green-skinned elf woman with glowing eyes and a flower crown stares out from the dark.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0517.JPG",
+      "thumb": "media/IMG_0517.JPG"
+    },
+    {
+      "id": "va268h4lfzdn409phip0",
+      "title": "The Golden Pumpkin Ballroom",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Halloween",
+        "Pumpkin",
+        "Ballroom"
+      ],
+      "description": "An ornate golden pumpkin opens onto a candlelit ballroom scene carved within its shell.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1583.JPG",
+      "thumb": "media/IMG_1583.JPG"
+    },
+    {
+      "id": "spmq6ch49t18pe09oc7o",
+      "title": "Samurai of the Misty Mountains",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Samurai",
+        "Mountains",
+        "Mist"
+      ],
+      "description": "A samurai woman rests with her katana on a misty mountain peak beneath a distant pagoda.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0507.JPG",
+      "thumb": "media/IMG_0507.JPG"
+    },
+    {
+      "id": "50wvs8sbv28fgtc479u9",
+      "title": "Fairy of the Flower Garden",
+      "style": "Fantasy Illustration",
+      "themes": [
+        "Fairy",
+        "Flowers",
+        "Magic"
+      ],
+      "description": "A tiny winged fairy girl reaches toward the viewer amid glowing mushrooms and flowers.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1217.JPG",
+      "thumb": "media/IMG_1217.JPG"
+    },
+    {
+      "id": "djjof853xay9ncfxa3bn",
+      "title": "Lone Werewolf of London",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Werewolf",
+        "Gothic",
+        "London"
+      ],
+      "description": "A lone werewolf in a long coat stalks a foggy London street under a full moon.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1667.JPG",
+      "thumb": "media/IMG_1667.JPG"
+    },
+    {
+      "id": "myk9zv6hwbgc2asvfan9",
+      "title": "Angel on the Graffiti Wall",
+      "style": "Urban Fantasy",
+      "themes": [
+        "Angel",
+        "City",
+        "Sunset"
+      ],
+      "description": "A winged woman sits on a graffiti-covered rooftop wall watching the sunset over the city.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 1152,
+      "h": 2048,
+      "file": "media/File_023.png",
+      "thumb": "media/File_023.png"
+    },
+    {
+      "id": "iwvwztd0w85tlv0sl9so",
+      "title": "The Bearded Biker",
+      "style": "Portrait",
+      "themes": [
+        "Biker",
+        "Portrait",
+        "Tattoo"
+      ],
+      "description": "A bearded, heavily tattooed biker in a patched vest stands with his motorcycle in an open field.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 1344,
+      "h": 1472,
+      "file": "media/IMG_0141.JPG",
+      "thumb": "media/IMG_0141.JPG"
+    },
+    {
+      "id": "9siwvqaq5n5c130snsu3",
+      "title": "Angel Archer in White",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Angel",
+        "Archer",
+        "Light"
+      ],
+      "description": "A radiant winged angel in white and gold raises her arms toward the heavens.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1468.JPG",
+      "thumb": "media/IMG_1468.JPG"
+    },
+    {
+      "id": "fagf60hny9rg9qizzsyg",
+      "title": "Violet Smoke in the Flower Field",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Flowers",
+        "Butterflies",
+        "Dreamscape"
+      ],
+      "description": "A purple-haired figure blows rainbow smoke across a wildflower meadow filled with butterflies.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0854.JPG",
+      "thumb": "media/IMG_0854.JPG"
+    },
+    {
+      "id": "ycwaurt8xyxy8hbb2cdy",
+      "title": "Warrior and the Black Panther",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Warrior",
+        "Panther",
+        "Cosmic"
+      ],
+      "description": "An armored warrior stands beside a black panther beneath a watching cosmic eye.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0768.JPG",
+      "thumb": "media/IMG_0768.JPG"
+    },
+    {
+      "id": "655f46bahrb0fhd44pny",
+      "title": "The Dark Pumpkin Ballroom",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Halloween",
+        "Pumpkin",
+        "Ballroom"
+      ],
+      "description": "A dark ornate pumpkin frames a candlelit ballroom where figures dance within its carved shell.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1574.JPG",
+      "thumb": "media/IMG_1574.JPG"
+    },
+    {
+      "id": "s57wpmlirag8i69iv6gs",
+      "title": "Chrome Android of the Ice City",
+      "style": "Sci-Fi Fantasy",
+      "themes": [
+        "Android",
+        "Ice City",
+        "Futuristic"
+      ],
+      "description": "A chrome android woman strides through a frozen futuristic city beneath hovering ships.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1935.JPG",
+      "thumb": "media/IMG_1935.JPG"
+    },
+    {
+      "id": "fp6sjzgtyiskeedcx5dw",
+      "title": "Jack-o'-Lantern in the Dark Forest",
+      "style": "Horror",
+      "themes": [
+        "Halloween",
+        "Pumpkin",
+        "Forest"
+      ],
+      "description": "A grinning jack-o'-lantern glows menacingly in a dark forest among smaller pumpkins.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0755.JPG",
+      "thumb": "media/IMG_0755.JPG"
+    },
+    {
+      "id": "jz62ctpkuavupoy3nsfz",
+      "title": "Violet Fairy in the Smoke",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Fairy",
+        "Smoke",
+        "Magic"
+      ],
+      "description": "A purple-winged fairy woman with tattoos smokes amid glittering light in a twilight garden.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0344.JPG",
+      "thumb": "media/IMG_0344.JPG"
+    },
+    {
+      "id": "n72xqrt2avan8pnajblj",
+      "title": "The Psychedelic Violinist",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Music",
+        "Violin",
+        "Psychedelic"
+      ],
+      "description": "A wild-haired violinist plays amid a swirling explosion of color, flowers, and musical notes.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/IMG_1714.JPG",
+      "thumb": "media/IMG_1714.JPG"
+    },
+    {
+      "id": "j74syy8szsd15n4kvese",
+      "title": "Marigold Skull",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Skull",
+        "Marigold",
+        "Day of the Dead"
+      ],
+      "description": "A decorated skull crowned with marigolds glows purple above a path of fallen petals.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1149.JPG",
+      "thumb": "media/IMG_1149.JPG"
+    },
+    {
+      "id": "u3zvuu9squkh0yz66w8r",
+      "title": "Fur Warrior and Wolf",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Warrior",
+        "Wolf",
+        "Winter"
+      ],
+      "description": "A fur-clad warrior with a spear stands beside her wolf beneath a stormy twilight sky.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0526.JPG",
+      "thumb": "media/IMG_0526.JPG"
+    },
+    {
+      "id": "3bk45ymmrizfciffo3ma",
+      "title": "Lady of the Moonlit Dock",
+      "style": "Gothic Fantasy",
+      "themes": [
+        "Gothic",
+        "Moon",
+        "Dock"
+      ],
+      "description": "A woman in a flowing black gown stands on a moonlit dock beside lantern-lit waters.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1569.JPG",
+      "thumb": "media/IMG_1569.JPG"
+    },
+    {
+      "id": "pgon63fevsc7shhxwcw6",
+      "title": "The Reaper in the Frame",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reaper",
+        "Gothic",
+        "Portrait"
+      ],
+      "description": "A hooded reaper with a scythe steps out of an ornate golden picture frame.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1060.JPG",
+      "thumb": "media/IMG_1060.JPG"
+    },
+    {
+      "id": "0el7rkupkwwuxcisr5xi",
+      "title": "The Crimson Clown",
+      "style": "Horror",
+      "themes": [
+        "Clown",
+        "Horror",
+        "Portrait"
+      ],
+      "description": "A pale horror clown with smeared red makeup stares out against a blood-red mountain sky.",
+      "kind": "image",
+      "createdAt": 1793934528903,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0718.JPG",
+      "thumb": "media/IMG_0718.JPG"
+    },
+    {
+      "id": "hgul4udo45nj2pmu6fs0",
+      "title": "Never Skips Training",
+      "style": "Fitness",
+      "themes": [
+        "Fitness",
+        "Training",
+        "Motivation"
+      ],
+      "description": "A blonde athlete powers through a gym workout beneath the words 'Never Skips Training'.",
+      "kind": "video",
+      "createdAt": 1793934528903,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/fc86b7ecbe8a4e69a64f08ed6dcb49eb.MOV",
+      "thumb": "media/fc86b7ecbe8a4e69a64f08ed6dcb49eb_thumb.jpg"
+    },
+    {
+      "id": "u8ukr75e0c5tv0pcnux0",
+      "title": "Crimson Muse in Candlelight",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Portrait",
+        "Tattoo",
+        "Candlelight"
+      ],
+      "description": "A red-haired tattooed woman rests among candles and roses in a moody candlelit room.",
+      "kind": "video",
+      "createdAt": 1793934528903,
+      "w": 768,
+      "h": 1152,
+      "file": "media/Living_Original_4_Watermarked.MP4",
+      "thumb": "media/Living_Original_4_Watermarked_thumb.jpg"
     }
   ]
 }
