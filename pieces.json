@@ -4147,6 +4147,465 @@
       "h": 1914,
       "file": "media/bd709dadb42d4554b3f29701e7e98b21.MOV",
       "thumb": "media/bd709dadb42d4554b3f29701e7e98b21_thumb.jpg"
+    },
+    {
+      "id": "wa1qlj8pwwg2okna22qp",
+      "title": "Ember Wolf Beneath the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "wolf",
+        "fire",
+        "blood moon"
+      ],
+      "description": "A massive wolf wreathed in living embers stalks rocky ground beneath a blood-red moon.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0327.JPG",
+      "thumb": "media/IMG_0327.JPG"
+    },
+    {
+      "id": "o5p6ugb50z42869fp3ih",
+      "title": "The Raven Keeper of the Misty Peaks",
+      "style": "Dark Fantasy",
+      "themes": [
+        "raven",
+        "hooded figure",
+        "mountains"
+      ],
+      "description": "A hooded figure crowned with skulls stands on a misty peak, a raven perched on its shoulder beneath a red moon.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0355.JPG",
+      "thumb": "media/IMG_0355.JPG"
+    },
+    {
+      "id": "uwm4x6q1s8co0zzpuhgn",
+      "title": "The Weaver of Starlight",
+      "style": "Dark Fantasy",
+      "themes": [
+        "weaving",
+        "candlelight",
+        "gothic"
+      ],
+      "description": "A blonde woman in a dark fur-trimmed robe weaves a starlit tapestry by candlelight in a gothic chamber.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0569.JPG",
+      "thumb": "media/IMG_0569.JPG"
+    },
+    {
+      "id": "suulll9tb5zwtjrfotix",
+      "title": "Crimson Close-Up",
+      "style": "Photorealistic",
+      "themes": [
+        "portrait",
+        "lips",
+        "close-up"
+      ],
+      "description": "An extreme close-up of glossy dark lips in deep shadow.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1407.JPG",
+      "thumb": "media/IMG_1407.JPG"
+    },
+    {
+      "id": "g34k60r03xcge144b8yt",
+      "title": "Market of the Hanging Skull",
+      "style": "Dark Fantasy",
+      "themes": [
+        "market",
+        "skull",
+        "sunset"
+      ],
+      "description": "A tattooed man walks a crowded sunset market beneath a giant skull hung with bones and chains.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1083.JPG",
+      "thumb": "media/IMG_1083.JPG"
+    },
+    {
+      "id": "lnxiiewprq624ogitw7o",
+      "title": "Violet Hour at the Bar",
+      "style": "Photorealistic",
+      "themes": [
+        "bar",
+        "nightlife",
+        "portrait"
+      ],
+      "description": "A woman in a dark purple dress stands at a neon-lit bar as the night begins.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1920.JPG",
+      "thumb": "media/IMG_1920.JPG"
+    },
+    {
+      "id": "04s3jn3jzazar3uerivt",
+      "title": "Rain on the Window",
+      "style": "Photorealistic",
+      "themes": [
+        "rain",
+        "city",
+        "portrait"
+      ],
+      "description": "A young man with blue eyes gazes through a rain-streaked window at the city lights.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 1056,
+      "h": 1872,
+      "file": "media/IMG_1526.JPG",
+      "thumb": "media/IMG_1526.JPG"
+    },
+    {
+      "id": "6x47uxf559utq1o9lf7o",
+      "title": "Braids and Neon",
+      "style": "Photorealistic",
+      "themes": [
+        "bar",
+        "tattoo",
+        "portrait"
+      ],
+      "description": "A blonde woman with braided hair and tattooed arms looks over her shoulder in a neon bar.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1915.JPG",
+      "thumb": "media/IMG_1915.JPG"
+    },
+    {
+      "id": "4nr8ncag6i0k9hcpulii",
+      "title": "The Golden Pumpkin Village",
+      "style": "Fantasy",
+      "themes": [
+        "pumpkin",
+        "bats",
+        "village"
+      ],
+      "description": "An ornate golden pumpkin holds a glowing moonlit village within it as bats and crows circle.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 1920,
+      "h": 1280,
+      "file": "media/papa_shmu_pumpkin_bats_crows.PNG",
+      "thumb": "media/papa_shmu_pumpkin_bats_crows.PNG"
+    },
+    {
+      "id": "iucmfwz8axjb3mez28sp",
+      "title": "The Torchlit King",
+      "style": "Dark Fantasy",
+      "themes": [
+        "warrior",
+        "sword",
+        "torches"
+      ],
+      "description": "A bearded warrior king grips his sword before a stone monument as torches burn on either side.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0664.JPG",
+      "thumb": "media/IMG_0664.JPG"
+    },
+    {
+      "id": "dd673kptr29pkkboh4dz",
+      "title": "The Rainbow Pipe Gnome",
+      "style": "Fantasy",
+      "themes": [
+        "gnome",
+        "mushroom",
+        "rainbow"
+      ],
+      "description": "A gnome in a rainbow hat smokes a pipe on a giant mushroom, rainbow smoke curling through an autumn forest.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0829.JPG",
+      "thumb": "media/IMG_0829.JPG"
+    },
+    {
+      "id": "90ufae1t9xmaets0astd",
+      "title": "The Burning Rose and the Golden Heart",
+      "style": "Dark Fantasy",
+      "themes": [
+        "rose",
+        "heart",
+        "storm"
+      ],
+      "description": "A burning red rose blooms above a golden anatomical heart in a lightning-torn storm sky.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1820.JPG",
+      "thumb": "media/IMG_1820.JPG"
+    },
+    {
+      "id": "z7ayk8mtgyqcemcxvf03",
+      "title": "The Eye That Holds a Stairway",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "eye",
+        "tunnel",
+        "eclipse"
+      ],
+      "description": "A giant eye opens onto a dark stairway descending toward a glowing ring of light.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0330.JPG",
+      "thumb": "media/IMG_0330.JPG"
+    },
+    {
+      "id": "bne2as005em2d6oq8wq8",
+      "title": "Mushroom Eye of the Cosmos",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "eye",
+        "mushrooms",
+        "cosmic"
+      ],
+      "description": "A serene woman's face rests beneath a giant cosmic eye ringed with red mushrooms and fireworks.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0605.JPG",
+      "thumb": "media/IMG_0605.JPG"
+    },
+    {
+      "id": "1unoepkanbz8bzh26nw4",
+      "title": "The Shattered Cosmic Mask",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "mask",
+        "galaxy",
+        "lightning"
+      ],
+      "description": "A cracked stone mask with a swirling galaxy for an eye looms over a ruined landscape split by lightning.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0747.JPG",
+      "thumb": "media/IMG_0747.JPG"
+    },
+    {
+      "id": "2ea9cnna17es46g2ccxi",
+      "title": "The Mushroom Throne",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "throne",
+        "mushrooms",
+        "galaxy"
+      ],
+      "description": "A dark enthroned figure raises a staff among giant glowing mushrooms beneath a galaxy sky.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0653.JPG",
+      "thumb": "media/IMG_0653.JPG"
+    },
+    {
+      "id": "0e9wrkswxtmqefyoxe7n",
+      "title": "The Horned Mask-Bearer",
+      "style": "Dark Fantasy",
+      "themes": [
+        "demon",
+        "mask",
+        "red light"
+      ],
+      "description": "A horned demon woman in a white shirt and tie holds a black mask in blood-red light.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1273.JPG",
+      "thumb": "media/IMG_1273.JPG"
+    },
+    {
+      "id": "mp0lwbx2ad16z0rogkdv",
+      "title": "The Emerald Vine Sorceress",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "sorceress",
+        "vines",
+        "green magic"
+      ],
+      "description": "A green-haired sorceress wreathed in glowing emerald vines gazes into the dark.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9732.JPG",
+      "thumb": "media/IMG_9732.JPG"
+    },
+    {
+      "id": "q2awncjwtrstop6kc65h",
+      "title": "The Pumpkin Knight of Autumn",
+      "style": "Dark Fantasy",
+      "themes": [
+        "pumpkin",
+        "warrior",
+        "autumn"
+      ],
+      "description": "A pumpkin-headed warrior in dark armor stands with twin swords in a falling-leaf forest.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0593.JPG",
+      "thumb": "media/IMG_0593.JPG"
+    },
+    {
+      "id": "wypqnien41llv99cz2mb",
+      "title": "The Green Flame Conjurer",
+      "style": "Dark Fantasy",
+      "themes": [
+        "magic",
+        "fire",
+        "sorcerer"
+      ],
+      "description": "A long-haired sorcerer conjures a ball of green flame in his palm in a dark forest.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0346.JPG",
+      "thumb": "media/IMG_0346.JPG"
+    },
+    {
+      "id": "46crvz8hljhxyk7m4x9w",
+      "title": "The Cracked Porcelain Queen",
+      "style": "Gothic Portrait",
+      "themes": [
+        "gothic",
+        "portrait",
+        "autumn"
+      ],
+      "description": "A pale gothic woman with cracked dark makeup and a red jewel necklace stands among red autumn leaves.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1264.JPG",
+      "thumb": "media/IMG_1264.JPG"
+    },
+    {
+      "id": "v6x7465o9qscq63qsxoj",
+      "title": "The Stormlit Pier",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "pier",
+        "storm",
+        "sunset"
+      ],
+      "description": "A weathered wooden pier stretches into a stormy sea as god rays break through the clouds at sunset.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1891.JPG",
+      "thumb": "media/IMG_1891.JPG"
+    },
+    {
+      "id": "x6yjgb2jeauw5qnzlsak",
+      "title": "Lace and Neon",
+      "style": "Photorealistic",
+      "themes": [
+        "gown",
+        "bar",
+        "nightlife"
+      ],
+      "description": "A woman in a black lace gown and flower crown stands in a neon-lit bar.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1913.JPG",
+      "thumb": "media/IMG_1913.JPG"
+    },
+    {
+      "id": "0up85t22ckrycvzqx5p6",
+      "title": "The Inferno Jack-o'-Lantern",
+      "style": "Dark Fantasy",
+      "themes": [
+        "pumpkin",
+        "fire",
+        "Halloween"
+      ],
+      "description": "A grinning jack-o'-lantern blazes, wreathed in fire and smoke against the dark.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0736.JPG",
+      "thumb": "media/IMG_0736.JPG"
+    },
+    {
+      "id": "ih99ox1sw5174t5f690c",
+      "title": "The Pale Watcher at Bloodtide",
+      "style": "Dark Fantasy",
+      "themes": [
+        "cliff",
+        "sunset",
+        "crows"
+      ],
+      "description": "A pale long-haired figure in dark robes stands on a cliff above a blood-red sea as crows fly at sunset.",
+      "kind": "image",
+      "createdAt": 1793977120486,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0671.JPG",
+      "thumb": "media/IMG_0671.JPG"
+    },
+    {
+      "id": "pslv0fnjo897v8zgninc",
+      "title": "The Gilded Pumpkin Ballroom",
+      "style": "Dark Fantasy",
+      "themes": [
+        "ballroom",
+        "pumpkin",
+        "gothic"
+      ],
+      "description": "Dancers swirl beneath chandeliers inside a gilded pumpkin ballroom.",
+      "kind": "video",
+      "createdAt": 1793977120486,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/0cca635bf7ac42da8413b9d432d0b540.MOV",
+      "thumb": "media/0cca635bf7ac42da8413b9d432d0b540_thumb.jpg"
+    },
+    {
+      "id": "kb76zvyfojgzor7zbiv9",
+      "title": "The Haunted Moonlit Path",
+      "style": "Dark Fantasy",
+      "themes": [
+        "forest",
+        "moon",
+        "skull"
+      ],
+      "description": "A lantern-lit path winds through a haunted forest beneath a full moon, under a skull-carved arch.",
+      "kind": "video",
+      "createdAt": 1793977120486,
+      "w": 768,
+      "h": 1152,
+      "file": "media/Papa_Shmu_Gothic_Collection_MASTER_FINAL.MP4",
+      "thumb": "media/Papa_Shmu_Gothic_Collection_MASTER_FINAL_thumb.jpg"
     }
   ]
 }
