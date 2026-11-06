@@ -4606,6 +4606,464 @@
       "h": 1152,
       "file": "media/Papa_Shmu_Gothic_Collection_MASTER_FINAL.MP4",
       "thumb": "media/Papa_Shmu_Gothic_Collection_MASTER_FINAL_thumb.jpg"
+    },
+    {
+      "id": "5nvfp3ulyiqualeq4rmr",
+      "title": "Pumpkin Coven Around the Campfire",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Halloween",
+        "Pumpkins",
+        "Forest"
+      ],
+      "description": "Pumpkin-headed creatures gather around a crackling campfire in a moonlit haunted forest.",
+      "kind": "image",
+      "createdAt": 1793992037790,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0581.JPG",
+      "thumb": "media/IMG_0581.JPG"
+    },
+    {
+      "id": "ebldi2f04w8ppdw5s0wz",
+      "title": "Reaper Queen of the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reaper",
+        "Raven",
+        "Blood Moon"
+      ],
+      "description": "A horned, winged reaper queen with a bloody scythe stands beside a raven under a blood-red moon.",
+      "kind": "image",
+      "createdAt": 1793992037791,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0728.JPG",
+      "thumb": "media/IMG_0728.JPG"
+    },
+    {
+      "id": "566vlqgna7tgdz2y62sa",
+      "title": "The Reaper's Crystal Orb",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reaper",
+        "Magic",
+        "Moon"
+      ],
+      "description": "A hooded skeletal reaper cradles a glowing crystal orb beneath a stormy sunset sky.",
+      "kind": "image",
+      "createdAt": 1793992037792,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1572.JPG",
+      "thumb": "media/IMG_1572.JPG"
+    },
+    {
+      "id": "x22n1ty03ecrosb8pttn",
+      "title": "Psychedelic DJ in Full Spin",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Music",
+        "DJ",
+        "Color"
+      ],
+      "description": "A joyful red-curled DJ with headphones works the decks amid swirling psychedelic patterns and musical notes.",
+      "kind": "image",
+      "createdAt": 1793992037793,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/IMG_1715.JPG",
+      "thumb": "media/IMG_1715.JPG"
+    },
+    {
+      "id": "03wz8zmalugq3tf67zzz",
+      "title": "Victorian Gothic in Red and Black",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Gothic",
+        "Victorian",
+        "Portrait"
+      ],
+      "description": "A pale gothic woman in an ornate red-and-black Victorian gown stands in a dark carved hall.",
+      "kind": "image",
+      "createdAt": 1793992037794,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1266.JPG",
+      "thumb": "media/IMG_1266.JPG"
+    },
+    {
+      "id": "1tg6n1k6sb6kz0o0m0p3",
+      "title": "Neon Elf on Yellow",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Elf",
+        "Neon",
+        "Portrait"
+      ],
+      "description": "A neon-green elf face with dripping paint and purple lips glows against a vivid yellow background.",
+      "kind": "image",
+      "createdAt": 1793992037795,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0652.JPG",
+      "thumb": "media/IMG_0652.JPG"
+    },
+    {
+      "id": "97zciapspl23zxul7n6d",
+      "title": "Clown Woman Under the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Clown",
+        "Horror",
+        "Blood Moon"
+      ],
+      "description": "A sorrowful clown woman with long red hair and a red nose stands under a blood moon.",
+      "kind": "image",
+      "createdAt": 1793992037796,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0582.JPG",
+      "thumb": "media/IMG_0582.JPG"
+    },
+    {
+      "id": "niwczpfinxgzhtvegas8",
+      "title": "Blue Rose Under a Stormy Sky",
+      "style": "Fantasy Still Life",
+      "themes": [
+        "Rose",
+        "Storm",
+        "Castle"
+      ],
+      "description": "A single blue rose blooms on a stone ledge beneath storm clouds and a distant castle at sunset.",
+      "kind": "image",
+      "createdAt": 1793992037797,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1817.JPG",
+      "thumb": "media/IMG_1817.JPG"
+    },
+    {
+      "id": "bc2ayqwyp4jiq3pby25y",
+      "title": "Candlelit Redhead",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Portrait",
+        "Red Hair"
+      ],
+      "description": "A close portrait of a red-curled woman in black lace, lit warmly against a dark background.",
+      "kind": "image",
+      "createdAt": 1793992037798,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1758.JPG",
+      "thumb": "media/IMG_1758.JPG"
+    },
+    {
+      "id": "s27rvpbm96v7mc5vd0mm",
+      "title": "Reaper Queen and Her Raven",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reaper",
+        "Raven",
+        "Gothic"
+      ],
+      "description": "A horned reaper queen in black feathers holds her scythe beside a giant raven in a gothic city.",
+      "kind": "image",
+      "createdAt": 1793992037799,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0629.JPG",
+      "thumb": "media/IMG_0629.JPG"
+    },
+    {
+      "id": "racx79zkg6qddkc80ch7",
+      "title": "Tea Time in the Mushroom Grove",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Alien",
+        "Mushrooms",
+        "Tea"
+      ],
+      "description": "A dapper alien in a patterned top hat sips tea among glowing mushrooms and drifting ghosts.",
+      "kind": "image",
+      "createdAt": 1793992037800,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0767.JPG",
+      "thumb": "media/IMG_0767.JPG"
+    },
+    {
+      "id": "y50fp57he6ba3o01rh2a",
+      "title": "Country Girl in the Wheelbarrow",
+      "style": "Country Fantasy",
+      "themes": [
+        "Country",
+        "Farm",
+        "Sunset"
+      ],
+      "description": "A country girl relaxes in a wheelbarrow with a chicken and a beer in a wildflower field by a barn at sunset.",
+      "kind": "image",
+      "createdAt": 1793992037801,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0568.JPG",
+      "thumb": "media/IMG_0568.JPG"
+    },
+    {
+      "id": "oe9reog66kczrx64tkvl",
+      "title": "Path Through the Skull",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Skull",
+        "Forest",
+        "Moon"
+      ],
+      "description": "A lantern-lit forest path winds through a giant stone skull whose eye sockets frame the full moon.",
+      "kind": "image",
+      "createdAt": 1793992037802,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1576.JPG",
+      "thumb": "media/IMG_1576.JPG"
+    },
+    {
+      "id": "vby09ns2eiaohc4wyri4",
+      "title": "Neon Witch of the Flower Field",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Witch",
+        "Neon",
+        "Flowers"
+      ],
+      "description": "A young witch in a glowing starry hat stands in a flower field under a neon pink and purple sunset.",
+      "kind": "image",
+      "createdAt": 1793992037803,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0572.JPG",
+      "thumb": "media/IMG_0572.JPG"
+    },
+    {
+      "id": "iyz91l8hhhzrpscoiw01",
+      "title": "Pumpkin-Head Gentleman of the Graveyard",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Halloween",
+        "Graveyard",
+        "Lantern"
+      ],
+      "description": "A pumpkin-headed gentleman in a long coat carries a lantern through a foggy graveyard at night.",
+      "kind": "image",
+      "createdAt": 1793992037804,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0578.JPG",
+      "thumb": "media/IMG_0578.JPG"
+    },
+    {
+      "id": "mafziq3u0gfgzpk8cm7a",
+      "title": "Pumpkin-Head Knight Before the Castle",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Knight",
+        "Halloween",
+        "Castle"
+      ],
+      "description": "An armored pumpkin-headed knight with a sword stands in a pumpkin patch before a dark castle.",
+      "kind": "image",
+      "createdAt": 1793992037805,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0696.JPG",
+      "thumb": "media/IMG_0696.JPG"
+    },
+    {
+      "id": "n6vfwf8jxegocl8exo8b",
+      "title": "Horned Demon Queen Ascendant",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demon",
+        "Portrait",
+        "Fire"
+      ],
+      "description": "A horned demon queen in black lace and a jeweled necklace gazes upward against a fiery red backdrop.",
+      "kind": "image",
+      "createdAt": 1793992037806,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1283.JPG",
+      "thumb": "media/IMG_1283.JPG"
+    },
+    {
+      "id": "g4x1zqvf9kk4l6r8b309",
+      "title": "Cloaked Figure in the Gothic City",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Gothic",
+        "City",
+        "Mystery"
+      ],
+      "description": "A long-haired cloaked figure stands in a dark gothic city street lined with skulls and ravens.",
+      "kind": "image",
+      "createdAt": 1793992037807,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0587.JPG",
+      "thumb": "media/IMG_0587.JPG"
+    },
+    {
+      "id": "8r2i8s7ccwof23yit0lg",
+      "title": "Neon Skull Over the City Street",
+      "style": "Cyberpunk Fantasy",
+      "themes": [
+        "Skull",
+        "City",
+        "Neon"
+      ],
+      "description": "A woman walks a rain-slick neon street beneath a giant glowing holographic skull.",
+      "kind": "image",
+      "createdAt": 1793992037808,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1076.JPG",
+      "thumb": "media/IMG_1076.JPG"
+    },
+    {
+      "id": "i828hunkyxexw4j77gfd",
+      "title": "Meditation of the Many-Armed Goddess",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Meditation",
+        "Cosmic",
+        "Mushrooms"
+      ],
+      "description": "A many-armed alien goddess meditates amid galaxies, sacred geometry, and glowing mushrooms.",
+      "kind": "image",
+      "createdAt": 1793992037809,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0843.JPG",
+      "thumb": "media/IMG_0843.JPG"
+    },
+    {
+      "id": "h9wti5x56g6kuhwv2lbj",
+      "title": "Sorceress of the Waves",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Ocean",
+        "Sorceress",
+        "Water"
+      ],
+      "description": "A blue-haired water sorceress in a shimmering gown rises from crashing ocean waves.",
+      "kind": "image",
+      "createdAt": 1793992037810,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9721.JPG",
+      "thumb": "media/IMG_9721.JPG"
+    },
+    {
+      "id": "wbh4jr7pxf642rbp0zap",
+      "title": "Fur Warrior of the Burning Village",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Warrior",
+        "Fire",
+        "Battle"
+      ],
+      "description": "A fur-clad warrior with a spear strides through a burning village wreathed in blue flame.",
+      "kind": "image",
+      "createdAt": 1793992037811,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0642.JPG",
+      "thumb": "media/IMG_0642.JPG"
+    },
+    {
+      "id": "ah62jvpjvpsraryg2hpo",
+      "title": "Ice Queen on Her Throne",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Ice Queen",
+        "Throne",
+        "Winter"
+      ],
+      "description": "A crowned ice queen in a black gown stands before her frozen throne in a misty winter realm.",
+      "kind": "image",
+      "createdAt": 1793992037812,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1858.JPG",
+      "thumb": "media/IMG_1858.JPG"
+    },
+    {
+      "id": "egvn3hrdt227pkn7q7g7",
+      "title": "Ink in the Greenhouse",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Tattoo",
+        "Greenhouse",
+        "Portrait"
+      ],
+      "description": "A silver-haired tattooed woman looks back over her shoulder in a lush greenhouse.",
+      "kind": "image",
+      "createdAt": 1793992037813,
+      "w": 1456,
+      "h": 1360,
+      "file": "media/IMG_0119.JPG",
+      "thumb": "media/IMG_0119.JPG"
+    },
+    {
+      "id": "by6qz64ekbepevpufv37",
+      "title": "Chrome Woman in the Lab",
+      "style": "Sci-Fi Fantasy",
+      "themes": [
+        "Robot",
+        "Chrome",
+        "Lab"
+      ],
+      "description": "A woman in a full chrome robotic suit stands in a futuristic laboratory.",
+      "kind": "image",
+      "createdAt": 1793992037814,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1934.JPG",
+      "thumb": "media/IMG_1934.JPG"
+    },
+    {
+      "id": "hhzbf5e6r6x5ipy1ruox",
+      "title": "Sunset Over the Lake",
+      "style": "Nature Reel",
+      "themes": [
+        "Sunset",
+        "Lake",
+        "Calm"
+      ],
+      "description": "A branded reel of a vivid pink and purple sunset reflected over a calm lake with ducks.",
+      "kind": "video",
+      "createdAt": 1793992037815,
+      "w": 720,
+      "h": 1280,
+      "file": "media/papa_shmu_sunset_20sec_branded_v3.MP4",
+      "thumb": "media/papa_shmu_sunset_20sec_branded_v3_thumb.jpg"
+    },
+    {
+      "id": "0pmp0n7mtoy38qlev9ar",
+      "title": "Maple-Leaf Village Under the Moon",
+      "style": "Fantasy Reel",
+      "themes": [
+        "Maple",
+        "Village",
+        "Moon"
+      ],
+      "description": "A glowing village nestled inside a fiery maple leaf tree beneath a full moon.",
+      "kind": "video",
+      "createdAt": 1793992037816,
+      "w": 448,
+      "h": 672,
+      "file": "media/_users_12f02388-24cf-4f3c-83a4-bc4e3b04b70c_generated_704e121e-1486-45f9-9266-417254341e8c_generated_video.MP4",
+      "thumb": "media/_users_12f02388-24cf-4f3c-83a4-bc4e3b04b70c_generated_704e121e-1486-45f9-9266-417254341e8c_generated_video_thumb.jpg"
     }
   ]
 }
