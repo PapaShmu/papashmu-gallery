@@ -383,7 +383,7 @@
       "themes": [
         "Horror"
       ],
-      "description": "A wall of screaming, anguished faces twists together in darkness — a chorus of the damned.",
+      "description": "A wall of screaming, anguished faces twists together in darkness \u2014 a chorus of the damned.",
       "kind": "image",
       "createdAt": 1793848186578,
       "w": 784,
@@ -3657,7 +3657,7 @@
     },
     {
       "id": "bjvn1wswxkq47y319fng",
-      "title": "Living Original III — Blonde in Candlelight",
+      "title": "Living Original III \u2014 Blonde in Candlelight",
       "style": "Fantasy Portrait",
       "themes": [
         "tattooed woman",
@@ -3674,7 +3674,7 @@
     },
     {
       "id": "keyrzhsfl8cavsuse54v",
-      "title": "Living Original II — Dark Hair in Candlelight",
+      "title": "Living Original II \u2014 Dark Hair in Candlelight",
       "style": "Fantasy Portrait",
       "themes": [
         "tattooed woman",
@@ -4116,7 +4116,7 @@
     },
     {
       "id": "zzpelccyi4n762y0cer1",
-      "title": "Living Original I — Dark Red Streaks in Candlelight",
+      "title": "Living Original I \u2014 Dark Red Streaks in Candlelight",
       "style": "Fantasy Portrait",
       "themes": [
         "tattooed woman",
@@ -6852,7 +6852,7 @@
     },
     {
       "id": "zalhugbmhlbkprrhualk",
-      "title": "That Papa Shmu Sure Is Dreamy — In Motion",
+      "title": "That Papa Shmu Sure Is Dreamy \u2014 In Motion",
       "style": "Fantasy Reel",
       "themes": [
         "Pop Art",
@@ -7818,6 +7818,438 @@
       "h": 1022,
       "file": "media/export_1793109305357.MOV",
       "thumb": "media/export_1793109305357_thumb.jpg"
+    },
+    {
+      "id": "l5134a0qn2v2lbkof837",
+      "title": "Golden Hour on the Fence Line",
+      "style": "Country Portrait",
+      "themes": [
+        "Country",
+        "Sunset"
+      ],
+      "description": "A blonde country girl in denim shorts and cowboy boots sits on a split-rail fence at sunset with a beer in hand, a white chicken in the wildflowers and a red barn behind her.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0764.JPG",
+      "thumb": "media/IMG_0764.JPG"
+    },
+    {
+      "id": "9owlt48tgf19igojizy4",
+      "title": "Wheelbarrow Break at the Barn",
+      "style": "Country Portrait",
+      "themes": [
+        "Country",
+        "Humor"
+      ],
+      "description": "A blonde country girl in sunglasses and cowboy boots relaxes in a rusty wheelbarrow outside a weathered barn, holding a beer and cradling a white chicken.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0313.JPG",
+      "thumb": "media/IMG_0313.JPG"
+    },
+    {
+      "id": "5t2xwiuwmizj4ycl1bcv",
+      "title": "The Captain's Iron Hook",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Pirates",
+        "Seascape"
+      ],
+      "description": "A weathered pirate's hand grips an iron hook in extreme close-up on the deck of a ship, storm clouds and rough seas behind.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1207.JPG",
+      "thumb": "media/IMG_1207.JPG"
+    },
+    {
+      "id": "vu0m71vtao8k0tylwmka",
+      "title": "The Cigar-Smoking Trickster",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Portrait",
+        "Psychedelic"
+      ],
+      "description": "A wrinkled, pointy-eared old trickster in a rainbow knit cap smokes a cigar, his iridescent eyes glowing against a purple psychedelic backdrop.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0832.JPG",
+      "thumb": "media/IMG_0832.JPG"
+    },
+    {
+      "id": "zc1uwbhd722ww0b6zexw",
+      "title": "Silence of the White Clown",
+      "style": "Horror Portrait",
+      "themes": [
+        "Clowns",
+        "Horror"
+      ],
+      "description": "A white-haired clown with dripping black-and-red makeup presses a blood-streaked finger to her lips inside a dark gallery.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0634.JPG",
+      "thumb": "media/IMG_0634.JPG"
+    },
+    {
+      "id": "oxl0s050wqt90k0brwir",
+      "title": "The Mushroom Cosmos Awakens",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushrooms",
+        "Cosmic"
+      ],
+      "description": "A translucent cosmic being with a glowing third eye rises among giant luminous mushrooms beneath a swirling purple nebula.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0841.JPG",
+      "thumb": "media/IMG_0841.JPG"
+    },
+    {
+      "id": "hyy8qzgh3vuhuwze4t0k",
+      "title": "Heart of the Storm Suit",
+      "style": "Sci-Fi Fantasy",
+      "themes": [
+        "Superhero",
+        "Armor"
+      ],
+      "description": "A dark-haired heroine in black-and-gold powered armor with a glowing chest core stands amid crackling golden lightning.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9713.JPG",
+      "thumb": "media/IMG_9713.JPG"
+    },
+    {
+      "id": "bjykkj28z7bt8fogu74w",
+      "title": "Steel Star Against Concrete",
+      "style": "Abstract",
+      "themes": [
+        "Sculpture",
+        "Metal"
+      ],
+      "description": "A sharp angular stainless-steel star sculpture casts hard shadows against a raw concrete wall.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1728,
+      "h": 1152,
+      "file": "media/IMG_1433.JPG",
+      "thumb": "media/IMG_1433.JPG"
+    },
+    {
+      "id": "f2t56b4t22svv2a4v8tt",
+      "title": "Hand-Painting the Tank",
+      "style": "Biker Portrait",
+      "themes": [
+        "Motorcycles",
+        "Craft"
+      ],
+      "description": "A woman in a bandana leans in concentration as she hand-paints ornate artwork onto a weathered motorcycle fuel tank.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1344,
+      "h": 1472,
+      "file": "media/IMG_0134.JPG",
+      "thumb": "media/IMG_0134.JPG"
+    },
+    {
+      "id": "ox1lneicfukryuw7f2c8",
+      "title": "Rooftop Angel Over the City",
+      "style": "Urban Fantasy",
+      "themes": [
+        "Angels",
+        "City"
+      ],
+      "description": "A young man with vast white angel wings sits on a graffiti-covered rooftop ledge, gazing over a city skyline at sunset.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1152,
+      "h": 2048,
+      "file": "media/File_025.png",
+      "thumb": "media/File_025.png"
+    },
+    {
+      "id": "k9llfuoc3iy5ltvk24bq",
+      "title": "Sunflower Psychedelia",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Portraits",
+        "Flowers"
+      ],
+      "description": "A woman's face and shoulders bloom with intricate psychedelic face paint and sunflowers against swirling rainbow colors.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0676.JPG",
+      "thumb": "media/IMG_0676.JPG"
+    },
+    {
+      "id": "fcbifgcp6c2w89zvl9c2",
+      "title": "Fairy Lights and Floral Ink",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Tattoos",
+        "Portrait"
+      ],
+      "description": "A short-haired, blue-eyed woman with floral arm tattoos rests on white bedding in dim light, warm fairy-light bokeh glowing around her.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1750.JPG",
+      "thumb": "media/IMG_1750.JPG"
+    },
+    {
+      "id": "h1p3axbjqg7k6g5g830b",
+      "title": "Shield of the Red Sentinel",
+      "style": "Sci-Fi Fantasy",
+      "themes": [
+        "Superhero",
+        "Armor"
+      ],
+      "description": "A resolute heroine in red and silver powered armor raises a swirling energy shield against a smoky backdrop.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9717.JPG",
+      "thumb": "media/IMG_9717.JPG"
+    },
+    {
+      "id": "xqxebhvi40oo1jaf4ib9",
+      "title": "The Elf Boy and His Bunny",
+      "style": "Storybook Fantasy",
+      "themes": [
+        "Children",
+        "Mushrooms"
+      ],
+      "description": "A small elf boy with a lantern sits beside a flower-crowned bunny atop a giant glowing mushroom in a sunlit forest.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1093,
+      "file": "media/IMG_0974.JPG",
+      "thumb": "media/IMG_0974.JPG"
+    },
+    {
+      "id": "cpil8sem9job1dkg6i4e",
+      "title": "Scythe Queen Under the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demons",
+        "Horror"
+      ],
+      "description": "A horned demon queen in black lace holds an ornate scythe beneath a blood-red moon, crows circling a distant dark castle.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1282.JPG",
+      "thumb": "media/IMG_1282.JPG"
+    },
+    {
+      "id": "t29wbjuz1brd8lqm40m8",
+      "title": "Dripping Neon Mycelium",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushrooms",
+        "Abstract"
+      ],
+      "description": "A colossal neon mushroom drips electric pink and cyan tendrils beneath a watching cosmic eye.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1098.JPG",
+      "thumb": "media/IMG_1098.JPG"
+    },
+    {
+      "id": "ra2qizsqhzbbplxd28xl",
+      "title": "Veins of the Demoness",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demons",
+        "Portrait"
+      ],
+      "description": "A horned demoness with red eyes and black vein-like markings across her face stares out from black lace and ember-red shadows.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1278.JPG",
+      "thumb": "media/IMG_1278.JPG"
+    },
+    {
+      "id": "n7023hdblunhbl5f9jll",
+      "title": "The Skull Merchant's Market",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Markets",
+        "Skulls"
+      ],
+      "description": "A curly-haired woman stands in a lantern-lit night market beside a glowing carved skull and bowls of colorful spices.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1082.JPG",
+      "thumb": "media/IMG_1082.JPG"
+    },
+    {
+      "id": "aogdny47aokud1sc9whm",
+      "title": "Rider Under the Purple Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Bikers",
+        "Night"
+      ],
+      "description": "A hooded biker rides a marigold-lined canyon road beneath a purple full moon, a black skull banner flying behind him.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1148.JPG",
+      "thumb": "media/IMG_1148.JPG"
+    },
+    {
+      "id": "0l2mhq016mmbfkw8fjqs",
+      "title": "Grin of the Burning Pumpkin",
+      "style": "Horror",
+      "themes": [
+        "Halloween",
+        "Pumpkins"
+      ],
+      "description": "A giant jack-o'-lantern carved with a skeletal skull face glares with fiery eyes and a mouth full of flames.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0746.JPG",
+      "thumb": "media/IMG_0746.JPG"
+    },
+    {
+      "id": "16d1giqhcfph4jclu10n",
+      "title": "Eyes on the Horizon",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Portrait",
+        "Sky"
+      ],
+      "description": "A blonde woman in a medieval gown gazes upward in profile against a dramatic sunset sky above the clouds.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1453.JPG",
+      "thumb": "media/IMG_1453.JPG"
+    },
+    {
+      "id": "b6ly5xaqvy0rv3b94f8f",
+      "title": "Joy on the Decks",
+      "style": "Pop Surrealism",
+      "themes": [
+        "Music",
+        "DJ"
+      ],
+      "description": "A laughing DJ with pink curls, glasses and headphones works the mixing decks amid explosive splashes of paint and musical notes.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/IMG_1702.JPG",
+      "thumb": "media/IMG_1702.JPG"
+    },
+    {
+      "id": "v9pbufbw2m03gscwnw9j",
+      "title": "Velocity in Blue",
+      "style": "Sci-Fi Fantasy",
+      "themes": [
+        "Superhero",
+        "Speed"
+      ],
+      "description": "A blond speedster in a blue and silver suit charges forward wrapped in streaks of electric-blue energy.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9720.JPG",
+      "thumb": "media/IMG_9720.JPG"
+    },
+    {
+      "id": "ok5h0dgkkratapah960e",
+      "title": "Ink and Acoustic Strings",
+      "style": "Country Portrait",
+      "themes": [
+        "Music",
+        "Tattoos"
+      ],
+      "description": "A worn acoustic guitar rests beside a tattooed arm inked with a sun, stars and a compass rose.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 1664,
+      "h": 1184,
+      "file": "media/IMG_0171.JPG",
+      "thumb": "media/IMG_0171.JPG"
+    },
+    {
+      "id": "h1jmvnndmxqrm9blu4ux",
+      "title": "Raven Queen of the Lantern Street",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Gothic",
+        "Crows"
+      ],
+      "description": "A red-haired queen in a black feather cloak and dark crown walks a wet, lantern-lit street as crows gather around her.",
+      "kind": "image",
+      "createdAt": 1794092226607,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0317.JPG",
+      "thumb": "media/IMG_0317.JPG"
+    },
+    {
+      "id": "1wgwln91toqfa3klcdvf",
+      "title": "Purple Fairy in the Glitter Light",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Fairies",
+        "Sparkle"
+      ],
+      "description": "A tattooed fairy woman with iridescent purple wings and a glittering top sways amid sparkling purple light.",
+      "kind": "video",
+      "createdAt": 1794092226607,
+      "w": 720,
+      "h": 1280,
+      "file": "media/export_1793109260453.MOV",
+      "thumb": "media/export_1793109260453_thumb.jpg"
+    },
+    {
+      "id": "oy93bpkit0zeljanok4g",
+      "title": "Warrior Queens in Roses and Lace",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Queens",
+        "Montage"
+      ],
+      "description": "A dark fantasy montage of warrior queens, framed by a veiled gothic queen crowned with deep red roses.",
+      "kind": "video",
+      "createdAt": 1794092226607,
+      "w": 720,
+      "h": 1280,
+      "file": "media/export_1793109278224.MOV",
+      "thumb": "media/export_1793109278224_thumb.jpg"
     }
   ]
 }
