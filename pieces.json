@@ -7359,6 +7359,465 @@
       "h": 1168,
       "file": "media/Frozen_Rose.jpg",
       "thumb": "media/Frozen_Rose.jpg"
+    },
+    {
+      "id": "611xkmrdxeibkcog8pk1",
+      "title": "Sorceress in Violet Smoke",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Sorceress",
+        "Smoke",
+        "Magic"
+      ],
+      "description": "A dark sorceress wreathed in violet smoke and black lace turns through swirling purple mist.",
+      "kind": "image",
+      "createdAt": 1794078059674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9730.JPG",
+      "thumb": "media/IMG_9730.JPG"
+    },
+    {
+      "id": "1i48zn0uthr7tnjj2skg",
+      "title": "By the Rainy Window at Night",
+      "style": "Cinematic Portrait",
+      "themes": [
+        "Love",
+        "Rain",
+        "Night"
+      ],
+      "description": "A young couple sit close together at a rain-streaked window, gazing out at the city night.",
+      "kind": "image",
+      "createdAt": 1794078060674,
+      "w": 1056,
+      "h": 1872,
+      "file": "media/IMG_1523.JPG",
+      "thumb": "media/IMG_1523.JPG"
+    },
+    {
+      "id": "37x5scuu50s2z7kcsery",
+      "title": "The Girl Next Door, Animated",
+      "style": "Animation Portrait",
+      "themes": [
+        "Cartoon",
+        "Blonde",
+        "Cheerful"
+      ],
+      "description": "A bright-eyed animated blonde in a black blouse and green skirt smiles in a sunlit hallway.",
+      "kind": "image",
+      "createdAt": 1794078061674,
+      "w": 1296,
+      "h": 1520,
+      "file": "media/IMG_1437.JPG",
+      "thumb": "media/IMG_1437.JPG"
+    },
+    {
+      "id": "bcd5adivv3w33os8oejy",
+      "title": "Angel on the Cliff of Clouds",
+      "style": "Fantasy",
+      "themes": [
+        "Angel",
+        "Wings",
+        "Sky"
+      ],
+      "description": "A kneeling angel with vast white wings bows her head on a rocky cliff above the clouds.",
+      "kind": "image",
+      "createdAt": 1794078062674,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1467.JPG",
+      "thumb": "media/IMG_1467.JPG"
+    },
+    {
+      "id": "k1fki5ezvhvomhs3b1tn",
+      "title": "Kneeling Above the Clouds",
+      "style": "Fantasy",
+      "themes": [
+        "Angel",
+        "Sunset",
+        "Mountains"
+      ],
+      "description": "An angel in a white gown kneels on a mountain peak above a sea of clouds at golden hour.",
+      "kind": "image",
+      "createdAt": 1794078063674,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1445.JPG",
+      "thumb": "media/IMG_1445.JPG"
+    },
+    {
+      "id": "rc57khziaepmouie17a7",
+      "title": "The Kneeling Assassin",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Warrior",
+        "Armor",
+        "Blade"
+      ],
+      "description": "A masked assassin in black spiked armor kneels in shallow water, blade in hand.",
+      "kind": "image",
+      "createdAt": 1794078064674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0542.JPG",
+      "thumb": "media/IMG_0542.JPG"
+    },
+    {
+      "id": "bp7jfmy27wjuekd5whke",
+      "title": "Purple Rose Under a Full Moon",
+      "style": "Fantasy Still Life",
+      "themes": [
+        "Rose",
+        "Moon",
+        "Night"
+      ],
+      "description": "A single purple rose blooms beneath a glowing full moon in a starry indigo sky.",
+      "kind": "image",
+      "createdAt": 1794078065674,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1818.JPG",
+      "thumb": "media/IMG_1818.JPG"
+    },
+    {
+      "id": "870m6xmatyckm9yvf25h",
+      "title": "Shipwreck in the Marsh at Dusk",
+      "style": "Landscape",
+      "themes": [
+        "Shipwreck",
+        "Sunset",
+        "Marsh"
+      ],
+      "description": "Broken boats and a ruined dock rot in a marsh beneath a storm-lit sunset sky.",
+      "kind": "image",
+      "createdAt": 1794078066674,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1890.JPG",
+      "thumb": "media/IMG_1890.JPG"
+    },
+    {
+      "id": "7wgqkfnyjdej8oe6ghje",
+      "title": "The Raven King",
+      "style": "Norse Fantasy",
+      "themes": [
+        "King",
+        "Ravens",
+        "Wolves"
+      ],
+      "description": "A white-bearded king in fur and armor stands with ravens on his shoulders and wolves at his feet, spear in hand.",
+      "kind": "image",
+      "createdAt": 1794078067674,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1861.JPG",
+      "thumb": "media/IMG_1861.JPG"
+    },
+    {
+      "id": "xd06q73ihryzkehbum8r",
+      "title": "Engraved Steel",
+      "style": "Photoreal Detail",
+      "themes": [
+        "Motorcycle",
+        "Engraving",
+        "Close-Up"
+      ],
+      "description": "A close-up of a weathered teal motorcycle tank covered in hand-engraved floral scrollwork.",
+      "kind": "image",
+      "createdAt": 1794078068674,
+      "w": 1376,
+      "h": 1440,
+      "file": "media/IMG_0137.JPG",
+      "thumb": "media/IMG_0137.JPG"
+    },
+    {
+      "id": "7hn6ss9ci1g6qhpclrs2",
+      "title": "Demoness in Red Lace",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demon",
+        "Lace",
+        "Horns"
+      ],
+      "description": "A horned demoness in red and black lace stares out from a smoky crimson darkness.",
+      "kind": "image",
+      "createdAt": 1794078069674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1279.JPG",
+      "thumb": "media/IMG_1279.JPG"
+    },
+    {
+      "id": "amudniazuy14dqk7pouq",
+      "title": "Profile in the Rain Light",
+      "style": "Cinematic Portrait",
+      "themes": [
+        "Rain",
+        "Window",
+        "Melancholy"
+      ],
+      "description": "A blonde woman in profile gazes through a rainy window at blurred blue city lights.",
+      "kind": "image",
+      "createdAt": 1794078070674,
+      "w": 1056,
+      "h": 1872,
+      "file": "media/IMG_1528.JPG",
+      "thumb": "media/IMG_1528.JPG"
+    },
+    {
+      "id": "muwr0jcv9lt443qr5jhh",
+      "title": "Gathering the Autumn Herbs",
+      "style": "Fantasy",
+      "themes": [
+        "Witch",
+        "Forest",
+        "Autumn"
+      ],
+      "description": "A witch in a tall hat kneels in an autumn forest, gathering herbs and flowers into her basket.",
+      "kind": "image",
+      "createdAt": 1794078071674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1655.JPG",
+      "thumb": "media/IMG_1655.JPG"
+    },
+    {
+      "id": "h8on2kddcy5w4b2njpse",
+      "title": "Tailgate at Sundown",
+      "style": "Western",
+      "themes": [
+        "Cowboys",
+        "Truck",
+        "Barn"
+      ],
+      "description": "Two cowboys share drinks and food on a pickup tailgate in front of a barn at sundown.",
+      "kind": "image",
+      "createdAt": 1794078072674,
+      "w": 1744,
+      "h": 1136,
+      "file": "media/IMG_0174.JPG",
+      "thumb": "media/IMG_0174.JPG"
+    },
+    {
+      "id": "dvoukwa07iib7ob8qqq2",
+      "title": "Looking Up in White and Gold",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Gown",
+        "Sky",
+        "Light"
+      ],
+      "description": "A blonde woman in an embroidered white gown lifts her face to a rose-gold sky.",
+      "kind": "image",
+      "createdAt": 1794078073674,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1447.JPG",
+      "thumb": "media/IMG_1447.JPG"
+    },
+    {
+      "id": "kw6hzfp5rwq3uz6xoeml",
+      "title": "The Many-Eyed God of the Sands",
+      "style": "Surreal Fantasy",
+      "themes": [
+        "Stone Face",
+        "Eyes",
+        "Pyramids"
+      ],
+      "description": "A colossal cracked stone face covered in watching eyes rises over pyramids and ruined columns.",
+      "kind": "image",
+      "createdAt": 1794078074674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0307.JPG",
+      "thumb": "media/IMG_0307.JPG"
+    },
+    {
+      "id": "y90y27q60ae2my19n2i2",
+      "title": "She Came From the Mycelium Stars",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Alien",
+        "Mushroom",
+        "Cosmos"
+      ],
+      "description": "A mushroom-capped alien woman drifts through a purple cosmic nebula of planets and smoke.",
+      "kind": "image",
+      "createdAt": 1794078075674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0851.JPG",
+      "thumb": "media/IMG_0851.JPG"
+    },
+    {
+      "id": "8g6sazs9clvoujfv7dyr",
+      "title": "The Raven Cloak",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Ravens",
+        "Feathers",
+        "Gallery"
+      ],
+      "description": "A pale crowned figure in a black feather cloak stands among ravens in a candlelit dark gallery.",
+      "kind": "image",
+      "createdAt": 1794078076674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0550.JPG",
+      "thumb": "media/IMG_0550.JPG"
+    },
+    {
+      "id": "ep1ldzg8dmi3z6arvs88",
+      "title": "Rainbow Mushrooms Over the Path",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushrooms",
+        "Rainbow",
+        "Forest"
+      ],
+      "description": "Giant glowing rainbow mushrooms tower over a tiny figure on a forest path.",
+      "kind": "image",
+      "createdAt": 1794078077674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1089.JPG",
+      "thumb": "media/IMG_1089.JPG"
+    },
+    {
+      "id": "1mt8u7a5sih229jbk70h",
+      "title": "The Drowned Man Reaches Up",
+      "style": "Dark Surrealism",
+      "themes": [
+        "Underwater",
+        "Drowning",
+        "Light"
+      ],
+      "description": "A drowned figure in tattered clothes reaches up through deep blue water toward the surface light.",
+      "kind": "image",
+      "createdAt": 1794078078674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0665.JPG",
+      "thumb": "media/IMG_0665.JPG"
+    },
+    {
+      "id": "nmp7m4vtpiqmrwjfbb2e",
+      "title": "Third Eye in Rainbow Flame",
+      "style": "Psychedelic Portrait",
+      "themes": [
+        "Third Eye",
+        "Flame",
+        "Meditation"
+      ],
+      "description": "A serene man's head erupts in rainbow flame around a glowing third eye.",
+      "kind": "image",
+      "createdAt": 1794078079674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0573.JPG",
+      "thumb": "media/IMG_0573.JPG"
+    },
+    {
+      "id": "k4d1hl4uhunfhstj26dq",
+      "title": "Hands That Know the Rope",
+      "style": "Western Detail",
+      "themes": [
+        "Cowboy",
+        "Rope",
+        "Close-Up"
+      ],
+      "description": "A close-up of a cowboy's weathered hand resting on a coiled rope at his belt.",
+      "kind": "image",
+      "createdAt": 1794078080674,
+      "w": 1136,
+      "h": 1744,
+      "file": "media/IMG_0179.JPG",
+      "thumb": "media/IMG_0179.JPG"
+    },
+    {
+      "id": "vb4t7xm20uvkcdqhpv23",
+      "title": "Cracked Porcelain",
+      "style": "Horror Portrait",
+      "themes": [
+        "Cracked",
+        "Face",
+        "Darkness"
+      ],
+      "description": "A woman's cracked, mud-streaked face with one pale eye emerges from darkness.",
+      "kind": "image",
+      "createdAt": 1794078081674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0554.JPG",
+      "thumb": "media/IMG_0554.JPG"
+    },
+    {
+      "id": "q33uvy6dhui7lwrziuhi",
+      "title": "The Clown in the Red Forest",
+      "style": "Horror",
+      "themes": [
+        "Clown",
+        "Forest",
+        "Dread"
+      ],
+      "description": "A gaunt clown with streaked makeup and a red nose stands in a crimson-lit forest.",
+      "kind": "image",
+      "createdAt": 1794078082674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0343.JPG",
+      "thumb": "media/IMG_0343.JPG"
+    },
+    {
+      "id": "630nfc29xwohkowijnw9",
+      "title": "The Herbarium Gnome",
+      "style": "Whimsical Fantasy",
+      "themes": [
+        "Gnome",
+        "Herbs",
+        "Mushrooms"
+      ],
+      "description": "A bearded gnome with a staff and rainbow smoke walks a forest path lined with cannabis leaves and mushrooms.",
+      "kind": "image",
+      "createdAt": 1794078083674,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0834.JPG",
+      "thumb": "media/IMG_0834.JPG"
+    },
+    {
+      "id": "io92guhlzz9oz0il7rh6",
+      "title": "The Mycelium Cat",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Cat",
+        "Mushrooms",
+        "Monochrome"
+      ],
+      "description": "A monochrome cat woven from mycelium and mushrooms stares out with luminous eyes.",
+      "kind": "video",
+      "createdAt": 1794078084674,
+      "w": 720,
+      "h": 1280,
+      "file": "media/export_1793109302274.MOV",
+      "thumb": "media/export_1793109302274_thumb.jpg"
+    },
+    {
+      "id": "6bozo4wzss7xklwnxim1",
+      "title": "Pirates in the Storm",
+      "style": "Cinematic Montage",
+      "themes": [
+        "Pirates",
+        "Storm",
+        "Sea"
+      ],
+      "description": "A desperate pirate reaches from storm-tossed waves as his ship founders behind him.",
+      "kind": "video",
+      "createdAt": 1794078085674,
+      "w": 576,
+      "h": 1022,
+      "file": "media/export_1793109305357.MOV",
+      "thumb": "media/export_1793109305357_thumb.jpg"
     }
   ]
 }
