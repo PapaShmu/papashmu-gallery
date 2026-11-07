@@ -6883,6 +6883,465 @@
    "h": 1280,
    "file": "media/export_1793109283639.MOV",
    "thumb": "media/export_1793109283639_thumb.jpg"
+  },
+  {
+   "id": "hdfdy6s1ypaed3z61uf4",
+   "title": "The Clock of the Dead Castle",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Clock",
+    "Castle",
+    "Graveyard"
+   ],
+   "description": "An ornate clock face opens onto a gothic castle rising over a raven-haunted graveyard.",
+   "kind": "image",
+   "createdAt": 1794063373359,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_1578.JPG",
+   "thumb": "media/IMG_1578.JPG"
+  },
+  {
+   "id": "nqg1x85h4gvjvtlet9xq",
+   "title": "Sorceress of the Violet Smoke",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Sorceress",
+    "Violet",
+    "Smoke"
+   ],
+   "description": "A dark-haired elf sorceress in a violet gown dissolves into swirling purple smoke.",
+   "kind": "image",
+   "createdAt": 1794063373360,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_9729.JPG",
+   "thumb": "media/IMG_9729.JPG"
+  },
+  {
+   "id": "kod09mg3hqo4hx7hu9nm",
+   "title": "Hands on the Saddle",
+   "style": "Western Still Life",
+   "themes": [
+    "Horse",
+    "Saddle",
+    "Close-Up"
+   ],
+   "description": "A gloved cowboy's hands rest on a worn leather saddle in warm close-up.",
+   "kind": "image",
+   "createdAt": 1794063373361,
+   "w": 1664,
+   "h": 1184,
+   "file": "media/IMG_0177.JPG",
+   "thumb": "media/IMG_0177.JPG"
+  },
+  {
+   "id": "botgf459me4taq9c4k9z",
+   "title": "Angel Above the Mountain Clouds",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Angel",
+    "Mountains",
+    "Sunset"
+   ],
+   "description": "A blonde angel in a white gown kneels on a mountaintop above sunset clouds.",
+   "kind": "image",
+   "createdAt": 1794063373362,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_1462.JPG",
+   "thumb": "media/IMG_1462.JPG"
+  },
+  {
+   "id": "6odgryxut85qd0u09uxb",
+   "title": "The Bleeding Clown",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Clown",
+    "Horror",
+    "Portrait"
+   ],
+   "description": "A long-haired clown with cracked white paint and a bloody grin stares from a red-lit wood.",
+   "kind": "image",
+   "createdAt": 1794063373363,
+   "w": 784,
+   "h": 1098,
+   "file": "media/IMG_0859.JPG",
+   "thumb": "media/IMG_0859.JPG"
+  },
+  {
+   "id": "g46e4ygtigg7y1825gta",
+   "title": "Treasure of the Drowned Pirate",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Pirate",
+    "Treasure",
+    "Underwater"
+   ],
+   "description": "A bearded pirate clutches a spilling treasure chest on the dark ocean floor.",
+   "kind": "image",
+   "createdAt": 1794063373364,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_0609.JPG",
+   "thumb": "media/IMG_0609.JPG"
+  },
+  {
+   "id": "0e7vmfe2hrz1uhzxrk0e",
+   "title": "Shhh, in the Gallery",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Clown",
+    "Gallery",
+    "Secret"
+   ],
+   "description": "A short-haired clown woman presses a black-streaked finger to her red lips in a dim gallery.",
+   "kind": "image",
+   "createdAt": 1794063373365,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_0737.JPG",
+   "thumb": "media/IMG_0737.JPG"
+  },
+  {
+   "id": "6hwz1wrf23gyor6xcgwd",
+   "title": "Woman in Crimson Circuit Armor",
+   "style": "Sci-Fi Portrait",
+   "themes": [
+    "Armor",
+    "Crimson",
+    "Warrior"
+   ],
+   "description": "A dark-haired warrior stands in black armor traced with glowing crimson circuits.",
+   "kind": "image",
+   "createdAt": 1794063373366,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_9727.JPG",
+   "thumb": "media/IMG_9727.JPG"
+  },
+  {
+   "id": "8vbn0yo5xdzijlimx619",
+   "title": "Wild Hearts at the Barn",
+   "style": "Country Fantasy",
+   "themes": [
+    "Country",
+    "Barn",
+    "Chicken"
+   ],
+   "description": "A blonde country girl with a beer sits on a hay bale beside her chicken at a red barn at sunset.",
+   "kind": "image",
+   "createdAt": 1794063373367,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_0544.JPG",
+   "thumb": "media/IMG_0544.JPG"
+  },
+  {
+   "id": "2j2jvmkp5gyhweoaq9xb",
+   "title": "Shieldmaiden's Stare",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Viking",
+    "Shieldmaiden",
+    "Axe"
+   ],
+   "description": "A braided Viking shieldmaiden with war paint grips her axe and shield in a fierce close portrait.",
+   "kind": "image",
+   "createdAt": 1794063373368,
+   "w": 1264,
+   "h": 1568,
+   "file": "media/IMG_0751.JPG",
+   "thumb": "media/IMG_0751.JPG"
+  },
+  {
+   "id": "hceba4qfolus120tab6p",
+   "title": "Pumpkin Reaper in the Flames",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Pumpkin",
+    "Reaper",
+    "Fire"
+   ],
+   "description": "An armored pumpkin-headed reaper holds a scythe amid flames beneath a blood moon.",
+   "kind": "image",
+   "createdAt": 1794063373369,
+   "w": 784,
+   "h": 1093,
+   "file": "media/IMG_0922.JPG",
+   "thumb": "media/IMG_0922.JPG"
+  },
+  {
+   "id": "99iln4vmdv39uwsdocz5",
+   "title": "Through the Rainbow Mushroom Wood",
+   "style": "Psychedelic Surrealism",
+   "themes": [
+    "Mushrooms",
+    "Forest",
+    "Rainbow"
+   ],
+   "description": "A lone silhouette walks a glowing tunnel of rainbow mushrooms in a neon forest.",
+   "kind": "image",
+   "createdAt": 1794063373370,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_1091.JPG",
+   "thumb": "media/IMG_1091.JPG"
+  },
+  {
+   "id": "gquu5hfxfbvmdw48fh97",
+   "title": "The Star-Made Man",
+   "style": "Psychedelic Surrealism",
+   "themes": [
+    "Cosmic",
+    "Profile",
+    "Planets"
+   ],
+   "description": "A man's profile formed of blue and orange starlight drifts among glowing planets.",
+   "kind": "image",
+   "createdAt": 1794063373371,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_0522.JPG",
+   "thumb": "media/IMG_0522.JPG"
+  },
+  {
+   "id": "rptjoqowbjbjpjiodgtq",
+   "title": "Neon Oracle",
+   "style": "Psychedelic Surrealism",
+   "themes": [
+    "Neon",
+    "Portrait",
+    "Energy"
+   ],
+   "description": "A white-haired woman with glowing pink eyes channels violet and blue neon energy.",
+   "kind": "image",
+   "createdAt": 1794063373372,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_0321.JPG",
+   "thumb": "media/IMG_0321.JPG"
+  },
+  {
+   "id": "u97bvg0qkdw5kjzoyms0",
+   "title": "Singing in Living Color",
+   "style": "Psychedelic Surrealism",
+   "themes": [
+    "Singer",
+    "Microphone",
+    "Color"
+   ],
+   "description": "A blue-and-pink-haired singer belts into a vintage microphone amid splashes of color and music notes.",
+   "kind": "image",
+   "createdAt": 1794063373373,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/IMG_1712.JPG",
+   "thumb": "media/IMG_1712.JPG"
+  },
+  {
+   "id": "vv54qyimvn7bzzt88g2y",
+   "title": "The Autumn Eye Watches",
+   "style": "Psychedelic Surrealism",
+   "themes": [
+    "Eye",
+    "Autumn",
+    "Ghosts"
+   ],
+   "description": "A giant eye in an autumn wood watches two ghostly figures reflected over a spiral galaxy pool.",
+   "kind": "image",
+   "createdAt": 1794063373374,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_0353.JPG",
+   "thumb": "media/IMG_0353.JPG"
+  },
+  {
+   "id": "o9zuke3zn9tp3gr89ags",
+   "title": "Fairy Queen on the Black Horse",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Fairy",
+    "Queen",
+    "Horse"
+   ],
+   "description": "A winged fairy queen in a flowing gown rides a black horse through a sunlit forest.",
+   "kind": "image",
+   "createdAt": 1794063373375,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_0364.JPG",
+   "thumb": "media/IMG_0364.JPG"
+  },
+  {
+   "id": "d0d6rg4tihnkmcs63gvr",
+   "title": "Rooftop Angel in Denim",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Angel",
+    "Rooftop",
+    "City"
+   ],
+   "description": "A young angel with glowing wings in a denim jacket stands on a rooftop over a city at sunset.",
+   "kind": "image",
+   "createdAt": 1794063373376,
+   "w": 1152,
+   "h": 2048,
+   "file": "media/File_027.png",
+   "thumb": "media/File_027.png"
+  },
+  {
+   "id": "bk3qex0zf2vvg5bpufqi",
+   "title": "The Skull Keeper",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Skull",
+    "Market",
+    "Pale"
+   ],
+   "description": "A pale white-haired woman rests her hand on a skull at a sunset market stall.",
+   "kind": "image",
+   "createdAt": 1794063373377,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_1073.JPG",
+   "thumb": "media/IMG_1073.JPG"
+  },
+  {
+   "id": "vnelny04ziwjywwr8ei3",
+   "title": "The Wizard and His Ghost Army",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Wizard",
+    "Ghosts",
+    "Canyon"
+   ],
+   "description": "A white-bearded wizard in a canyon is flanked by a rising army of golden ghosts.",
+   "kind": "image",
+   "createdAt": 1794063373378,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_1150.JPG",
+   "thumb": "media/IMG_1150.JPG"
+  },
+  {
+   "id": "uefauf0fi6zs587wz40n",
+   "title": "Piano in Splashed Color",
+   "style": "Psychedelic Surrealism",
+   "themes": [
+    "Piano",
+    "Music",
+    "Color"
+   ],
+   "description": "An orange-haired woman with glasses plays piano inside a swirl of paint, stars and musical notes.",
+   "kind": "image",
+   "createdAt": 1794063373379,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/IMG_1708.JPG",
+   "thumb": "media/IMG_1708.JPG"
+  },
+  {
+   "id": "7wq11dycxrj00imujnkp",
+   "title": "Angel in Prayer on the Cliff",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Angel",
+    "Prayer",
+    "Cliff"
+   ],
+   "description": "A blonde angel in a white gown kneels with bowed head on a cliff above the clouds.",
+   "kind": "image",
+   "createdAt": 1794063373380,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_1444.JPG",
+   "thumb": "media/IMG_1444.JPG"
+  },
+  {
+   "id": "wdlmv7t623o4qhwcjvvx",
+   "title": "Daughter of the Forest",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Elf",
+    "Forest",
+    "Vines"
+   ],
+   "description": "A young forest elf with hair of leaves and vines gazes out from the misty woods.",
+   "kind": "image",
+   "createdAt": 1794063373381,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_1799.JPG",
+   "thumb": "media/IMG_1799.JPG"
+  },
+  {
+   "id": "4hgtcnd2u2jbuzkh4ik3",
+   "title": "Marigold Skull Serpent",
+   "style": "Psychedelic Surrealism",
+   "themes": [
+    "Skull",
+    "Marigolds",
+    "Serpent"
+   ],
+   "description": "A horned skull spirit with glowing purple eyes coils through marigolds in violet cosmic fire.",
+   "kind": "image",
+   "createdAt": 1794063373382,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_1139.JPG",
+   "thumb": "media/IMG_1139.JPG"
+  },
+  {
+   "id": "hg275bf02o4l7vvilfp4",
+   "title": "Vampire Under the Full Moon",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Vampire",
+    "Graveyard",
+    "Moon"
+   ],
+   "description": "A pale vampire in a black coat stands among gravestones beneath a full moon.",
+   "kind": "image",
+   "createdAt": 1794063373383,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_1656.JPG",
+   "thumb": "media/IMG_1656.JPG"
+  },
+  {
+   "id": "ln2fqpmn5kupzdbraw4s",
+   "title": "Sunflowers in Neon Swirls",
+   "style": "Fantasy Reel",
+   "themes": [
+    "Psychedelic",
+    "Portraits",
+    "Sunflowers"
+   ],
+   "description": "A psychedelic reel of neon portrait art, opening on a sunflower-crowned woman painted in swirling rainbow color.",
+   "kind": "video",
+   "createdAt": 1794063373384,
+   "w": 576,
+   "h": 1022,
+   "file": "media/export_1793109311544.MOV",
+   "thumb": "media/export_1793109311544_thumb.jpg"
+  },
+  {
+   "id": "9wqypl4niiqgqkimq10c",
+   "title": "Dark Angel Collage Poem",
+   "style": "Fantasy Reel",
+   "themes": [
+    "Angel",
+    "Dark",
+    "Poem"
+   ],
+   "description": "A dark angel collage poem edit, layering a black-winged angel over handwritten verses and storm clouds.",
+   "kind": "video",
+   "createdAt": 1794063373385,
+   "w": 720,
+   "h": 1280,
+   "file": "media/export_1793109263890.MOV",
+   "thumb": "media/export_1793109263890_thumb.jpg"
   }
  ]
 }
