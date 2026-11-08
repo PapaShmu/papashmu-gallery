@@ -9114,6 +9114,438 @@
       "h": 916,
       "file": "media/export_1793109350192.mov",
       "thumb": "media/export_1793109350192_thumb.jpg"
+    },
+    {
+      "id": "cxdzylgiuhudcyob7jcl",
+      "title": "The Beast's Claw",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Beasts",
+        "Forest"
+      ],
+      "description": "A colossal furred claw with long curved talons presses into the mud of a misty, shadowed forest.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1208.JPG",
+      "thumb": "media/IMG_1208.JPG"
+    },
+    {
+      "id": "98cuc9jptf05pwcc76zy",
+      "title": "The Mushroom Scream",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushrooms",
+        "Cosmic"
+      ],
+      "description": "A screaming cosmic face swirls with purple galaxies, bubbles and glowing orange mushrooms.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0844.JPG",
+      "thumb": "media/IMG_0844.JPG"
+    },
+    {
+      "id": "xex846eqaxumln1rzxuz",
+      "title": "Botanical Ink",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Tattoos",
+        "Portraits"
+      ],
+      "description": "A white-dreadlocked woman with botanical tattoos covering both arms gazes calmly into the light.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1756.JPG",
+      "thumb": "media/IMG_1756.JPG"
+    },
+    {
+      "id": "i9w3ls6mum1h27smojlk",
+      "title": "The Golden Boar at Moonrise",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Warriors",
+        "Moonlight"
+      ],
+      "description": "A cloaked, bearded warrior stands beside a glowing golden boar in a moonlit mountain village.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0362.JPG",
+      "thumb": "media/IMG_0362.JPG"
+    },
+    {
+      "id": "4cj4b5uy9h4v0gdfyk4l",
+      "title": "Torch of the Island Warrior",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Warriors",
+        "Ocean"
+      ],
+      "description": "A tattooed island warrior woman stands in sunset shallows holding a tall flaming torch.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0610.JPG",
+      "thumb": "media/IMG_0610.JPG"
+    },
+    {
+      "id": "4vxpqvoyjlryq69p4d4k",
+      "title": "The Rose in Her Hair",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Horror",
+        "Roses"
+      ],
+      "description": "A pale, dreadlocked woman in black wears a deep red rose in her hair, her face marked by grief and shadow.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0314.JPG",
+      "thumb": "media/IMG_0314.JPG"
+    },
+    {
+      "id": "fp9c9u56dbosfd6bchtv",
+      "title": "Shh \u2014 The Hallway Clown",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Clowns",
+        "Horror"
+      ],
+      "description": "A purple-haired clown with smeared white makeup presses a finger to her red nose in a checkered gothic hallway.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0305.JPG",
+      "thumb": "media/IMG_0305.JPG"
+    },
+    {
+      "id": "8nri5knu6a5dvfv4y38q",
+      "title": "Rider Under the Purple Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Bikers",
+        "Moonlight"
+      ],
+      "description": "A leather-clad rider sits on his motorcycle beneath a tattered skull flag, a purple moon and falling sparks behind him.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1144.JPG",
+      "thumb": "media/IMG_1144.JPG"
+    },
+    {
+      "id": "j2ogyg760793ic390vww",
+      "title": "The Rainbow Gnome",
+      "style": "Psychedelic Fantasy",
+      "themes": [
+        "Gnomes",
+        "Mushrooms"
+      ],
+      "description": "A white-bearded gnome wizard in a tall silver hat stands among giant mushrooms trailing rainbow smoke.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0853.JPG",
+      "thumb": "media/IMG_0853.JPG"
+    },
+    {
+      "id": "s2wexx4dhx0idzhqns6g",
+      "title": "The Eye That Holds the Cosmos",
+      "style": "Surreal Portrait",
+      "themes": [
+        "Eyes",
+        "Cosmic"
+      ],
+      "description": "A vast eye spirals inward to a galaxy of planets, stars and a tiny staircase descending into darkness.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0739.JPG",
+      "thumb": "media/IMG_0739.JPG"
+    },
+    {
+      "id": "fxicgvbx14u48r5idbvc",
+      "title": "Three Riders at the Diner",
+      "style": "Biker Portrait",
+      "themes": [
+        "Bikers",
+        "Americana"
+      ],
+      "description": "Three tattooed women stand between two choppers outside a weathered roadside diner.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 1376,
+      "h": 1440,
+      "file": "media/IMG_0139.JPG",
+      "thumb": "media/IMG_0139.JPG"
+    },
+    {
+      "id": "lch2apsfzoo4mvmc1n3g",
+      "title": "Neon City Profile",
+      "style": "Cyberpunk Portrait",
+      "themes": [
+        "Cyberpunk",
+        "Neon"
+      ],
+      "description": "A woman in a glowing neon visor and headphones is silhouetted in profile against a violet cyberpunk city.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0753.JPG",
+      "thumb": "media/IMG_0753.JPG"
+    },
+    {
+      "id": "f82soi9qw74zrwpt7ij0",
+      "title": "The Lake Inside the Eye",
+      "style": "Surreal Portrait",
+      "themes": [
+        "Eyes",
+        "Autumn"
+      ],
+      "description": "A giant blue eye framed by autumn leaves looks out over a lake where a couple stands at sunset.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0299.JPG",
+      "thumb": "media/IMG_0299.JPG"
+    },
+    {
+      "id": "758tv1x6c8k16dhr1yf9",
+      "title": "The Village in the Maple Leaf",
+      "style": "Fantasy Illustration",
+      "themes": [
+        "Autumn",
+        "Moonlight"
+      ],
+      "description": "A glowing village with lit windows is built inside a giant red maple leaf beneath a full moon.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1584.JPG",
+      "thumb": "media/IMG_1584.JPG"
+    },
+    {
+      "id": "hk4ec2h7k75tl6pbh5eu",
+      "title": "Natural Gloss",
+      "style": "Surreal Portrait",
+      "themes": [
+        "Lips",
+        "Close-Up"
+      ],
+      "description": "An extreme close-up of glossy, naturally toned lips and smooth skin in soft light.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1409.JPG",
+      "thumb": "media/IMG_1409.JPG"
+    },
+    {
+      "id": "lfazskg1o3art4jkvg7d",
+      "title": "The Blue-Veined Hand",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Creatures",
+        "Bioluminescence"
+      ],
+      "description": "A dark, biomechanical clawed hand pulses with bright blue veins and glowing fingertips in the blackness.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1216.JPG",
+      "thumb": "media/IMG_1216.JPG"
+    },
+    {
+      "id": "i6s8n7rx0fap09n2vxrt",
+      "title": "Angel at the Cliff's Edge",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Angels",
+        "Sunset"
+      ],
+      "description": "A white-winged angel in a flowing gown kneels in prayer on a rocky cliff beneath a golden sky.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1449.JPG",
+      "thumb": "media/IMG_1449.JPG"
+    },
+    {
+      "id": "m83mk1buyseis6uw8mer",
+      "title": "The Galaxy Elf",
+      "style": "Psychedelic Portrait",
+      "themes": [
+        "Elves",
+        "Neon"
+      ],
+      "description": "A serene elf woman's face and curling hair dissolve into purple and blue galaxy light.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0656.JPG",
+      "thumb": "media/IMG_0656.JPG"
+    },
+    {
+      "id": "eixdyq7x6xumg34y6ixf",
+      "title": "The Storm Seer",
+      "style": "Psychedelic Fantasy",
+      "themes": [
+        "Sorcerers",
+        "Cosmic"
+      ],
+      "description": "A bearded seer with a glowing third eye channels blue and gold lightning above a cosmic mountain valley.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0650.JPG",
+      "thumb": "media/IMG_0650.JPG"
+    },
+    {
+      "id": "pozxq8h2otgqico54cjl",
+      "title": "Smoke Among the Mushrooms",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Elves",
+        "Mushrooms"
+      ],
+      "description": "A silver-haired elf woman in a flower crown smokes quietly in a dark forest of glowing blue mushrooms.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0846.JPG",
+      "thumb": "media/IMG_0846.JPG"
+    },
+    {
+      "id": "gfm2r7czeh69ei2zxwie",
+      "title": "The Pirate's Leap",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Pirates",
+        "Ocean"
+      ],
+      "description": "A pirate woman swings on a rope between two ships on a stormy sea, cutlass raised, a skull flag flying behind her.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0703.JPG",
+      "thumb": "media/IMG_0703.JPG"
+    },
+    {
+      "id": "gp6qa17nmq43bfwpp4w3",
+      "title": "Queen of the Candlelit Throne",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Queens",
+        "Gothic"
+      ],
+      "description": "A dark queen in a black gown and crown sits on a stone throne surrounded by dozens of lit candles.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0695.JPG",
+      "thumb": "media/IMG_0695.JPG"
+    },
+    {
+      "id": "xmxke96flbu7ggyi7qac",
+      "title": "Pumpkin Reapers Under the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Halloween",
+        "Blood Moon"
+      ],
+      "description": "Grinning pumpkin-headed scarecrows carrying lanterns and a scythe advance through a burning city under a blood moon.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0597.JPG",
+      "thumb": "media/IMG_0597.JPG"
+    },
+    {
+      "id": "g19dk5wzohl1wj2d01yx",
+      "title": "The Glowing Mushroom Reef",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushrooms",
+        "Underwater"
+      ],
+      "description": "Tall pink and violet mushrooms glow like a coral reef in a deep blue, bubble-filled underwater world.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1094.JPG",
+      "thumb": "media/IMG_1094.JPG"
+    },
+    {
+      "id": "2malxy3d2wynaitno039",
+      "title": "The Horned Woman in Red Leaves",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demons",
+        "Portraits"
+      ],
+      "description": "A horned woman in black lace and an ornate choker stares out from a thicket of deep red leaves.",
+      "kind": "image",
+      "createdAt": 1794135195666,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1270.JPG",
+      "thumb": "media/IMG_1270.JPG"
+    },
+    {
+      "id": "7xjyq0ruoi2274bfd116",
+      "title": "Odin and His Ravens",
+      "style": "Norse Fantasy Montage",
+      "themes": [
+        "Norse",
+        "Ravens"
+      ],
+      "description": "A Norse montage of a one-eyed, raven-flanked Odin figure and ravens gathered on a mossy branch in a misty forest.",
+      "kind": "video",
+      "createdAt": 1794135195666,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/b57ef71aef2b4c69b5c47a265f67ef5c.MOV",
+      "thumb": "media/b57ef71aef2b4c69b5c47a265f67ef5c_thumb.jpg"
+    },
+    {
+      "id": "khxhtlzcof3vn7qwgorv",
+      "title": "Sunset Over the Harbor Town",
+      "style": "Romantic Montage",
+      "themes": [
+        "Sunset",
+        "Coastal"
+      ],
+      "description": "Women in flowing white dresses watch the sunset from flower-lined paths, a harbor terrace and a lantern-lit dock.",
+      "kind": "video",
+      "createdAt": 1794135195666,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/03f85c2fc6f64f1b99b5acbe963f3bd4.MOV",
+      "thumb": "media/03f85c2fc6f64f1b99b5acbe963f3bd4_thumb.jpg"
     }
   ]
 }
