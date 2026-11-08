@@ -8682,6 +8682,438 @@
       "h": 1280,
       "file": "media/export_1793109347119.MOV",
       "thumb": "media/export_1793109347119_thumb.jpg"
+    },
+    {
+      "id": "71v0hl290dei4cu0wmvs",
+      "title": "The Reaper Queen and the Plague Doctor",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reapers",
+        "Blood Moon"
+      ],
+      "description": "A horned, winged reaper queen with a scythe stands beside a plague-doctor reaper in a graveyard beneath a blood moon.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0540.JPG",
+      "thumb": "media/IMG_0540.JPG"
+    },
+    {
+      "id": "kqko6jmxyb0hul9cj71y",
+      "title": "Lightning on Her Lips",
+      "style": "Surreal Portrait",
+      "themes": [
+        "Lips",
+        "Neon"
+      ],
+      "description": "An extreme close-up of glossy dark lips traced with purple, blue and pink lightning.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1402.JPG",
+      "thumb": "media/IMG_1402.JPG"
+    },
+    {
+      "id": "kp305i73zf05dlqqw9rw",
+      "title": "The Candlelit Queen",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Gothic",
+        "Queens"
+      ],
+      "description": "A pale braided queen in a black feathered gown stands in the candlelit water of a flooded cathedral as crows circle.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0705.JPG",
+      "thumb": "media/IMG_0705.JPG"
+    },
+    {
+      "id": "fs85q88bvxx8jxxv4e38",
+      "title": "Steel and Dust",
+      "style": "Biker Portrait",
+      "themes": [
+        "Bikers",
+        "Americana"
+      ],
+      "description": "A tattooed older biker sits astride his chopper on an open road, shot like a weathered film photograph.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 1376,
+      "h": 1440,
+      "file": "media/IMG_0132.JPG",
+      "thumb": "media/IMG_0132.JPG"
+    },
+    {
+      "id": "pmn9hylwco1wacfm2hvs",
+      "title": "The Skull Arch at Sunset",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Skulls",
+        "Graveyard"
+      ],
+      "description": "A colossal skull forms an arch over a sunset graveyard, its eye socket framing a distant castle.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1063.JPG",
+      "thumb": "media/IMG_1063.JPG"
+    },
+    {
+      "id": "1gwaziju59wzlas2qig6",
+      "title": "The Crimson Hex Lord",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Sorcerers",
+        "Demons"
+      ],
+      "description": "A pale sorcerer lord with glowing red cracks across his skin conjures a swirling orb of dark red energy.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9725.JPG",
+      "thumb": "media/IMG_9725.JPG"
+    },
+    {
+      "id": "h3yoz6g99vzxk0jevpaz",
+      "title": "The Neon Mushroom Forest",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushrooms",
+        "Neon"
+      ],
+      "description": "A tiny figure walks a glowing path through a psychedelic forest of orange, blue and violet mushrooms.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1100.JPG",
+      "thumb": "media/IMG_1100.JPG"
+    },
+    {
+      "id": "2jf7s9tqzjo92cgpjcwu",
+      "title": "Tea Party on a Toadstool",
+      "style": "Storybook Watercolor",
+      "themes": [
+        "Wonderland",
+        "Mushrooms"
+      ],
+      "description": "A girl in a blue dress sits on a giant toadstool beside a grinning Cheshire cat in a watercolor garden of hearts.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0838.JPG",
+      "thumb": "media/IMG_0838.JPG"
+    },
+    {
+      "id": "ucwheg8nn4ujvy1igkys",
+      "title": "She Keeps the Blood Moon Watch",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reapers",
+        "Crows"
+      ],
+      "description": "A dark-haired reaper woman in a feathered cloak holds her scythe beneath a blood moon as crows scatter.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1268.JPG",
+      "thumb": "media/IMG_1268.JPG"
+    },
+    {
+      "id": "votc14w7z9olysdb1e14",
+      "title": "The Rose-Crowned Veil",
+      "style": "Gothic Portrait",
+      "themes": [
+        "Roses",
+        "Veils"
+      ],
+      "description": "A woman's face emerges through a cracked black veil beneath a crown of deep red roses.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0596.JPG",
+      "thumb": "media/IMG_0596.JPG"
+    },
+    {
+      "id": "f7l9io6jrdues11lnpve",
+      "title": "The Kneeling Assassin",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Assassins",
+        "Warriors"
+      ],
+      "description": "A masked assassin in black armor kneels in dark water, dagger in hand, waiting in the shadows.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_9714.JPG",
+      "thumb": "media/IMG_9714.JPG"
+    },
+    {
+      "id": "3fdbj73ino5fx2k023yl",
+      "title": "The Red-Haired Warlord",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Warriors",
+        "Blood Moon"
+      ],
+      "description": "A long red-haired warrior in skull-marked black armor turns beneath a blood moon over a dark shore.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0731.JPG",
+      "thumb": "media/IMG_0731.JPG"
+    },
+    {
+      "id": "mbuye6jx4zxqpvxsihau",
+      "title": "The Moon Inside the Skull",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Skulls",
+        "Moon"
+      ],
+      "description": "A moonlit path runs through a colossal skull formed of gnarled trees, the full moon glowing at its heart.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1581.JPG",
+      "thumb": "media/IMG_1581.JPG"
+    },
+    {
+      "id": "s7arsybaabsqyc250cxp",
+      "title": "The Summoning Circle Biker",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Bikers",
+        "Rituals"
+      ],
+      "description": "A biker stands with his motorcycle inside a glowing purple summoning circle, ghostly figures rising around a skull banner.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1147.JPG",
+      "thumb": "media/IMG_1147.JPG"
+    },
+    {
+      "id": "qf1zqfnof2gbgpro4wk1",
+      "title": "Bubble Helmet in Neo-Tokyo",
+      "style": "Cyberpunk Anime",
+      "themes": [
+        "Anime",
+        "Neon"
+      ],
+      "description": "A pink-haired anime android girl in a bubble helmet smiles on a rain-slick neon street in Neo-Tokyo.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1253.JPG",
+      "thumb": "media/IMG_1253.JPG"
+    },
+    {
+      "id": "rd9ns5p3oj0cat43i30d",
+      "title": "The All-Father at Rest",
+      "style": "Norse Mythology",
+      "themes": [
+        "Odin",
+        "Ravens"
+      ],
+      "description": "An ancient bearded king sits on an antlered throne beneath the stars, ravens above and wolves sleeping at his feet.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 1056,
+      "h": 1872,
+      "file": "media/IMG_0740.JPG",
+      "thumb": "media/IMG_0740.JPG"
+    },
+    {
+      "id": "vzo39ur5715u9tddyip5",
+      "title": "Silver Hair and Fairy Lights",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Portraits",
+        "Tattoos"
+      ],
+      "description": "A silver-haired woman with blue eyes rests her head on her tattooed arms amid warm fairy lights.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1755.JPG",
+      "thumb": "media/IMG_1755.JPG"
+    },
+    {
+      "id": "lj2wbtc4ui4xcs81y22k",
+      "title": "The Cathedral of Candles",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Gothic",
+        "Queens"
+      ],
+      "description": "A dark queen in a black gown stands in the candlelit floodwater of a gothic cathedral as crows take flight.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0512.JPG",
+      "thumb": "media/IMG_0512.JPG"
+    },
+    {
+      "id": "f14jgt4jl46de1k70c5f",
+      "title": "La Catrina Bride",
+      "style": "Day of the Dead Portrait",
+      "themes": [
+        "Day of the Dead",
+        "Roses"
+      ],
+      "description": "A bride in lace with ornate Day of the Dead face paint and a headdress of red and white roses.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 960,
+      "h": 1200,
+      "file": "media/IMG_1810.JPG",
+      "thumb": "media/IMG_1810.JPG"
+    },
+    {
+      "id": "1humpk1ff4resdp5x0dh",
+      "title": "The Wolf of Westminster",
+      "style": "Gothic Horror",
+      "themes": [
+        "Werewolves",
+        "London"
+      ],
+      "description": "A werewolf in a long trench coat walks a rain-wet London street beneath the full moon, Big Ben behind him.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1669.JPG",
+      "thumb": "media/IMG_1669.JPG"
+    },
+    {
+      "id": "tqxcyef7u1dht2dhr7il",
+      "title": "The Mandala Eye",
+      "style": "Surrealism",
+      "themes": [
+        "Eyes",
+        "Autumn"
+      ],
+      "description": "An extreme close-up of an eye whose iris blooms into a golden mandala, ringed by autumn leaves.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1582.JPG",
+      "thumb": "media/IMG_1582.JPG"
+    },
+    {
+      "id": "fctfnvxqj1x7sn53tqi3",
+      "title": "The Raven Reaper Queen",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reapers",
+        "Ravens"
+      ],
+      "description": "A horned, black-winged reaper queen holds a bloodied scythe beside a giant raven beneath a blood moon.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0723.JPG",
+      "thumb": "media/IMG_0723.JPG"
+    },
+    {
+      "id": "zfm1xqa5nxzysluibv21",
+      "title": "The Reaper Holds the World",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reapers",
+        "Earth"
+      ],
+      "description": "The Grim Reaper cradles planet Earth atop a mountain peak, sunset clouds below and stars above.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1061.JPG",
+      "thumb": "media/IMG_1061.JPG"
+    },
+    {
+      "id": "d80x5b0a7ifodylseniq",
+      "title": "Lace and Shadow",
+      "style": "Gothic Portrait",
+      "themes": [
+        "Portraits",
+        "Gothic"
+      ],
+      "description": "A young gothic woman in black lace and a pendant choker gazes out of deep shadow.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1269.JPG",
+      "thumb": "media/IMG_1269.JPG"
+    },
+    {
+      "id": "dyxlk0nxgqs89erlch6b",
+      "title": "The Flame Staff Sorceress",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Sorceresses",
+        "Blood Moon"
+      ],
+      "description": "A red-haired sorceress in dark ornate armor raises a flaming skull staff beneath a blood-red sky.",
+      "kind": "image",
+      "createdAt": 1794132207889,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0585.JPG",
+      "thumb": "media/IMG_0585.JPG"
+    },
+    {
+      "id": "6w2ladixqsj8ba309iqa",
+      "title": "Psychedelic Faces \u2014 Circuit Elf",
+      "style": "Psychedelic Montage",
+      "themes": [
+        "Psychedelic",
+        "Portraits"
+      ],
+      "description": "A montage of psychedelic faces \u2014 a third-eye man, a green circuit-patterned elf crowned with flowers, and a sunflower woman.",
+      "kind": "video",
+      "createdAt": 1794132207889,
+      "w": 720,
+      "h": 1280,
+      "file": "media/export_1793109314541.mov",
+      "thumb": "media/export_1793109314541_thumb.jpg"
+    },
+    {
+      "id": "yxddrvsotzvixm3tbn8j",
+      "title": "Storybook Fantasy Scenes",
+      "style": "Fantasy Montage",
+      "themes": [
+        "Fantasy",
+        "Warriors"
+      ],
+      "description": "A storybook fantasy montage of warriors, castles and golden-hour landscapes.",
+      "kind": "video",
+      "createdAt": 1794132207889,
+      "w": 720,
+      "h": 916,
+      "file": "media/export_1793109350192.mov",
+      "thumb": "media/export_1793109350192_thumb.jpg"
     }
   ]
 }
