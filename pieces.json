@@ -9546,6 +9546,438 @@
       "h": 1920,
       "file": "media/03f85c2fc6f64f1b99b5acbe963f3bd4.MOV",
       "thumb": "media/03f85c2fc6f64f1b99b5acbe963f3bd4_thumb.jpg"
+    },
+    {
+      "id": "p0es8nvsn9se9w55yjci",
+      "title": "Ink and Fairy Lights",
+      "style": "Realistic Portrait",
+      "themes": [
+        "Tattoos",
+        "Portrait"
+      ],
+      "description": "A platinum-blond tattooed man rests his chin in profile against warm fairy-light bokeh, his freckled skin and inked arms in sharp focus.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1752.JPG",
+      "thumb": "media/IMG_1752.JPG"
+    },
+    {
+      "id": "1k25vdsp12ezpa423o6l",
+      "title": "Silver Hair on the Pillow",
+      "style": "Realistic Portrait",
+      "themes": [
+        "Tattoos",
+        "Portrait"
+      ],
+      "description": "A white-haired tattooed woman rests her head on a white pillow, her blue eyes and inked hands turned toward the viewer.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1754.JPG",
+      "thumb": "media/IMG_1754.JPG"
+    },
+    {
+      "id": "s49naj7wpgtrtiqohv3v",
+      "title": "The Mechanic's Hands",
+      "style": "Realistic Portrait",
+      "themes": [
+        "Motorcycles",
+        "Workshop"
+      ],
+      "description": "A bearded mechanic in a workshop leans over a motorcycle engine, hands deep in the machine beneath a wall of tools.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1328,
+      "h": 1488,
+      "file": "media/IMG_0135.JPG",
+      "thumb": "media/IMG_0135.JPG"
+    },
+    {
+      "id": "111u36f9oh4k0v28pxtm",
+      "title": "Chrome and Cylinders",
+      "style": "Photorealistic Detail",
+      "themes": [
+        "Motorcycles",
+        "Machines"
+      ],
+      "description": "A close study of a weathered motorcycle engine, all chrome pipes, cooling fins and worn metal.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1344,
+      "h": 1472,
+      "file": "media/IMG_0133.JPG",
+      "thumb": "media/IMG_0133.JPG"
+    },
+    {
+      "id": "bj6tajw7d6vy0yasxk4t",
+      "title": "The Beast Over London",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Werewolves",
+        "Moonlight"
+      ],
+      "description": "A hulking werewolf leaps across moonlit London rooftops beneath a full moon, a clock tower glowing in the distance.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1668.JPG",
+      "thumb": "media/IMG_1668.JPG"
+    },
+    {
+      "id": "yng80sqlfkq95dxd09zw",
+      "title": "The Mushroom Sitter",
+      "style": "Psychedelic Fantasy",
+      "themes": [
+        "Mushrooms",
+        "Sunset"
+      ],
+      "description": "A pink-haired woman in a flowing gown sits atop a giant spotted mushroom at sunset, butterflies drifting over a desert oasis.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0847.JPG",
+      "thumb": "media/IMG_0847.JPG"
+    },
+    {
+      "id": "udxmxtd0cjo5ksjkjxq7",
+      "title": "The Pianist in Color",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Music",
+        "Color"
+      ],
+      "description": "A red-haired pianist with glasses plays amid explosive swirls of paint, musical notes and color.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/IMG_1711.JPG",
+      "thumb": "media/IMG_1711.JPG"
+    },
+    {
+      "id": "qwf82ss5l3v0d8req12w",
+      "title": "Reaper Queen of the Red Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reapers",
+        "Ravens"
+      ],
+      "description": "A black-winged reaper queen in tattered feathers holds her scythe beneath a blood-red moon, ravens wheeling above a ruined city.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0536.JPG",
+      "thumb": "media/IMG_0536.JPG"
+    },
+    {
+      "id": "i9n7s249ecy2qubik1xc",
+      "title": "The Horned Temptress",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demons",
+        "Portraits"
+      ],
+      "description": "A horned demon woman with red-streaked silver hair and black lace clasps her hands beneath her chin in crimson light.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1271.JPG",
+      "thumb": "media/IMG_1271.JPG"
+    },
+    {
+      "id": "qka6fvpahyhd3d24yz33",
+      "title": "The Cosmic Wizard",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Wizards",
+        "Cosmic"
+      ],
+      "description": "A bearded wizard in a galaxy-swirled hat with a watching eye smokes a cigar among glowing mushrooms, his beard dissolving into starfields.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0836.JPG",
+      "thumb": "media/IMG_0836.JPG"
+    },
+    {
+      "id": "6rv9wqt04u801rezg6kn",
+      "title": "Last Call at the Bar",
+      "style": "Realistic Portrait",
+      "themes": [
+        "Nightlife",
+        "Portraits"
+      ],
+      "description": "A tattooed woman in a black outfit leans against a neon-lit bar, bottles glowing on the shelves behind her.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1917.JPG",
+      "thumb": "media/IMG_1917.JPG"
+    },
+    {
+      "id": "u58s2txzgd441n5sf9k4",
+      "title": "Curls of Silver",
+      "style": "Realistic Portrait",
+      "themes": [
+        "Tattoos",
+        "Portrait"
+      ],
+      "description": "A young man with tight silver curls and floral arm tattoos gazes off in profile against warm fairy lights.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1751.JPG",
+      "thumb": "media/IMG_1751.JPG"
+    },
+    {
+      "id": "vpc3es5cukgq72exmewd",
+      "title": "Coastal Rider",
+      "style": "Realistic Portrait",
+      "themes": [
+        "Motorcycles",
+        "Coast"
+      ],
+      "description": "A woman in leathers and sunglasses rides her motorcycle along a coastal highway at golden hour, the sea beside her.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1344,
+      "h": 1472,
+      "file": "media/IMG_0136.JPG",
+      "thumb": "media/IMG_0136.JPG"
+    },
+    {
+      "id": "08rx1spvu7886jy2yxf9",
+      "title": "The Fairy's Touch",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Fairies",
+        "Magic"
+      ],
+      "description": "A fairy's glittering hand reaches through a moonlit forest, sparkles trailing from her fingertips as she hovers behind it.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1213.JPG",
+      "thumb": "media/IMG_1213.JPG"
+    },
+    {
+      "id": "kr2ipnl9fogjr8jioids",
+      "title": "The Ganja Gnome",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Gnomes",
+        "Cannabis"
+      ],
+      "description": "A psychedelic gnome with cannabis-leaf sunglasses and a swirling rainbow hat smokes beneath hanging cannabis leaves.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0835.JPG",
+      "thumb": "media/IMG_0835.JPG"
+    },
+    {
+      "id": "zkz462cmk83mucjbife9",
+      "title": "Ice Cream in the Glow Patch",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushrooms",
+        "Neon"
+      ],
+      "description": "A glowing mushroom-capped girl licks an ice-cream cone in a neon pond of luminous mushrooms, jars of light and watching cosmic eyes.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0770.JPG",
+      "thumb": "media/IMG_0770.JPG"
+    },
+    {
+      "id": "ahps97bj8jfdrr3mlz9u",
+      "title": "Behind the Black Veil",
+      "style": "Dark Portrait",
+      "themes": [
+        "Horror",
+        "Portraits"
+      ],
+      "description": "Half of a woman's tear-streaked face emerges from a tangle of black veiling, the other half lost to shadow.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0565.JPG",
+      "thumb": "media/IMG_0565.JPG"
+    },
+    {
+      "id": "xes5wbgzfu4h4czssvug",
+      "title": "She Looks to the Light",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Portraits",
+        "Sky"
+      ],
+      "description": "A blonde woman in a white and gold gown lifts her face toward a radiant sunset sky above the clouds.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1446.JPG",
+      "thumb": "media/IMG_1446.JPG"
+    },
+    {
+      "id": "lgxhyueqdwianfnnvpz7",
+      "title": "Duel at the Festival of the Dead",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Day of the Dead",
+        "Festival"
+      ],
+      "description": "A skeleton-painted dancer in a riot of color crosses blades with a black-clad swordsman in a crowded Day of the Dead market.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1712,
+      "h": 1152,
+      "file": "media/IMG_0326.JPG",
+      "thumb": "media/IMG_0326.JPG"
+    },
+    {
+      "id": "3b8atp8kdbgv6r8057kq",
+      "title": "The Blue Meditator",
+      "style": "Psychedelic Spirituality",
+      "themes": [
+        "Meditation",
+        "Cosmic"
+      ],
+      "description": "A blue deity sits in meditation on a flower-strewn rock beneath a glowing all-seeing eye, planets and golden rings orbiting around.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0839.JPG",
+      "thumb": "media/IMG_0839.JPG"
+    },
+    {
+      "id": "e53ospvexsx3w98u6yve",
+      "title": "The Clock of the Fallen Castle",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Time",
+        "Castles"
+      ],
+      "description": "An ornate clock face holds a miniature ruined castle and a perched raven inside its golden, gear-worked frame.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1579.JPG",
+      "thumb": "media/IMG_1579.JPG"
+    },
+    {
+      "id": "2e5dsdf7b9t2z3f9rgu1",
+      "title": "Werewolf in the Autumn Wood",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Werewolves",
+        "Moonlight"
+      ],
+      "description": "A snarling werewolf stalks through a moonlit autumn forest, fallen leaves under its claws and the full moon overhead.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1657.JPG",
+      "thumb": "media/IMG_1657.JPG"
+    },
+    {
+      "id": "qzwvdatx74qru4licudv",
+      "title": "Reaper Queen at the Sea Cliffs",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reapers",
+        "Ravens"
+      ],
+      "description": "A horned, black-winged reaper queen with a raven at her shoulder holds a red-bladed scythe beneath a blood moon over a gothic city.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0555.JPG",
+      "thumb": "media/IMG_0555.JPG"
+    },
+    {
+      "id": "lmvw9z3wbgsv8sox4w9o",
+      "title": "Rainy Night Portrait",
+      "style": "Realistic Portrait",
+      "themes": [
+        "Portraits",
+        "Night"
+      ],
+      "description": "A long-haired blonde woman gazes softly into blue night bokeh, her face lit like a pause in the rain.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_1522.JPG",
+      "thumb": "media/IMG_1522.JPG"
+    },
+    {
+      "id": "lhvhjo7u4x0a4sdtiau2",
+      "title": "Song in the Wheat",
+      "style": "Country Portrait",
+      "themes": [
+        "Country",
+        "Music"
+      ],
+      "description": "A country girl in a white lace dress and boots stands in a golden wheat field at sunset, guitar in hand.",
+      "kind": "image",
+      "createdAt": 1794149730601,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0525.JPG",
+      "thumb": "media/IMG_0525.JPG"
+    },
+    {
+      "id": "ilu0p33vj5zc07dzvo16",
+      "title": "The Haunted Mansion Mystery",
+      "style": "Cartoon Horror",
+      "themes": [
+        "Haunted House",
+        "Mystery"
+      ],
+      "description": "A cartoon mystery gang explores a candle-lit haunted mansion by flashlight, then flees a shadowy monster down its halls with their dog.",
+      "kind": "video",
+      "createdAt": 1794149730601,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/4e8e5bf427c04bd7a229aa817aa98781.MOV",
+      "thumb": "media/4e8e5bf427c04bd7a229aa817aa98781_thumb.jpg"
+    },
+    {
+      "id": "vazauf323wjqje1bgie8",
+      "title": "Noir in the Rain",
+      "style": "Cinematic Noir",
+      "themes": [
+        "Noir",
+        "Rain"
+      ],
+      "description": "A rain-soaked man grins in a lamplit alley, stares through cracked-mirror reflections, and walks a wet city bridge alone at night.",
+      "kind": "video",
+      "createdAt": 1794149730601,
+      "w": 720,
+      "h": 1280,
+      "file": "media/cebff766397344cc855aaca450cf5330.MOV",
+      "thumb": "media/cebff766397344cc855aaca450cf5330_thumb.jpg"
     }
   ]
 }
