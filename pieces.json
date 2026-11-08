@@ -383,7 +383,7 @@
       "themes": [
         "Horror"
       ],
-      "description": "A wall of screaming, anguished faces twists together in darkness \u2014 a chorus of the damned.",
+      "description": "A wall of screaming, anguished faces twists together in darkness — a chorus of the damned.",
       "kind": "image",
       "createdAt": 1793848186578,
       "w": 784,
@@ -3657,7 +3657,7 @@
     },
     {
       "id": "bjvn1wswxkq47y319fng",
-      "title": "Living Original III \u2014 Blonde in Candlelight",
+      "title": "Living Original III — Blonde in Candlelight",
       "style": "Fantasy Portrait",
       "themes": [
         "tattooed woman",
@@ -3674,7 +3674,7 @@
     },
     {
       "id": "keyrzhsfl8cavsuse54v",
-      "title": "Living Original II \u2014 Dark Hair in Candlelight",
+      "title": "Living Original II — Dark Hair in Candlelight",
       "style": "Fantasy Portrait",
       "themes": [
         "tattooed woman",
@@ -4116,7 +4116,7 @@
     },
     {
       "id": "zzpelccyi4n762y0cer1",
-      "title": "Living Original I \u2014 Dark Red Streaks in Candlelight",
+      "title": "Living Original I — Dark Red Streaks in Candlelight",
       "style": "Fantasy Portrait",
       "themes": [
         "tattooed woman",
@@ -6852,7 +6852,7 @@
     },
     {
       "id": "zalhugbmhlbkprrhualk",
-      "title": "That Papa Shmu Sure Is Dreamy \u2014 In Motion",
+      "title": "That Papa Shmu Sure Is Dreamy — In Motion",
       "style": "Fantasy Reel",
       "themes": [
         "Pop Art",
@@ -8397,7 +8397,7 @@
     },
     {
       "id": "jk5r60jo3ipj4vo1fhid",
-      "title": "Ancestral Spirit \u2014 Guide, Protect, Remember",
+      "title": "Ancestral Spirit — Guide, Protect, Remember",
       "style": "Psychedelic Surrealism",
       "themes": [
         "Skulls",
@@ -8413,7 +8413,7 @@
     },
     {
       "id": "y2bmdzaieu3vpczw2gqe",
-      "title": "Ancestral Spirit \u2014 The Second Telling",
+      "title": "Ancestral Spirit — The Second Telling",
       "style": "Psychedelic Surrealism",
       "themes": [
         "Skulls",
@@ -8541,7 +8541,7 @@
     },
     {
       "id": "2slbw4gglfnms3wmtp2j",
-      "title": "Shh \u2014 The Purple Clown",
+      "title": "Shh — The Purple Clown",
       "style": "Dark Fantasy",
       "themes": [
         "Clowns",
@@ -8653,7 +8653,7 @@
     },
     {
       "id": "lr0oj3jpmtup3hviucqq",
-      "title": "Steel Rebellion \u2014 Biker Montage",
+      "title": "Steel Rebellion — Biker Montage",
       "style": "Biker Montage",
       "themes": [
         "Motorcycles",
@@ -8669,7 +8669,7 @@
     },
     {
       "id": "5q8h9yufhhzj8o8s42ey",
-      "title": "Cowboys \u2014 Ranch Montage",
+      "title": "Cowboys — Ranch Montage",
       "style": "Western Montage",
       "themes": [
         "Cowboys",
@@ -9085,13 +9085,13 @@
     },
     {
       "id": "6w2ladixqsj8ba309iqa",
-      "title": "Psychedelic Faces \u2014 Circuit Elf",
+      "title": "Psychedelic Faces — Circuit Elf",
       "style": "Psychedelic Montage",
       "themes": [
         "Psychedelic",
         "Portraits"
       ],
-      "description": "A montage of psychedelic faces \u2014 a third-eye man, a green circuit-patterned elf crowned with flowers, and a sunflower woman.",
+      "description": "A montage of psychedelic faces — a third-eye man, a green circuit-patterned elf crowned with flowers, and a sunflower woman.",
       "kind": "video",
       "createdAt": 1794132207889,
       "w": 720,
@@ -9213,7 +9213,7 @@
     },
     {
       "id": "fp9c9u56dbosfd6bchtv",
-      "title": "Shh \u2014 The Hallway Clown",
+      "title": "Shh — The Hallway Clown",
       "style": "Dark Fantasy",
       "themes": [
         "Clowns",
@@ -9978,6 +9978,439 @@
       "h": 1280,
       "file": "media/cebff766397344cc855aaca450cf5330.MOV",
       "thumb": "media/cebff766397344cc855aaca450cf5330_thumb.jpg"
+    },
+    {
+      "id": "lkvji9pnheraedp6hpwp",
+      "title": "Psychedelic Drummer in Full Swing",
+      "style": "Psychedelic Portrait",
+      "themes": [
+        "Music",
+        "Color"
+      ],
+      "description": "A pink-haired drummer with glasses attacks the kit amid swirling psychedelic graffiti and splashes of paint.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/IMG_1706.JPG",
+      "thumb": "media/IMG_1706.JPG"
+    },
+    {
+      "id": "yuqtaz1adcg1yow3uug5",
+      "title": "Under the Skull Moon Banner",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Biker",
+        "Moon"
+      ],
+      "description": "A lone biker sits beneath a full moon holding a tattered black banner emblazoned with a skull, over a purple cosmic valley.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1110.JPG",
+      "thumb": "media/IMG_1110.JPG"
+    },
+    {
+      "id": "e767s6oif8vm6wnerv5x",
+      "title": "Warrior of the Ravenwood",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Warrior",
+        "Forest"
+      ],
+      "description": "A dreadlocked, bearded warrior in ornate dark armor stands among ravens and glowing red jungle blooms.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0701.JPG",
+      "thumb": "media/IMG_0701.JPG"
+    },
+    {
+      "id": "dyrho1lbcfe6jsr8gtx4",
+      "title": "The Little Lantern Keeper",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Halloween",
+        "Lantern"
+      ],
+      "description": "A small hooded figure with a jack-o'-lantern face carries a lantern through a misty moonlit pumpkin patch.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0360.JPG",
+      "thumb": "media/IMG_0360.JPG"
+    },
+    {
+      "id": "fmb0pxzc5fniunxwlmwa",
+      "title": "Blue Hour, Held Close",
+      "style": "Cinematic Portrait",
+      "themes": [
+        "Couple",
+        "Night"
+      ],
+      "description": "A young couple sits close together on the floor of a dim blue room, leaning into each other under soft fairy lights.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1056,
+      "h": 1872,
+      "file": "media/IMG_1527.JPG",
+      "thumb": "media/IMG_1527.JPG"
+    },
+    {
+      "id": "49xtj479nxkmkvag02is",
+      "title": "Lasso at Golden Hour",
+      "style": "Country & Western",
+      "themes": [
+        "Cowboy",
+        "Sunset"
+      ],
+      "description": "A smiling cowboy in a red shirt and tan hat holds a coiled lasso in a field at golden hour.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1136,
+      "h": 1728,
+      "file": "media/IMG_0184.JPG",
+      "thumb": "media/IMG_0184.JPG"
+    },
+    {
+      "id": "ylvirurr4tebugjo8pcg",
+      "title": "Reaper of the Ember Sky",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reaper",
+        "Ravens"
+      ],
+      "description": "A white-haired reaper in black feathers grips a scythe as ravens circle a burning red sky over a gothic city.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0524.JPG",
+      "thumb": "media/IMG_0524.JPG"
+    },
+    {
+      "id": "xb340ixpkqyw06bw7ic9",
+      "title": "The Pumpkin Gentleman",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Halloween",
+        "Portrait"
+      ],
+      "description": "A pumpkin-headed man in a formal black suit stands in a candlelit doorway, pistol in hand.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0641.JPG",
+      "thumb": "media/IMG_0641.JPG"
+    },
+    {
+      "id": "38jee0hdf1qwr9urw8mu",
+      "title": "Shh, Said the Clown",
+      "style": "Horror Portrait",
+      "themes": [
+        "Clown",
+        "Secret"
+      ],
+      "description": "A white-haired figure in smeared clown makeup presses a finger to their lips in dark foliage.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0606.JPG",
+      "thumb": "media/IMG_0606.JPG"
+    },
+    {
+      "id": "1d4r9qryuwscfx795xxq",
+      "title": "The Red Captain's Duel",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Pirate",
+        "Sea"
+      ],
+      "description": "A red-haired pirate captain crosses two cutlasses on the deck of her ship, wind tearing through her hair.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0551.JPG",
+      "thumb": "media/IMG_0551.JPG"
+    },
+    {
+      "id": "0eco0czs86gp07x0sxl6",
+      "title": "Last Light on the Old Dock",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Harbor",
+        "Sunset"
+      ],
+      "description": "A weathered dock and rowboat rest under a blazing orange sunset beside a rusting ship and a bare tree.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1893.JPG",
+      "thumb": "media/IMG_1893.JPG"
+    },
+    {
+      "id": "aqg2qmphh4ifpynzptm6",
+      "title": "Neon Witch of the Wildflowers",
+      "style": "Psychedelic Fantasy",
+      "themes": [
+        "Witch",
+        "Sunset"
+      ],
+      "description": "A witch with glowing blue braids and a galaxy-print hat gazes across a wildflower field at sunset.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0725.JPG",
+      "thumb": "media/IMG_0725.JPG"
+    },
+    {
+      "id": "kgyy0zwfr45481g3my70",
+      "title": "The Eye That Holds a Cathedral",
+      "style": "Dark Surrealism",
+      "themes": [
+        "Eye",
+        "Cathedral"
+      ],
+      "description": "A giant cracked eye reflects a golden cathedral beneath an eclipse, candlelight glowing in its halls.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1920,
+      "h": 1280,
+      "file": "media/papa_shmu_original_1.PNG",
+      "thumb": "media/papa_shmu_original_1.PNG"
+    },
+    {
+      "id": "xf52jllj14pg7rklslrl",
+      "title": "Silver Hair, Quiet Morning",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Tattoo",
+        "Rest"
+      ],
+      "description": "A white-haired, tattooed woman rests her head on a pillow, blue eyes open, fairy lights glowing nearby.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1757.JPG",
+      "thumb": "media/IMG_1757.JPG"
+    },
+    {
+      "id": "bm1vb3mrakplqafb4lb1",
+      "title": "Neon Shards",
+      "style": "Abstract",
+      "themes": [
+        "Geometry",
+        "Neon"
+      ],
+      "description": "Sharp crystalline shards outlined in electric blue and magenta float against a black void.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1728,
+      "h": 1152,
+      "file": "media/IMG_1441.JPG",
+      "thumb": "media/IMG_1441.JPG"
+    },
+    {
+      "id": "3ppc8bhdjfizlmgpnl8l",
+      "title": "She and the Wolf at Sundown",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Wolf",
+        "Sunset"
+      ],
+      "description": "A tattooed woman sits beside her wolf on a cliff, both watching the sun set over a winding river.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0075.JPG",
+      "thumb": "media/IMG_0075.JPG"
+    },
+    {
+      "id": "oqri9f08xouoeu78zn47",
+      "title": "Sleeping Among Black Roses",
+      "style": "Dark Romance",
+      "themes": [
+        "Roses",
+        "Skull"
+      ],
+      "description": "A red-haired woman sleeps peacefully among black and crimson roses, a skull resting beside her.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1077.JPG",
+      "thumb": "media/IMG_1077.JPG"
+    },
+    {
+      "id": "tgyvrrtcxjhtj4fe06hm",
+      "title": "The Winged Cowboy Angel",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Angel",
+        "Cowboy"
+      ],
+      "description": "A white-bearded cowboy with vast glowing wings walks through a canyon of golden marigolds.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_1137.JPG",
+      "thumb": "media/IMG_1137.JPG"
+    },
+    {
+      "id": "iyhm267xd9fm5431rsun",
+      "title": "Cabin on the Misty Water",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Lake",
+        "Sunrise"
+      ],
+      "description": "A small stilt cabin on a misty lake reflects in still water beside a rowboat at sunrise.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1894.JPG",
+      "thumb": "media/IMG_1894.JPG"
+    },
+    {
+      "id": "fboeztbwkyqrjiq8smel",
+      "title": "The Sea Wizard Rises",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Ocean",
+        "Wizard"
+      ],
+      "description": "A long-bearded sea wizard rises from glowing teal night water, hand outstretched toward a lantern-lit ship.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0713.JPG",
+      "thumb": "media/IMG_0713.JPG"
+    },
+    {
+      "id": "6fk3ubf9a1aikgkc2oaj",
+      "title": "Behind the Golden Mask",
+      "style": "Gothic Portrait",
+      "themes": [
+        "Mask",
+        "Cathedral"
+      ],
+      "description": "A dark-haired woman in a loosened school tie holds a golden Venetian mask in a red-lit cathedral.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1267.JPG",
+      "thumb": "media/IMG_1267.JPG"
+    },
+    {
+      "id": "xkqq1vcjb0ljznp7el5w",
+      "title": "The Dripping Cosmic Mushroom",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushroom",
+        "Cosmos"
+      ],
+      "description": "A neon mushroom drips pink and gold light into a swirling cosmic sky of stars and smaller fungi.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1097.JPG",
+      "thumb": "media/IMG_1097.JPG"
+    },
+    {
+      "id": "cuqrqv4zbnolnfzf1u48",
+      "title": "Wood, Fire and an Old Truck",
+      "style": "Country & Western",
+      "themes": [
+        "Cowboy",
+        "Campfire"
+      ],
+      "description": "A cowboy splits firewood beside a campfire on a farm, an old rusted pickup and cabin behind him.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1744,
+      "h": 1136,
+      "file": "media/IMG_0173.JPG",
+      "thumb": "media/IMG_0173.JPG"
+    },
+    {
+      "id": "dryxrhvmcod20edt4ym1",
+      "title": "Chrome Storm Goddess",
+      "style": "Sci-Fi Fantasy",
+      "themes": [
+        "Armor",
+        "Energy"
+      ],
+      "description": "A silver-haired goddess in chrome armor floats amid swirling ribbons of blue-white energy.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0637.JPG",
+      "thumb": "media/IMG_0637.JPG"
+    },
+    {
+      "id": "a1gp1ozrxx9ofv3n9k30",
+      "title": "Checking In From the Saddle",
+      "style": "Country & Western",
+      "themes": [
+        "Cowgirl",
+        "Horse"
+      ],
+      "description": "A cowgirl on horseback leans over her saddle horn to check her phone, cattle grazing behind her.",
+      "kind": "image",
+      "createdAt": 1794164395963,
+      "w": 1696,
+      "h": 1168,
+      "file": "media/IMG_0185.JPG",
+      "thumb": "media/IMG_0185.JPG"
+    },
+    {
+      "id": "l76vwccsi26msxs5efgc",
+      "title": "Mystery in the Haunted Hallway",
+      "style": "Cartoon Horror",
+      "themes": [
+        "Mystery Gang",
+        "Haunted Mansion",
+        "Monster"
+      ],
+      "description": "A cartoon mystery gang tiptoes through a candlelit gothic hallway as a huge monster silhouette looms at the far end.",
+      "kind": "video",
+      "createdAt": 1794164518668,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/7f9f5363f5ec455284e7a0152acb210e.MOV",
+      "thumb": "media/7f9f5363f5ec455284e7a0152acb210e_thumb.jpg"
+    },
+    {
+      "id": "g2my83whsl3nin66rxio",
+      "title": "Punk Princess Rebellion — Live",
+      "style": "Punk Rock",
+      "themes": [
+        "Punk Band",
+        "Live Music"
+      ],
+      "description": "An all-girl punk band tears through a live set — pink-mohawk singer, sticker-covered bass and studded leather under purple and red stage lights.",
+      "kind": "video",
+      "createdAt": 1794164518668,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/f24b885602ee462bb2b03a3e5fbdc37f.MOV",
+      "thumb": "media/f24b885602ee462bb2b03a3e5fbdc37f_thumb.jpg"
     }
   ]
 }
