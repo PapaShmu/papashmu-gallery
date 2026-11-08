@@ -2840,7 +2840,7 @@
     },
     {
       "id": "zalhugbmhlbkprrhualk",
-      "title": "That Papa Shmu Sure Is Dreamy — In Motion",
+      "title": "That Papa Shmu Sure Is Dreamy \u2014 In Motion",
       "style": "Fantasy Reel",
       "themes": [
         "Pop Art",
@@ -4385,7 +4385,7 @@
     },
     {
       "id": "jk5r60jo3ipj4vo1fhid",
-      "title": "Ancestral Spirit — Guide, Protect, Remember",
+      "title": "Ancestral Spirit \u2014 Guide, Protect, Remember",
       "style": "Psychedelic Surrealism",
       "themes": [
         "Skulls",
@@ -4401,7 +4401,7 @@
     },
     {
       "id": "y2bmdzaieu3vpczw2gqe",
-      "title": "Ancestral Spirit — The Second Telling",
+      "title": "Ancestral Spirit \u2014 The Second Telling",
       "style": "Psychedelic Surrealism",
       "themes": [
         "Skulls",
@@ -4529,7 +4529,7 @@
     },
     {
       "id": "2slbw4gglfnms3wmtp2j",
-      "title": "Shh — The Purple Clown",
+      "title": "Shh \u2014 The Purple Clown",
       "style": "Dark Fantasy",
       "themes": [
         "Clowns",
@@ -4641,7 +4641,7 @@
     },
     {
       "id": "lr0oj3jpmtup3hviucqq",
-      "title": "Steel Rebellion — Biker Montage",
+      "title": "Steel Rebellion \u2014 Biker Montage",
       "style": "Biker Montage",
       "themes": [
         "Motorcycles",
@@ -4657,7 +4657,7 @@
     },
     {
       "id": "5q8h9yufhhzj8o8s42ey",
-      "title": "Cowboys — Ranch Montage",
+      "title": "Cowboys \u2014 Ranch Montage",
       "style": "Western Montage",
       "themes": [
         "Cowboys",
@@ -5073,13 +5073,13 @@
     },
     {
       "id": "6w2ladixqsj8ba309iqa",
-      "title": "Psychedelic Faces — Circuit Elf",
+      "title": "Psychedelic Faces \u2014 Circuit Elf",
       "style": "Psychedelic Montage",
       "themes": [
         "Psychedelic",
         "Portraits"
       ],
-      "description": "A montage of psychedelic faces — a third-eye man, a green circuit-patterned elf crowned with flowers, and a sunflower woman.",
+      "description": "A montage of psychedelic faces \u2014 a third-eye man, a green circuit-patterned elf crowned with flowers, and a sunflower woman.",
       "kind": "video",
       "createdAt": 1794132207889,
       "w": 720,
@@ -5201,7 +5201,7 @@
     },
     {
       "id": "fp9c9u56dbosfd6bchtv",
-      "title": "Shh — The Hallway Clown",
+      "title": "Shh \u2014 The Hallway Clown",
       "style": "Dark Fantasy",
       "themes": [
         "Clowns",
@@ -6386,19 +6386,472 @@
     },
     {
       "id": "g2my83whsl3nin66rxio",
-      "title": "Punk Princess Rebellion — Live",
+      "title": "Punk Princess Rebellion \u2014 Live",
       "style": "Punk Rock",
       "themes": [
         "Punk Band",
         "Live Music"
       ],
-      "description": "An all-girl punk band tears through a live set — pink-mohawk singer, sticker-covered bass and studded leather under purple and red stage lights.",
+      "description": "An all-girl punk band tears through a live set \u2014 pink-mohawk singer, sticker-covered bass and studded leather under purple and red stage lights.",
       "kind": "video",
       "createdAt": 1794164518668,
       "w": 1080,
       "h": 1920,
       "file": "media/f24b885602ee462bb2b03a3e5fbdc37f.MOV",
       "thumb": "media/f24b885602ee462bb2b03a3e5fbdc37f_thumb.jpg"
+    },
+    {
+      "id": "43pal1e3aaxp5lh6tgd2",
+      "title": "Guitar on the Tailgate",
+      "style": "Country Portrait",
+      "themes": [
+        "Country Girl",
+        "Guitar",
+        "Sunset"
+      ],
+      "description": "A tattooed country girl in boots sits on a pickup tailgate at sunset, guitar in hand, looking down the dirt road.",
+      "kind": "image",
+      "createdAt": 1794178535150,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_0608.JPG",
+      "thumb": "media/IMG_0608.JPG"
+    },
+    {
+      "id": "im86cov2y1tof2ut9cpg",
+      "title": "The Mushroom Portal Dance",
+      "style": "Psychedelic Surrealism",
+      "themes": [
+        "Mushrooms",
+        "Portal",
+        "Cosmic"
+      ],
+      "description": "Dancing mushroom folk circle a swirling cosmic portal in a neon psychedelic forest under watching eyes.",
+      "kind": "image",
+      "createdAt": 1794178535151,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0583.JPG",
+      "thumb": "media/IMG_0583.JPG"
+    },
+    {
+      "id": "7cgita5i1wssific66mf",
+      "title": "Pentagram Schoolgirl Demon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Demon",
+        "Occult"
+      ],
+      "description": "A horned demon girl with glowing red eyes clutches a demonic mask beneath a dripping red pentagram.",
+      "kind": "image",
+      "createdAt": 1794178535152,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1280.JPG",
+      "thumb": "media/IMG_1280.JPG"
+    },
+    {
+      "id": "ll6nv1z9xjrx0m7updoj",
+      "title": "Angel Above the Clouds",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Angel",
+        "Clouds"
+      ],
+      "description": "A serene angel in a white gown stands above the clouds with wings spread and halo glowing.",
+      "kind": "image",
+      "createdAt": 1794178535153,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1442.JPG",
+      "thumb": "media/IMG_1442.JPG"
+    },
+    {
+      "id": "ruqi5t2eolalqxtb4uq6",
+      "title": "Reaper Queen and the Plague Doctor",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Reaper",
+        "Blood Moon"
+      ],
+      "description": "A black-winged reaper queen with a scythe stands beside a plague doctor under a blood-red moon.",
+      "kind": "image",
+      "createdAt": 1794178535154,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0508.JPG",
+      "thumb": "media/IMG_0508.JPG"
+    },
+    {
+      "id": "wlaymzzkz10mg57yz9r8",
+      "title": "Puzzle Made of Shadows",
+      "style": "Dark Surrealism",
+      "themes": [
+        "Face",
+        "Puzzle",
+        "Bats"
+      ],
+      "description": "A woman's face emerges from crumbling puzzle pieces and stone, ringed by bats in the dark.",
+      "kind": "image",
+      "createdAt": 1794178535155,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0543.JPG",
+      "thumb": "media/IMG_0543.JPG"
+    },
+    {
+      "id": "e379u9boa1s9rb1vg3qt",
+      "title": "Rooftop Angel at Sundown",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Angel",
+        "City",
+        "Sunset"
+      ],
+      "description": "A braided, tattooed angel in a loose sweater sits on a graffiti rooftop ledge as the sun sets over the city.",
+      "kind": "image",
+      "createdAt": 1794178535156,
+      "w": 1152,
+      "h": 2048,
+      "file": "media/File_029.png",
+      "thumb": "media/File_029.png"
+    },
+    {
+      "id": "spu567rv7tu403fnx6rj",
+      "title": "The Skull Rock Falls",
+      "style": "Dark Fantasy Landscape",
+      "themes": [
+        "Skull",
+        "Waterfall",
+        "Sunset"
+      ],
+      "description": "A giant mossy skull of rock pours a waterfall from its mouth, its eye framing a mountain sunset.",
+      "kind": "image",
+      "createdAt": 1794178535157,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1059.JPG",
+      "thumb": "media/IMG_1059.JPG"
+    },
+    {
+      "id": "eoheaxo34cz0ocpi1591",
+      "title": "Life and Death in One Circle",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Life",
+        "Death",
+        "Waterfall"
+      ],
+      "description": "Within one circle, a living woman faces the waterfall at sunset while a hooded skeleton waits under the moon.",
+      "kind": "image",
+      "createdAt": 1794178535158,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_1058.JPG",
+      "thumb": "media/IMG_1058.JPG"
+    },
+    {
+      "id": "ktuq6uvnam67wra60i8o",
+      "title": "The Lantern Tree's Roots",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Tree",
+        "Aurora",
+        "Roots"
+      ],
+      "description": "An ancient glowing tree spreads its roots over still water beneath the aurora, a lantern lit among them.",
+      "kind": "image",
+      "createdAt": 1794178535159,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0732.JPG",
+      "thumb": "media/IMG_0732.JPG"
+    },
+    {
+      "id": "emmwf1wzzq1ldtbvdtfy",
+      "title": "Circuit Mind, Cosmic Eyes",
+      "style": "Sci-Fi Surrealism",
+      "themes": [
+        "Cosmic",
+        "Circuit",
+        "Portrait"
+      ],
+      "description": "A blue cosmic man's face traced with glowing circuits and burning orange eyes floats among orbiting worlds.",
+      "kind": "image",
+      "createdAt": 1794178535160,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_0604.JPG",
+      "thumb": "media/IMG_0604.JPG"
+    },
+    {
+      "id": "hpdxncr9kgyk3q562ie3",
+      "title": "Hammer Raised to the Storm",
+      "style": "Norse Fantasy",
+      "themes": [
+        "Thor",
+        "Lightning",
+        "Warrior"
+      ],
+      "description": "A fur-cloaked, red-bearded warrior raises his hammer to the lightning in a rain-lashed mountain storm.",
+      "kind": "image",
+      "createdAt": 1794178535161,
+      "w": 1152,
+      "h": 1728,
+      "file": "media/IMG_0623.JPG",
+      "thumb": "media/IMG_0623.JPG"
+    },
+    {
+      "id": "5gogqc7jz3km48ysqhza",
+      "title": "Queen Riding the Great Boar",
+      "style": "Norse Fantasy",
+      "themes": [
+        "Warrior Queen",
+        "Boar"
+      ],
+      "description": "A golden-armored warrior queen in a feathered cape rides a massive boar through a misty mountain pass.",
+      "kind": "image",
+      "createdAt": 1794178535162,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_1856.JPG",
+      "thumb": "media/IMG_1856.JPG"
+    },
+    {
+      "id": "8aqssz3mgbl01r9u821s",
+      "title": "Prayer on the Rooftop",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Angel",
+        "City",
+        "Prayer"
+      ],
+      "description": "A young winged angel kneels in prayer on a skateboard atop a graffiti rooftop at sunset.",
+      "kind": "image",
+      "createdAt": 1794178535163,
+      "w": 1152,
+      "h": 2048,
+      "file": "media/File_026.png",
+      "thumb": "media/File_026.png"
+    },
+    {
+      "id": "3j4xgl9wuxi29xrmegl5",
+      "title": "The Flower Path to the Lake",
+      "style": "Romantic Landscape",
+      "themes": [
+        "Sunset",
+        "Flowers",
+        "Lake"
+      ],
+      "description": "A woman in a white dress walks a path of roses and lavender toward a lake glowing with sunset.",
+      "kind": "image",
+      "createdAt": 1794178535164,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2262.JPG",
+      "thumb": "media/IMG_2262.JPG"
+    },
+    {
+      "id": "za3npqzxsqny6ljsxpye",
+      "title": "Lantern on the Dock",
+      "style": "Romantic Landscape",
+      "themes": [
+        "Sunset",
+        "Lake",
+        "Lantern"
+      ],
+      "description": "A woman in a yellow dress sits on a wooden dock with a lantern beside a rowboat under a fiery sunset.",
+      "kind": "image",
+      "createdAt": 1794178535165,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2260.JPG",
+      "thumb": "media/IMG_2260.JPG"
+    },
+    {
+      "id": "lgul7287pw4wthacxqgl",
+      "title": "Balcony Over the Blue Domes",
+      "style": "Romantic Landscape",
+      "themes": [
+        "Sea",
+        "Sunset",
+        "Balcony"
+      ],
+      "description": "A woman in a blue gown gazes from a flower-draped balcony over whitewashed blue-domed streets to the sea at sunset.",
+      "kind": "image",
+      "createdAt": 1794178535166,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2261.JPG",
+      "thumb": "media/IMG_2261.JPG"
+    },
+    {
+      "id": "i67vsxgo6svmuyb6omyf",
+      "title": "Evening Above the Harbor",
+      "style": "Romantic Landscape",
+      "themes": [
+        "Harbor",
+        "Sunset"
+      ],
+      "description": "A woman in a flowing white dress stands above a harbor town as boats catch the last gold of sunset.",
+      "kind": "image",
+      "createdAt": 1794178535167,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2259.JPG",
+      "thumb": "media/IMG_2259.JPG"
+    },
+    {
+      "id": "eqeofksi5r57x4ob4jor",
+      "title": "The Cosmic Raven",
+      "style": "Psychedelic Fantasy",
+      "themes": [
+        "Raven",
+        "Cosmic",
+        "Mushrooms"
+      ],
+      "description": "An iridescent purple raven perches on a mossy stump among glowing mushrooms under a cosmic halo of stars.",
+      "kind": "image",
+      "createdAt": 1794178535168,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_2248.JPG",
+      "thumb": "media/IMG_2248.JPG"
+    },
+    {
+      "id": "sukkd9fiqkrmh48t5iaj",
+      "title": "Raven on the Cracked Skull",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Raven",
+        "Skull"
+      ],
+      "description": "A black raven perches on a cracked skull inside an ornate dark frame, like a gothic portrait come alive.",
+      "kind": "image",
+      "createdAt": 1794178535169,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_2239.JPG",
+      "thumb": "media/IMG_2239.JPG"
+    },
+    {
+      "id": "otvgqwhqn0wm1ooqwt2r",
+      "title": "Odin and His Ravens",
+      "style": "Norse Fantasy",
+      "themes": [
+        "Odin",
+        "Ravens",
+        "Forest"
+      ],
+      "description": "A one-eyed, grey-bearded Odin stands in a misty forest with a raven on each shoulder.",
+      "kind": "image",
+      "createdAt": 1794178535170,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_2240.JPG",
+      "thumb": "media/IMG_2240.JPG"
+    },
+    {
+      "id": "49trd1i2a8dd5xw7qrs6",
+      "title": "Raven Under the Blood Moon",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Raven",
+        "Blood Moon",
+        "Forest"
+      ],
+      "description": "A lone raven on a rocky peak watches a blood-red moon rise over a dark pine forest.",
+      "kind": "image",
+      "createdAt": 1794178535171,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_2238.JPG",
+      "thumb": "media/IMG_2238.JPG"
+    },
+    {
+      "id": "d6ss68m0ve7o5agwbt6z",
+      "title": "Flight Through the Snow",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Raven",
+        "Snow",
+        "Forest"
+      ],
+      "description": "A raven spreads its black wings wide, flying through a snowy forest in falling snow.",
+      "kind": "image",
+      "createdAt": 1794178535172,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_2237.JPG",
+      "thumb": "media/IMG_2237.JPG"
+    },
+    {
+      "id": "6rxfur723y9sttlpr1lx",
+      "title": "Six Ravens on the Moss",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Ravens",
+        "Fog",
+        "Forest"
+      ],
+      "description": "Six ravens sit in a row on a moss-draped branch in a foggy green forest.",
+      "kind": "image",
+      "createdAt": 1794178535173,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_2236.JPG",
+      "thumb": "media/IMG_2236.JPG"
+    },
+    {
+      "id": "ys3zonrww0m41ig0vau1",
+      "title": "Ravens Over the Campfire",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Ravens",
+        "Fire",
+        "Night"
+      ],
+      "description": "Ravens wheel through a dark forest above a small campfire glowing on the forest floor.",
+      "kind": "image",
+      "createdAt": 1794178535174,
+      "w": 1152,
+      "h": 1712,
+      "file": "media/IMG_2233.JPG",
+      "thumb": "media/IMG_2233.JPG"
+    },
+    {
+      "id": "0iv0ozvvwdfufty024d0",
+      "title": "The Helix Between Them",
+      "style": "Romantic Fantasy",
+      "themes": [
+        "DNA",
+        "Couple",
+        "Moonlight"
+      ],
+      "description": "A couple stands on opposite banks facing a glowing golden DNA helix rising from moonlit water.",
+      "kind": "video",
+      "createdAt": 1794178535250,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/fa6036bed0f94456836b2769bc784e79.MOV",
+      "thumb": "media/fa6036bed0f94456836b2769bc784e79_thumb.jpg"
+    },
+    {
+      "id": "n0vwqutwfo0czhqgfzr2",
+      "title": "Candy Pop Chibi",
+      "style": "Anime Portrait",
+      "themes": [
+        "Chibi",
+        "Candy",
+        "Kawaii"
+      ],
+      "description": "A smiling chibi girl with purple candy-styled hair winks amid sweets, bows, and pastel hearts.",
+      "kind": "video",
+      "createdAt": 1794178535251,
+      "w": 1080,
+      "h": 1920,
+      "file": "media/08a2ba133df346179ec9b2724235589b.MOV",
+      "thumb": "media/08a2ba133df346179ec9b2724235589b_thumb.jpg"
     }
   ]
 }
