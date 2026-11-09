@@ -6496,6 +6496,440 @@
       "h": 1152,
       "file": "media/886726715_4374745406159865_2541985328841742375_n.MP4",
       "thumb": "media/886726715_4374745406159865_2541985328841742375_n_thumb.jpg"
+    },
+    {
+      "id": "bc2ful9riw0ujx8ckusk",
+      "title": "The Standing Lisa",
+      "style": "Renaissance Reimagining",
+      "themes": [
+        "Mona Lisa",
+        "Renaissance"
+      ],
+      "description": "A full-length Mona Lisa in a deep green gown lifts her veil against a winding river valley, distant castles fading into the haze.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2510.JPG",
+      "thumb": "media/IMG_2510.JPG"
+    },
+    {
+      "id": "z49c2vg0od10h9p2h2wx",
+      "title": "Her Faint Smile",
+      "style": "Renaissance Reimagining",
+      "themes": [
+        "Mona Lisa",
+        "Portrait"
+      ],
+      "description": "The timeless portrait reimagined — soft folded hands, dark tresses, and that faint, knowing smile over a misty landscape.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2509.JPG",
+      "thumb": "media/IMG_2509.JPG"
+    },
+    {
+      "id": "vjqe3sz8ysm6bw9e16td",
+      "title": "The Riverbank Muse",
+      "style": "Renaissance Portrait",
+      "themes": [
+        "Muse",
+        "River"
+      ],
+      "description": "A dark-haired muse sits turned on a wooden chair above a misty river, glancing back over her shoulder.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2507.JPG",
+      "thumb": "media/IMG_2507.JPG"
+    },
+    {
+      "id": "s3ivtz5arooy01wzj1sj",
+      "title": "Lisa, Turned in Her Chair",
+      "style": "Renaissance Reimagining",
+      "themes": [
+        "Mona Lisa",
+        "Portrait"
+      ],
+      "description": "Seated sideways in her chair with a braid over one shoulder, she meets the viewer's eye against a rocky blue distance.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2508.JPG",
+      "thumb": "media/IMG_2508.JPG"
+    },
+    {
+      "id": "twtnggerhow7muxlqv2b",
+      "title": "The Quiet Reader",
+      "style": "Renaissance Portrait",
+      "themes": [
+        "Reader",
+        "Portrait"
+      ],
+      "description": "A young woman in a dark gown sits with eyes lowered, a small book resting in her folded hands.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2506.JPG",
+      "thumb": "media/IMG_2506.JPG"
+    },
+    {
+      "id": "1vpv82pr7xorgmza5n83",
+      "title": "The Flatiron in Daylight",
+      "style": "Cityscape",
+      "themes": [
+        "Architecture",
+        "City"
+      ],
+      "description": "A brick flatiron building rises over a bright street corner, its white colonnade catching the midday sun.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2503.JPG",
+      "thumb": "media/IMG_2503.JPG"
+    },
+    {
+      "id": "w5a168pbrmo622b84jia",
+      "title": "Lisa in Profile",
+      "style": "Renaissance Reimagining",
+      "themes": [
+        "Mona Lisa",
+        "Profile"
+      ],
+      "description": "A strict profile portrait — long dark hair, calm gaze, and the dreamy lakes and hills of the Renaissance behind her.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2500.JPG",
+      "thumb": "media/IMG_2500.JPG"
+    },
+    {
+      "id": "tl23lkfilnsqh2v4384k",
+      "title": "The Flatiron, Long Ago",
+      "style": "Cityscape",
+      "themes": [
+        "Architecture",
+        "Vintage"
+      ],
+      "description": "The same flatiron corner in an earlier century, with horse-drawn carriages and crowds in period dress on the avenue.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2505.JPG",
+      "thumb": "media/IMG_2505.JPG"
+    },
+    {
+      "id": "dg86wob2wkbv09v7758v",
+      "title": "Lisa on the Balustrade",
+      "style": "Renaissance Reimagining",
+      "themes": [
+        "Mona Lisa",
+        "Renaissance"
+      ],
+      "description": "Veiled and braided, she leans on a stone balustrade with mountain lakes stretching out behind her.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2502.JPG",
+      "thumb": "media/IMG_2502.JPG"
+    },
+    {
+      "id": "wm8ibdsathxuvo70z1ny",
+      "title": "The Veiled Reader",
+      "style": "Renaissance Portrait",
+      "themes": [
+        "Veil",
+        "Reader"
+      ],
+      "description": "A woman in an olive gown and long black veil sits by a bright window, a book held loosely in her lap.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2504.JPG",
+      "thumb": "media/IMG_2504.JPG"
+    },
+    {
+      "id": "ares2roukk2buu03tnuw",
+      "title": "Harbor of the Twin Guardians",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Atlantis",
+        "Harbor"
+      ],
+      "description": "Two colossal statues guard a harbor channel, a terraced white city climbing the hill across the water.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2539.JPG",
+      "thumb": "media/IMG_2539.JPG"
+    },
+    {
+      "id": "zwgnvuql2t64u2p5k3lw",
+      "title": "The Sunken Temple",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Underwater",
+        "Ruins"
+      ],
+      "description": "Sunlight shafts pierce blue water over a drowned temple, its columns and statues softened by coral and drifting fish.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2538.JPG",
+      "thumb": "media/IMG_2538.JPG"
+    },
+    {
+      "id": "ebvyymgq1qnmsiu4eyel",
+      "title": "The Blue City Under the Stars",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "City",
+        "Night"
+      ],
+      "description": "A circular city glows electric blue in a mountain valley, its ringed streets shining beneath the Milky Way.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2537.JPG",
+      "thumb": "media/IMG_2537.JPG"
+    },
+    {
+      "id": "9zbdxvuxaj1dgnvv9wrp",
+      "title": "Temple of the Sky Crystal",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Temple",
+        "Crystal"
+      ],
+      "description": "A golden temple crowned by an enormous crystal stands over a still reflecting pool, flanked by guardian statues.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2536.JPG",
+      "thumb": "media/IMG_2536.JPG"
+    },
+    {
+      "id": "wdk9u7u9j7rqzx12694d",
+      "title": "The Carved Wall of Kings",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Ruins",
+        "Waterfall"
+      ],
+      "description": "A monumental wall of carved stone faces and golden reliefs rises from a rocky stream at its base.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2534.JPG",
+      "thumb": "media/IMG_2534.JPG"
+    },
+    {
+      "id": "6ikvucw5exygqa7fa1ym",
+      "title": "Hall of the Blue Monoliths",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Crystal",
+        "Hall"
+      ],
+      "description": "Towering slabs of glowing blue crystal line a dark vaulted hall, their light pooling on the polished floor.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2535.JPG",
+      "thumb": "media/IMG_2535.JPG"
+    },
+    {
+      "id": "nll2z1sqgoy5p59ebtz9",
+      "title": "Orbs of the Inner Sanctum",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Sanctum",
+        "Magic"
+      ],
+      "description": "Blue orbs of light float above an altar in a columned sanctum, gathering around a rising fountain of energy.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2530.JPG",
+      "thumb": "media/IMG_2530.JPG"
+    },
+    {
+      "id": "nv586vbkcm2store9h2b",
+      "title": "Rings of the White City",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Atlantis",
+        "City"
+      ],
+      "description": "From above, a white city of perfect concentric rings and canals spreads around its central temple island.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2533.JPG",
+      "thumb": "media/IMG_2533.JPG"
+    },
+    {
+      "id": "cqd7i539r5mwc2olcrbp",
+      "title": "Market of the Falling Waters",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Market",
+        "Waterfall"
+      ],
+      "description": "A crowded market street runs between terraced temples while waterfalls pour down every level of the city.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2532.JPG",
+      "thumb": "media/IMG_2532.JPG"
+    },
+    {
+      "id": "fq8cvyww28vd5h0mpd0i",
+      "title": "The Fallen God of the Deep",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Underwater",
+        "Statue"
+      ],
+      "description": "A giant carved stone head lies toppled on the ocean floor, barnacled and crowned with coral.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2531.JPG",
+      "thumb": "media/IMG_2531.JPG"
+    },
+    {
+      "id": "hl0wgmlneyvc77s8eqbw",
+      "title": "Drowned Columns at Dusk",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Ruins",
+        "Dusk"
+      ],
+      "description": "Broken columns stand in still floodwater under a violet dusk, their reflections burning with the last of the sunset.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2520.JPG",
+      "thumb": "media/IMG_2520.JPG"
+    },
+    {
+      "id": "8nu3suhn0f7o3va4dd17",
+      "title": "Gate of the Trident",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Underwater",
+        "Temple"
+      ],
+      "description": "Beneath the waves, a ruined temple gate crowned with a golden trident lets waterfalls pour through its columns.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2528.JPG",
+      "thumb": "media/IMG_2528.JPG"
+    },
+    {
+      "id": "mb0b3b4obm7quxsfoqol",
+      "title": "Atlantis at Golden Hour",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Atlantis",
+        "Sunset"
+      ],
+      "description": "The ringed island city catches the golden hour, its canals and gardens circling a palace of white spires.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2529.JPG",
+      "thumb": "media/IMG_2529.JPG"
+    },
+    {
+      "id": "5x5o2psdozvwk1n1y77e",
+      "title": "Pilgrims of the Crystal Temple",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Temple",
+        "Pilgrims"
+      ],
+      "description": "Robed pilgrims cross a sunlit marble plaza toward a shining crystal temple at the city's heart.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2524.JPG",
+      "thumb": "media/IMG_2524.JPG"
+    },
+    {
+      "id": "uyo249tx0slaerhmtolh",
+      "title": "Avenue of the Drowned Statues",
+      "style": "Fantasy Landscape",
+      "themes": [
+        "Underwater",
+        "Statues"
+      ],
+      "description": "A processional avenue of weathered statues leads through blue depths toward domed ruins in the light rays.",
+      "kind": "image",
+      "createdAt": 1794250598944,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2526.JPG",
+      "thumb": "media/IMG_2526.JPG"
+    },
+    {
+      "id": "we1spgyhm1bzeelr2x9p",
+      "title": "Young Krishna's Flute",
+      "style": "Mythology",
+      "themes": [
+        "Krishna",
+        "Flute",
+        "Hindu Gods"
+      ],
+      "description": "Blue-skinned young Krishna, crowned with a peacock feather, raises his golden flute in warm forest light.",
+      "kind": "video",
+      "createdAt": 1794250598944,
+      "w": 768,
+      "h": 1152,
+      "file": "media/888940570_1494549766217579_150951046490425140_n.MP4",
+      "thumb": "media/888940570_1494549766217579_150951046490425140_n_thumb.jpg"
+    },
+    {
+      "id": "2q2zl7unqhau82y27cjy",
+      "title": "Shiva of the High Peaks",
+      "style": "Mythology",
+      "themes": [
+        "Shiva",
+        "Himalayas",
+        "Trident"
+      ],
+      "description": "Shiva stands in profile before the clouded Himalayas, trident planted at his side and a serpent coiled around his neck.",
+      "kind": "video",
+      "createdAt": 1794250598944,
+      "w": 768,
+      "h": 1152,
+      "file": "media/888515185_1444990213718950_4747544062507763706_n.MP4",
+      "thumb": "media/888515185_1444990213718950_4747544062507763706_n_thumb.jpg"
     }
   ]
 }
