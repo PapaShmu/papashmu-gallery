@@ -6853,5 +6853,465 @@
       "file": "media/08a2ba133df346179ec9b2724235589b.MOV",
       "thumb": "media/08a2ba133df346179ec9b2724235589b_thumb.jpg"
     }
+,
+  {
+    "id": "laf8yqjd95h08phtkbha",
+    "title": "Raven Under a Violet Storm",
+    "style": "Dark Fantasy",
+    "themes": [
+      "Raven",
+      "Storm",
+      "Sky"
+    ],
+    "description": "A lone raven perches on a bare, twisted branch beneath a swirling violet and magenta storm sky.",
+    "kind": "image",
+    "createdAt": 1794192982813,
+    "w": 1152,
+    "h": 1712,
+    "file": "media/IMG_2235.JPG",
+    "thumb": "media/IMG_2235.JPG"
+  },
+  {
+    "id": "3jqrgt5szhse9tb4qwa3",
+    "title": "Raven Beneath the Full Moon",
+    "style": "Dark Fantasy",
+    "themes": [
+      "Raven",
+      "Moon",
+      "Night"
+    ],
+    "description": "A raven sits on a gnarled branch in silhouette beneath a bright full moon and drifting night clouds.",
+    "kind": "image",
+    "createdAt": 1794192982814,
+    "w": 1152,
+    "h": 1712,
+    "file": "media/IMG_2234.JPG",
+    "thumb": "media/IMG_2234.JPG"
+  },
+  {
+    "id": "60xvzsov1hxpjra3so01",
+    "title": "Raven of the Mossy Stump",
+    "style": "Dark Fantasy",
+    "themes": [
+      "Raven",
+      "Forest",
+      "Mushrooms"
+    ],
+    "description": "A raven stands atop a moss-covered stump dotted with tiny mushrooms in a dark forest at dusk.",
+    "kind": "image",
+    "createdAt": 1794192982815,
+    "w": 1152,
+    "h": 1712,
+    "file": "media/IMG_2231.JPG",
+    "thumb": "media/IMG_2231.JPG"
+  },
+  {
+    "id": "2tzffhnqu4rz4yya6755",
+    "title": "Crows Over the Golden Wheat",
+    "style": "Dark Fantasy",
+    "themes": [
+      "Crows",
+      "Field",
+      "Sky"
+    ],
+    "description": "A flock of crows scatters across a pale grey sky above a golden wheat field.",
+    "kind": "image",
+    "createdAt": 1794192982816,
+    "w": 1152,
+    "h": 1712,
+    "file": "media/IMG_2232.JPG",
+    "thumb": "media/IMG_2232.JPG"
+  },
+  {
+    "id": "p1ec352yz9xokrta5iz1",
+    "title": "Crystal Rose Above the Moonlit Peaks",
+    "style": "Fantasy Still Life",
+    "themes": [
+      "Rose",
+      "Moon",
+      "Mountains"
+    ],
+    "description": "A crystalline red rose drips water on a mossy cliff above misty, moonlit mountain peaks.",
+    "kind": "image",
+    "createdAt": 1794192982817,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2201.JPG",
+    "thumb": "media/IMG_2201.JPG"
+  },
+  {
+    "id": "u20j2aghhh5b8ryorp12",
+    "title": "Black Rose, Heart of Embers",
+    "style": "Dark Fantasy",
+    "themes": [
+      "Rose",
+      "Thorns",
+      "Heart"
+    ],
+    "description": "A black rose with a glowing red heart blooms inside a heart-shaped frame of silver thorn vines.",
+    "kind": "image",
+    "createdAt": 1794192982818,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2205.JPG",
+    "thumb": "media/IMG_2205.JPG"
+  },
+  {
+    "id": "tim6rcsf8at2r7vbkkn5",
+    "title": "Blue Rose Below the Castle",
+    "style": "Fantasy Still Life",
+    "themes": [
+      "Rose",
+      "Castle",
+      "Sunset"
+    ],
+    "description": "A vivid blue rose blooms beside a mossy stone wall below a castle silhouetted against a sunset sky.",
+    "kind": "image",
+    "createdAt": 1794192982819,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2207.JPG",
+    "thumb": "media/IMG_2207.JPG"
+  },
+  {
+    "id": "4llsd47qsth5d5rfo2xh",
+    "title": "Two Roses Under the Galaxy Moon",
+    "style": "Fantasy Still Life",
+    "themes": [
+      "Roses",
+      "Moon",
+      "Galaxy"
+    ],
+    "description": "A black rose and a lavender rose stand side by side beneath a full moon and a swirling purple galaxy.",
+    "kind": "image",
+    "createdAt": 1794192982820,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2204.JPG",
+    "thumb": "media/IMG_2204.JPG"
+  },
+  {
+    "id": "okjlwu8nl5rc0b0w1n8p",
+    "title": "Purple Rose in the Bokeh Night",
+    "style": "Fantasy Still Life",
+    "themes": [
+      "Rose",
+      "Moon",
+      "Night"
+    ],
+    "description": "A dew-covered purple rose blooms beneath a full moon, with soft colored lights glowing in the night behind it.",
+    "kind": "image",
+    "createdAt": 1794192982821,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2206.JPG",
+    "thumb": "media/IMG_2206.JPG"
+  },
+  {
+    "id": "gufg497ryavn8nxklucf",
+    "title": "Black Rose of the Frozen Peak",
+    "style": "Dark Fantasy",
+    "themes": [
+      "Rose",
+      "Winter",
+      "Mountains"
+    ],
+    "description": "A snow-frosted black rose hung with icicles blooms on a rocky peak amid snowy mountains.",
+    "kind": "image",
+    "createdAt": 1794192982822,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2202.JPG",
+    "thumb": "media/IMG_2202.JPG"
+  },
+  {
+    "id": "hl1l8pyrsh3pv0weinja",
+    "title": "The Glass Rose",
+    "style": "Fantasy Still Life",
+    "themes": [
+      "Rose",
+      "Crystal",
+      "Bokeh"
+    ],
+    "description": "A crystal glass rose with a red heart and green glass stem glows against warm golden bokeh lights.",
+    "kind": "image",
+    "createdAt": 1794192982823,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2208.JPG",
+    "thumb": "media/IMG_2208.JPG"
+  },
+  {
+    "id": "8os9aav1cwgm5vn6kk89",
+    "title": "Dark Rose at Golden Hour",
+    "style": "Dark Fantasy",
+    "themes": [
+      "Rose",
+      "Sunrise",
+      "Dew"
+    ],
+    "description": "A deep burgundy-black rose covered in dew catches the warm light of a golden sunrise.",
+    "kind": "image",
+    "createdAt": 1794192982824,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2203.JPG",
+    "thumb": "media/IMG_2203.JPG"
+  },
+  {
+    "id": "8n116kwzda140fyoz4cn",
+    "title": "Rooftop Angel Looking Skyward",
+    "style": "Urban Fantasy",
+    "themes": [
+      "Angel",
+      "Rooftop",
+      "Sunset"
+    ],
+    "description": "A braided, winged angel in a white sweater gazes upward from a graffiti rooftop as the sun sets over the city.",
+    "kind": "image",
+    "createdAt": 1794192982825,
+    "w": 1056,
+    "h": 1872,
+    "file": "media/IMG_2181.JPG",
+    "thumb": "media/IMG_2181.JPG"
+  },
+  {
+    "id": "xp78868bkh0uguqsrqp3",
+    "title": "Light in Her Hands",
+    "style": "Urban Fantasy",
+    "themes": [
+      "Angel",
+      "Light",
+      "Sunset"
+    ],
+    "description": "A close portrait of a braided rooftop angel looking up as warm light glows in her cupped hands at sunset.",
+    "kind": "image",
+    "createdAt": 1794192982826,
+    "w": 1056,
+    "h": 1872,
+    "file": "media/IMG_2179.JPG",
+    "thumb": "media/IMG_2179.JPG"
+  },
+  {
+    "id": "moi0qbezie2ycp0g13b4",
+    "title": "Rooftop Angel in Prayer",
+    "style": "Urban Fantasy",
+    "themes": [
+      "Angel",
+      "Prayer",
+      "Sunset"
+    ],
+    "description": "A winged angel with long braids closes her eyes over glowing cupped hands on a rooftop at golden hour.",
+    "kind": "image",
+    "createdAt": 1794192982827,
+    "w": 1056,
+    "h": 1872,
+    "file": "media/IMG_2180.JPG",
+    "thumb": "media/IMG_2180.JPG"
+  },
+  {
+    "id": "vjubo5l1rybbgztrmx77",
+    "title": "Angel Over the Evening City",
+    "style": "Urban Fantasy",
+    "themes": [
+      "Angel",
+      "City",
+      "Dusk"
+    ],
+    "description": "A braided angel in profile watches sparks of light rise over a city skyline at dusk.",
+    "kind": "image",
+    "createdAt": 1794192982828,
+    "w": 1056,
+    "h": 1872,
+    "file": "media/IMG_2177.JPG",
+    "thumb": "media/IMG_2177.JPG"
+  },
+  {
+    "id": "yluttkg1sic27hj2aaz7",
+    "title": "Shieldmaiden of the Rocky Shore",
+    "style": "Norse Fantasy",
+    "themes": [
+      "Shieldmaiden",
+      "Coast",
+      "Longship"
+    ],
+    "description": "A fur-cloaked shieldmaiden with spear and painted shield stands on a rocky shore with a Viking longship behind her.",
+    "kind": "image",
+    "createdAt": 1794192982829,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2152.JPG",
+    "thumb": "media/IMG_2152.JPG"
+  },
+  {
+    "id": "7qmk4pm0bd6bk2mqby5c",
+    "title": "The Weathered Viking",
+    "style": "Norse Fantasy",
+    "themes": [
+      "Viking",
+      "Warrior",
+      "Portrait"
+    ],
+    "description": "A close portrait of a bearded Viking warrior in a nasal helmet and chainmail, his face scarred and weathered.",
+    "kind": "image",
+    "createdAt": 1794192982830,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2153.JPG",
+    "thumb": "media/IMG_2153.JPG"
+  },
+  {
+    "id": "vojmcpuiw04riwihl7qn",
+    "title": "Charge of the Axe",
+    "style": "Norse Fantasy",
+    "themes": [
+      "Viking",
+      "Battle",
+      "Snow"
+    ],
+    "description": "A fur-clad Viking warrior roars as he charges through snow with a raised axe and round shield.",
+    "kind": "image",
+    "createdAt": 1794192982831,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2151.JPG",
+    "thumb": "media/IMG_2151.JPG"
+  },
+  {
+    "id": "41ocg70e7zqnc410fpar",
+    "title": "Warriors of the High Pass",
+    "style": "Norse Fantasy",
+    "themes": [
+      "Vikings",
+      "Mountains",
+      "Couple"
+    ],
+    "description": "A Viking warrior and a cloaked shieldmaiden stand together on a rocky peak above misty fjord mountains.",
+    "kind": "image",
+    "createdAt": 1794192982832,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2155.JPG",
+    "thumb": "media/IMG_2155.JPG"
+  },
+  {
+    "id": "8friikeok6w36odjcbq9",
+    "title": "Angel with the Glowing Orb",
+    "style": "Urban Fantasy",
+    "themes": [
+      "Angel",
+      "Rooftop",
+      "Magic"
+    ],
+    "description": "A braided angel stands in profile on a graffiti rooftop, holding a glowing orb of light as sunset colors the sky.",
+    "kind": "image",
+    "createdAt": 1794192982833,
+    "w": 1056,
+    "h": 1872,
+    "file": "media/IMG_2178.JPG",
+    "thumb": "media/IMG_2178.JPG"
+  },
+  {
+    "id": "w4xzl8bu0ztic0x81ejv",
+    "title": "Shieldmaiden of the Misty Forest",
+    "style": "Norse Fantasy",
+    "themes": [
+      "Shieldmaiden",
+      "Forest",
+      "Sword"
+    ],
+    "description": "A shieldmaiden raises her sword beside a round shield in a misty green forest.",
+    "kind": "image",
+    "createdAt": 1794192982834,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2156.JPG",
+    "thumb": "media/IMG_2156.JPG"
+  },
+  {
+    "id": "69f1mvspvhou5urrn0fj",
+    "title": "Shieldmaiden at the Cabin Door",
+    "style": "Norse Fantasy",
+    "themes": [
+      "Shieldmaiden",
+      "Cabin",
+      "Autumn"
+    ],
+    "description": "A shieldmaiden in fur-trimmed leather stands pensively outside a wooden cabin, her painted shield resting beside her.",
+    "kind": "image",
+    "createdAt": 1794192982835,
+    "w": 784,
+    "h": 1168,
+    "file": "media/IMG_2154.JPG",
+    "thumb": "media/IMG_2154.JPG"
+  },
+  {
+    "id": "3hgxbnmretvg781ng4f1",
+    "title": "Rooftop Angel at Rest",
+    "style": "Urban Fantasy",
+    "themes": [
+      "Angel",
+      "Rooftop",
+      "Sunset"
+    ],
+    "description": "A winged angel with braids sits on a rooftop at sunset, gazing out over the city with her wings spread behind her.",
+    "kind": "image",
+    "createdAt": 1794192982836,
+    "w": 576,
+    "h": 1024,
+    "file": "media/original_still_3.JPG",
+    "thumb": "media/original_still_3.JPG"
+  },
+  {
+    "id": "6wrq86l4c10qxx8kw145",
+    "title": "Angel on the Ledge",
+    "style": "Urban Fantasy",
+    "themes": [
+      "Angel",
+      "Rooftop",
+      "Sunset"
+    ],
+    "description": "A braided angel in a white sweater sits on a rooftop ledge at sunset, her large white wings open behind her.",
+    "kind": "image",
+    "createdAt": 1794192982837,
+    "w": 576,
+    "h": 1024,
+    "file": "media/original_still_2.JPG",
+    "thumb": "media/original_still_2.JPG"
+  },
+  {
+    "id": "cz0mvweziha16t49i7aj",
+    "title": "Chrome Android of the Neon City",
+    "style": "Sci-Fi Fantasy",
+    "themes": [
+      "Android",
+      "Cyberpunk",
+      "City"
+    ],
+    "description": "A chrome android woman in a mirrored gown poses in a futuristic temple hall and above a neon-lit city of drones and rain.",
+    "kind": "video",
+    "createdAt": 1794192982838,
+    "w": 1080,
+    "h": 1920,
+    "file": "media/14e3967d193c4f70907f3b59bf216337.MOV",
+    "thumb": "media/14e3967d193c4f70907f3b59bf216337_thumb.jpg"
+  },
+  {
+    "id": "6khgqcq3ig4n7o94t6fa",
+    "title": "A Waltz Through Time",
+    "style": "Romantic Fantasy",
+    "themes": [
+      "Couple",
+      "Dance",
+      "DNA"
+    ],
+    "description": "A 1920s couple slow-dances as golden double-helix light swirls around them, from a chandeliered ballroom to an enchanted forest.",
+    "kind": "video",
+    "createdAt": 1794192982839,
+    "w": 720,
+    "h": 1280,
+    "file": "media/v12044gd0000dbkupgvog65mn1mjtp0g.MP4",
+    "thumb": "media/v12044gd0000dbkupgvog65mn1mjtp0g_thumb.jpg"
+  }
   ]
 }
