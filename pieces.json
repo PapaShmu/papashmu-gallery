@@ -6946,6 +6946,465 @@
       "h": 1600,
       "file": "media/File_026_2.png",
       "thumb": "media/File_026_2.png"
+    },
+    {
+      "id": "y70optu0tsxft3omwyqz",
+      "title": "Atlantis by Night",
+      "style": "Fantasy Cityscape",
+      "themes": [
+        "Atlantis",
+        "City",
+        "Night"
+      ],
+      "description": "A crystal city of Atlantis glows electric blue across a dark harbor under a starry sky.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2521.JPG",
+      "thumb": "media/IMG_2521.JPG"
+    },
+    {
+      "id": "nb4izw9bnitwsph9312b",
+      "title": "The Rings of Atlantis",
+      "style": "Fantasy Cityscape",
+      "themes": [
+        "Atlantis",
+        "Aerial",
+        "City"
+      ],
+      "description": "Concentric rings of canals and streets encircle the golden heart of Atlantis, seen from the coastal hills.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2522.JPG",
+      "thumb": "media/IMG_2522.JPG"
+    },
+    {
+      "id": "z7r3869dbxiwud19oyf2",
+      "title": "The Sunken Gate of Atlantis",
+      "style": "Underwater Fantasy",
+      "themes": [
+        "Atlantis",
+        "Gate",
+        "Ocean"
+      ],
+      "description": "Colossal statues guard a towering underwater gate, with the lit city of Atlantis shimmering beyond.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2525.JPG",
+      "thumb": "media/IMG_2525.JPG"
+    },
+    {
+      "id": "k0083m37x8521mgcni5e",
+      "title": "Harbor of Atlantis at Sunset",
+      "style": "Fantasy Cityscape",
+      "themes": [
+        "Atlantis",
+        "Harbor",
+        "Sunset"
+      ],
+      "description": "Crystal-sailed ships fill the harbor of Atlantis as the setting sun gilds its domes and towers.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2523.JPG",
+      "thumb": "media/IMG_2523.JPG"
+    },
+    {
+      "id": "ks5xhe219pmp6dgedhix",
+      "title": "Atlantis Above the Mist",
+      "style": "Fantasy Cityscape",
+      "themes": [
+        "Atlantis",
+        "City",
+        "Mist"
+      ],
+      "description": "A spired crystal city rises from misty waters, viewed from dark rocky cliffs.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2527.JPG",
+      "thumb": "media/IMG_2527.JPG"
+    },
+    {
+      "id": "2nnfq9avhrf2zzuy86o4",
+      "title": "The Horned Prince",
+      "style": "Dark Fantasy Portrait",
+      "themes": [
+        "Horns",
+        "Prince",
+        "Portrait"
+      ],
+      "description": "A horned dark prince with curling black hair smirks through curling green smoke.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2411.JPG",
+      "thumb": "media/IMG_2411.JPG"
+    },
+    {
+      "id": "c18munny1uy8bc9aoz1r",
+      "title": "Born of the Shell",
+      "style": "Mythic Portrait",
+      "themes": [
+        "Venus",
+        "Sea",
+        "Doves"
+      ],
+      "description": "A sea-born goddess rises from a giant shell in the surf, ringed by doves and pink roses.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2354.JPG",
+      "thumb": "media/IMG_2354.JPG"
+    },
+    {
+      "id": "i921lkhv1s5rx0ct0vzm",
+      "title": "Daughter of the Tide",
+      "style": "Mythic Portrait",
+      "themes": [
+        "Sea",
+        "Goddess",
+        "Sunset"
+      ],
+      "description": "A woman in a sheer sea-green gown stands eyes-closed in the surf as sunset light catches the foam.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2419.JPG",
+      "thumb": "media/IMG_2419.JPG"
+    },
+    {
+      "id": "gfvw3pb3yv4w5ssmi8z2",
+      "title": "The Trickster's Helm",
+      "style": "Dark Fantasy Portrait",
+      "themes": [
+        "Loki",
+        "Helm",
+        "Lightning"
+      ],
+      "description": "A horn-helmed trickster grins as green lightning cracks across his face amid flames.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 1008,
+      "h": 1792,
+      "file": "media/IMG_2422.JPG",
+      "thumb": "media/IMG_2422.JPG"
+    },
+    {
+      "id": "7gpb0tl7818d7hot5z1c",
+      "title": "Anubis Weighs the Heart",
+      "style": "Egyptian Mythology",
+      "themes": [
+        "Anubis",
+        "Scales",
+        "Afterlife"
+      ],
+      "description": "Anubis holds the scales of judgment, weighing a human heart in the darkness of the afterlife.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2386.JPG",
+      "thumb": "media/IMG_2386.JPG"
+    },
+    {
+      "id": "6i08vstdlxtkgq0jb8dd",
+      "title": "Horus Over the Pyramids",
+      "style": "Egyptian Mythology",
+      "themes": [
+        "Horus",
+        "Falcon",
+        "Pyramids"
+      ],
+      "description": "The falcon god Horus spreads golden wings and dives above the pyramids of the desert.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2385.JPG",
+      "thumb": "media/IMG_2385.JPG"
+    },
+    {
+      "id": "apxbevl62e3pp2n9p4zt",
+      "title": "Osiris, Lord of the Dead",
+      "style": "Egyptian Mythology",
+      "themes": [
+        "Osiris",
+        "Pharaoh",
+        "Afterlife"
+      ],
+      "description": "Green-skinned Osiris in a striped nemes headdress clasps his chest in solemn profile.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2384.JPG",
+      "thumb": "media/IMG_2384.JPG"
+    },
+    {
+      "id": "tdwkkgavrdc1iq5f1bkx",
+      "title": "Ra Aboard the Solar Boat",
+      "style": "Egyptian Mythology",
+      "themes": [
+        "Ra",
+        "Sun",
+        "Boat"
+      ],
+      "description": "Falcon-headed Ra, crowned with a blazing sun disk, rides his golden solar boat through radiant light.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2382.JPG",
+      "thumb": "media/IMG_2382.JPG"
+    },
+    {
+      "id": "5x1ae1ujtw9ihmxz2pym",
+      "title": "Isis by the Water",
+      "style": "Egyptian Mythology",
+      "themes": [
+        "Isis",
+        "Wings",
+        "Goddess"
+      ],
+      "description": "Winged Isis in a white gown rests a hand to her heart beside calm waters.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2383.JPG",
+      "thumb": "media/IMG_2383.JPG"
+    },
+    {
+      "id": "oj863erqpm4p8q33yjbw",
+      "title": "Athena in Armor",
+      "style": "Greek Mythology",
+      "themes": [
+        "Athena",
+        "Owl",
+        "Armor"
+      ],
+      "description": "Athena stands in engraved armor with her owl and spear, eyes lowered in thought.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2381.JPG",
+      "thumb": "media/IMG_2381.JPG"
+    },
+    {
+      "id": "mdiackel0u9qwp8jcgj2",
+      "title": "Poseidon of the Storm Seas",
+      "style": "Greek Mythology",
+      "themes": [
+        "Poseidon",
+        "Trident",
+        "Sea"
+      ],
+      "description": "Poseidon grips his trident in a storm-tossed sea as white sea-horses surge behind him.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2380.JPG",
+      "thumb": "media/IMG_2380.JPG"
+    },
+    {
+      "id": "dj1y9nqu0vrfzaqr6g18",
+      "title": "Voice of the Surf",
+      "style": "Mythic Portrait",
+      "themes": [
+        "Sea",
+        "Nymph",
+        "Surf"
+      ],
+      "description": "A sea nymph tilts her face to the light, eyes closed, as surf foams around her shoulders.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2379.JPG",
+      "thumb": "media/IMG_2379.JPG"
+    },
+    {
+      "id": "e1743c6qjisyk0407pqw",
+      "title": "Hades and the Hounds",
+      "style": "Greek Mythology",
+      "themes": [
+        "Hades",
+        "Underworld",
+        "Cerberus"
+      ],
+      "description": "Hades stands in the fiery underworld holding his bident, black hounds snarling at his side.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2374.JPG",
+      "thumb": "media/IMG_2374.JPG"
+    },
+    {
+      "id": "bi5txe8ug87nsuq8z02x",
+      "title": "Zeus, Keeper of the Storm",
+      "style": "Greek Mythology",
+      "themes": [
+        "Zeus",
+        "Lightning",
+        "Storm"
+      ],
+      "description": "White-bearded Zeus grips a staff crackling with lightning beneath a storm-dark sky.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2372.JPG",
+      "thumb": "media/IMG_2372.JPG"
+    },
+    {
+      "id": "5lr3k5nn5jl3ytf4hf8s",
+      "title": "Poseidon Rising",
+      "style": "Greek Mythology",
+      "themes": [
+        "Poseidon",
+        "Trident",
+        "Surf"
+      ],
+      "description": "Poseidon rises waist-deep from crashing surf, trident planted against the storm.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2378.JPG",
+      "thumb": "media/IMG_2378.JPG"
+    },
+    {
+      "id": "0dv1s11narx833wr0yp0",
+      "title": "Jupiter in Roman Armor",
+      "style": "Roman Mythology",
+      "themes": [
+        "Jupiter",
+        "Eagle",
+        "Lightning"
+      ],
+      "description": "Jupiter in ornate Roman armor holds a lightning dagger, his eagle watching from behind.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2375.JPG",
+      "thumb": "media/IMG_2375.JPG"
+    },
+    {
+      "id": "hean6xvptowx1tq0luum",
+      "title": "Apollo with His Lyre",
+      "style": "Greek Mythology",
+      "themes": [
+        "Apollo",
+        "Lyre",
+        "Laurel"
+      ],
+      "description": "Young Apollo, crowned with laurel, holds his lyre before marble columns.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2373.JPG",
+      "thumb": "media/IMG_2373.JPG"
+    },
+    {
+      "id": "z7n0kmxrl4smba2ev3zv",
+      "title": "Athena of the Owl Armor",
+      "style": "Greek Mythology",
+      "themes": [
+        "Athena",
+        "Owl",
+        "Armor"
+      ],
+      "description": "Athena wears armor forged with an owl's face, her owl companion perched at her shoulder.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2377.JPG",
+      "thumb": "media/IMG_2377.JPG"
+    },
+    {
+      "id": "0j61jee9v7joc2sl3gkm",
+      "title": "Mars on Campaign",
+      "style": "Roman Mythology",
+      "themes": [
+        "Mars",
+        "Soldier",
+        "War"
+      ],
+      "description": "A battle-worn Roman war god in a red cloak stands with spear and shield under smoke.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2376.JPG",
+      "thumb": "media/IMG_2376.JPG"
+    },
+    {
+      "id": "romrvzwxbcwc314xt9vw",
+      "title": "Krishna's Flute",
+      "style": "Hindu Mythology",
+      "themes": [
+        "Krishna",
+        "Flute",
+        "Peacock Feather"
+      ],
+      "description": "Blue-skinned Krishna, crowned with a peacock feather, plays his golden flute in close portrait.",
+      "kind": "image",
+      "createdAt": 1794265046344,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2366.JPG",
+      "thumb": "media/IMG_2366.JPG"
+    },
+    {
+      "id": "p9e4gs7amquocvmea47x",
+      "title": "Vishnu on the Serpent",
+      "style": "Hindu Mythology",
+      "themes": [
+        "Vishnu",
+        "Serpent",
+        "Ocean"
+      ],
+      "description": "Vishnu reclines on the great serpent Shesha upon the cosmic ocean, a lotus at his side and light in his palm.",
+      "kind": "video",
+      "createdAt": 1794265046344,
+      "w": 768,
+      "h": 1152,
+      "file": "media/887084746_1671403904609582_6426268036741879935_n.MP4",
+      "thumb": "media/887084746_1671403904609582_6426268036741879935_n_thumb.jpg"
+    },
+    {
+      "id": "ikx04xnm4benb6533x2i",
+      "title": "Zeus with the Lightning Staff",
+      "style": "Greek Mythology",
+      "themes": [
+        "Zeus",
+        "Lightning",
+        "Storm"
+      ],
+      "description": "White-maned Zeus grips a staff alive with lightning, storm clouds rolling behind him.",
+      "kind": "video",
+      "createdAt": 1794265046344,
+      "w": 768,
+      "h": 1152,
+      "file": "media/886764330_2649757838828912_1743891897173239504_n.MP4",
+      "thumb": "media/886764330_2649757838828912_1743891897173239504_n_thumb.jpg"
     }
   ]
 }
