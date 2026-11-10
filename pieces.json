@@ -7405,6 +7405,465 @@
       "h": 1152,
       "file": "media/886764330_2649757838828912_1743891897173239504_n.MP4",
       "thumb": "media/886764330_2649757838828912_1743891897173239504_n_thumb.jpg"
+    },
+    {
+      "id": "pelpazebtlzhuujhx2re",
+      "title": "Freyja in the Meadow",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Norse",
+        "Goddess",
+        "Meadow"
+      ],
+      "description": "A golden-haired Norse goddess in jeweled finery gazes across a wildflower meadow.",
+      "kind": "image",
+      "createdAt": 1794280179023,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2371.JPG",
+      "thumb": "media/IMG_2371.JPG"
+    },
+    {
+      "id": "isx2bbyi1et480qjod5d",
+      "title": "Odin, the All-Father",
+      "style": "Norse Mythology",
+      "themes": [
+        "Odin",
+        "Ravens",
+        "Mythology"
+      ],
+      "description": "One-eyed Odin in rune-carved armor stands with his ravens, gripping his spear.",
+      "kind": "image",
+      "createdAt": 1794280179024,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2367.JPG",
+      "thumb": "media/IMG_2367.JPG"
+    },
+    {
+      "id": "zwov2mnys69z6lj3tp41",
+      "title": "Loki, the Trickster",
+      "style": "Norse Mythology",
+      "themes": [
+        "Loki",
+        "Trickster",
+        "Magic"
+      ],
+      "description": "Loki stares out through green magical fire, his face marked with glowing sigils.",
+      "kind": "image",
+      "createdAt": 1794280179025,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2369.JPG",
+      "thumb": "media/IMG_2369.JPG"
+    },
+    {
+      "id": "ro26443d2g8gbanvvc55",
+      "title": "Thor, God of Thunder",
+      "style": "Norse Mythology",
+      "themes": [
+        "Thor",
+        "Lightning",
+        "Storm"
+      ],
+      "description": "Thor raises Mjolnir high as lightning cracks through the storm around him.",
+      "kind": "image",
+      "createdAt": 1794280179026,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2368.JPG",
+      "thumb": "media/IMG_2368.JPG"
+    },
+    {
+      "id": "n4e0drvh2ds1ydxnoy9i",
+      "title": "Tyr and the Wolf",
+      "style": "Norse Mythology",
+      "themes": [
+        "Tyr",
+        "Fenrir",
+        "Warrior"
+      ],
+      "description": "An armored Norse warrior stands sword in hand beside the great wolf Fenrir.",
+      "kind": "image",
+      "createdAt": 1794280179027,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2370.JPG",
+      "thumb": "media/IMG_2370.JPG"
+    },
+    {
+      "id": "q84l0hmdgseb8viefvrz",
+      "title": "Ganesha, Lord of Beginnings",
+      "style": "Hindu Mythology",
+      "themes": [
+        "Ganesha",
+        "Temple",
+        "Blessing"
+      ],
+      "description": "Ganesha sits in golden temple finery, garlanded, with his mouse companion at his feet.",
+      "kind": "image",
+      "createdAt": 1794280179028,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2364.JPG",
+      "thumb": "media/IMG_2364.JPG"
+    },
+    {
+      "id": "k6311h7juka5nd1wx4z5",
+      "title": "Durga Astride Her Lion",
+      "style": "Hindu Mythology",
+      "themes": [
+        "Durga",
+        "Lion",
+        "Goddess"
+      ],
+      "description": "Many-armed Durga in a red sari rides her lion, weapons raised in every hand.",
+      "kind": "image",
+      "createdAt": 1794280179029,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2365.JPG",
+      "thumb": "media/IMG_2365.JPG"
+    },
+    {
+      "id": "dpdc6vh84coj6llem7ew",
+      "title": "Shiva Beneath the Himalayas",
+      "style": "Hindu Mythology",
+      "themes": [
+        "Shiva",
+        "Trident",
+        "Mountains"
+      ],
+      "description": "Blue Shiva, serpent coiled at his neck and trident in hand, meditates before snowy peaks.",
+      "kind": "image",
+      "createdAt": 1794280179030,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2362.JPG",
+      "thumb": "media/IMG_2362.JPG"
+    },
+    {
+      "id": "9i6zflkjr8vgsnu3e07d",
+      "title": "Vishnu on the Cosmic Serpent",
+      "style": "Hindu Mythology",
+      "themes": [
+        "Vishnu",
+        "Serpent",
+        "Cosmos"
+      ],
+      "description": "Vishnu reclines on the many-hooded cosmic serpent beneath a star-filled sky.",
+      "kind": "image",
+      "createdAt": 1794280179031,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2363.JPG",
+      "thumb": "media/IMG_2363.JPG"
+    },
+    {
+      "id": "a5cnsn3scug4xfytzmuz",
+      "title": "Morning Coffee, Soft Light",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Cozy",
+        "Coffee",
+        "Portrait"
+      ],
+      "description": "A bespectacled blonde in a soft sweater cradles a steaming mug in warm window light.",
+      "kind": "image",
+      "createdAt": 1794280179032,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2687.JPG",
+      "thumb": "media/IMG_2687.JPG"
+    },
+    {
+      "id": "24vddgmpkxmmq2lw1czi",
+      "title": "Desert Bootlace",
+      "style": "Country & Western",
+      "themes": [
+        "Cowgirl",
+        "Desert",
+        "Boots"
+      ],
+      "description": "A blonde cowgirl crouches in the desert dust to tie her boot beneath a cloudy sky.",
+      "kind": "image",
+      "createdAt": 1794280179033,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2684.JPG",
+      "thumb": "media/IMG_2684.JPG"
+    },
+    {
+      "id": "d2jsom24shn1223o7sv6",
+      "title": "The Sculptor's Muse",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Statue",
+        "Muse",
+        "Ribbon"
+      ],
+      "description": "A young woman sits in thought beside a classical marble statue, silver ribbon at her feet.",
+      "kind": "image",
+      "createdAt": 1794280179034,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2686.JPG",
+      "thumb": "media/IMG_2686.JPG"
+    },
+    {
+      "id": "r7mu2qdyjthexep2esh1",
+      "title": "Cowgirl at Rest",
+      "style": "Country & Western",
+      "themes": [
+        "Cowgirl",
+        "Hat",
+        "Portrait"
+      ],
+      "description": "A dark-haired cowgirl in a white shirt and hat sits tipping her brim to the viewer.",
+      "kind": "image",
+      "createdAt": 1794280179035,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2689.JPG",
+      "thumb": "media/IMG_2689.JPG"
+    },
+    {
+      "id": "7lnwm4cjzfm7t0jjv2cy",
+      "title": "Reading by the Sea",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Beach",
+        "Reading",
+        "Summer"
+      ],
+      "description": "A blonde in a white sundress reads in a beach chair with the sea behind her.",
+      "kind": "image",
+      "createdAt": 1794280179036,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2685.JPG",
+      "thumb": "media/IMG_2685.JPG"
+    },
+    {
+      "id": "hhnhbw6bx0kf1wf95er3",
+      "title": "A Cowgirl Christmas",
+      "style": "Country & Western",
+      "themes": [
+        "Cowgirl",
+        "Christmas",
+        "Saloon"
+      ],
+      "description": "A cowgirl in denim and white boots sits on a saloon floor while Santa watches from behind.",
+      "kind": "image",
+      "createdAt": 1794280179037,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2688.JPG",
+      "thumb": "media/IMG_2688.JPG"
+    },
+    {
+      "id": "12w95n4cvnl49ww66xnc",
+      "title": "Morning in White Silk",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Silk",
+        "Morning",
+        "Portrait"
+      ],
+      "description": "A blonde in an open white shirt reclines on rumpled white bedding in soft morning light.",
+      "kind": "image",
+      "createdAt": 1794280179038,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2695.JPG",
+      "thumb": "media/IMG_2695.JPG"
+    },
+    {
+      "id": "dxu2bjivm83d49x5r3zj",
+      "title": "Evening in Grey Silk",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Silk",
+        "Evening",
+        "Portrait"
+      ],
+      "description": "A dark-haired woman in a grey robe kneels on a bed in dim, curtained evening light.",
+      "kind": "image",
+      "createdAt": 1794280179039,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2694.JPG",
+      "thumb": "media/IMG_2694.JPG"
+    },
+    {
+      "id": "e3hh8pjh9u7bvy5p7xj8",
+      "title": "Blindfold in Black Silk",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Silk",
+        "Blindfold",
+        "Portrait"
+      ],
+      "description": "A blindfolded blonde reclines against black silk sheets, arms raised above her head.",
+      "kind": "image",
+      "createdAt": 1794280179040,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2693.JPG",
+      "thumb": "media/IMG_2693.JPG"
+    },
+    {
+      "id": "rb0epsmz6hck2wvlxanb",
+      "title": "Back at the Saloon Bar",
+      "style": "Country & Western",
+      "themes": [
+        "Cowgirl",
+        "Saloon",
+        "Holster"
+      ],
+      "description": "A cowgirl leans back against a saloon bar, holster on her hip, under red lamplight.",
+      "kind": "image",
+      "createdAt": 1794280179041,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2681.JPG",
+      "thumb": "media/IMG_2681.JPG"
+    },
+    {
+      "id": "34bswdw8de4h4c9e32tl",
+      "title": "Candlelight in Black Lace",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Lace",
+        "Candlelight",
+        "Portrait"
+      ],
+      "description": "A redhead in black lace sits on a satin bed lit by candles.",
+      "kind": "image",
+      "createdAt": 1794280179042,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2692.JPG",
+      "thumb": "media/IMG_2692.JPG"
+    },
+    {
+      "id": "lba2kjouax2ijsxufy2b",
+      "title": "Coffee Over Paris",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Paris",
+        "Coffee",
+        "Redhead"
+      ],
+      "description": "A redhead in a green dress holds a mug on a balcony overlooking the Paris rooftops.",
+      "kind": "image",
+      "createdAt": 1794280179043,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2683.JPG",
+      "thumb": "media/IMG_2683.JPG"
+    },
+    {
+      "id": "19gap9tbgvm5wkoqk1el",
+      "title": "Tea on the Balcony",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Balcony",
+        "Tea",
+        "Gown"
+      ],
+      "description": "A blonde in an off-shoulder white gown sits with a teacup on a stone balcony.",
+      "kind": "image",
+      "createdAt": 1794280179044,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2682.JPG",
+      "thumb": "media/IMG_2682.JPG"
+    },
+    {
+      "id": "2yrtinw1enwla2hlu2mx",
+      "title": "Black Robe, Golden Bed",
+      "style": "Dark Fantasy",
+      "themes": [
+        "Robe",
+        "Bedroom",
+        "Portrait"
+      ],
+      "description": "A blonde in a black robe kneels on a golden satin bed, looking down in thought.",
+      "kind": "image",
+      "createdAt": 1794280179045,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2691.JPG",
+      "thumb": "media/IMG_2691.JPG"
+    },
+    {
+      "id": "opllbfq5rmeg9jjk8rvy",
+      "title": "White Lace on Satin",
+      "style": "Fantasy Portrait",
+      "themes": [
+        "Lace",
+        "Satin",
+        "Portrait"
+      ],
+      "description": "A dark-haired woman in white lace reclines on ivory satin sheets, arms overhead.",
+      "kind": "image",
+      "createdAt": 1794280179046,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2690.JPG",
+      "thumb": "media/IMG_2690.JPG"
+    },
+    {
+      "id": "99sgcpiow8e0id0ghqx4",
+      "title": "Wine at the Tavern Bar",
+      "style": "Country & Western",
+      "themes": [
+        "Tavern",
+        "Wine",
+        "Portrait"
+      ],
+      "description": "A long-haired woman in a tied white shirt leans at a tavern bar beside a glass of wine.",
+      "kind": "image",
+      "createdAt": 1794280179047,
+      "w": 784,
+      "h": 1168,
+      "file": "media/IMG_2680.JPG",
+      "thumb": "media/IMG_2680.JPG"
+    },
+    {
+      "id": "ug0d6y92linimzk7p5qv",
+      "title": "Odin, the All-Father \u2014 Reel",
+      "style": "Norse Mythology",
+      "themes": [
+        "Odin",
+        "Ravens",
+        "Reel"
+      ],
+      "description": "Odin brings his ravens and rune-carved spear to life in a short animated reel.",
+      "kind": "video",
+      "createdAt": 1794280179123,
+      "w": 768,
+      "h": 1152,
+      "file": "media/886726776_1836206214492209_2088920913055951622_n.MP4",
+      "thumb": "media/886726776_1836206214492209_2088920913055951622_n_thumb.jpg"
+    },
+    {
+      "id": "vj6m2hroc3jhdui08wfe",
+      "title": "Thor Raises Mjolnir \u2014 Reel",
+      "style": "Norse Mythology",
+      "themes": [
+        "Thor",
+        "Lightning",
+        "Reel"
+      ],
+      "description": "Thor roars in the rain and raises Mjolnir as lightning erupts from the hammer.",
+      "kind": "video",
+      "createdAt": 1794280179124,
+      "w": 768,
+      "h": 1152,
+      "file": "media/893057190_28984787884497599_2226263760750754063_n.MP4",
+      "thumb": "media/893057190_28984787884497599_2226263760750754063_n_thumb.jpg"
     }
   ]
 }
