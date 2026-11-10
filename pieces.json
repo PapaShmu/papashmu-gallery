@@ -648,7 +648,7 @@
   },
   {
    "id": "zalhugbmhlbkprrhualk",
-   "title": "That Papa Shmu Sure Is Dreamy \u2014 In Motion",
+   "title": "That Papa Shmu Sure Is Dreamy — In Motion",
    "style": "Fantasy Reel",
    "themes": [
     "Pop Art",
@@ -2193,7 +2193,7 @@
   },
   {
    "id": "jk5r60jo3ipj4vo1fhid",
-   "title": "Ancestral Spirit \u2014 Guide, Protect, Remember",
+   "title": "Ancestral Spirit — Guide, Protect, Remember",
    "style": "Psychedelic Surrealism",
    "themes": [
     "Skulls",
@@ -2209,7 +2209,7 @@
   },
   {
    "id": "y2bmdzaieu3vpczw2gqe",
-   "title": "Ancestral Spirit \u2014 The Second Telling",
+   "title": "Ancestral Spirit — The Second Telling",
    "style": "Psychedelic Surrealism",
    "themes": [
     "Skulls",
@@ -2337,7 +2337,7 @@
   },
   {
    "id": "2slbw4gglfnms3wmtp2j",
-   "title": "Shh \u2014 The Purple Clown",
+   "title": "Shh — The Purple Clown",
    "style": "Dark Fantasy",
    "themes": [
     "Clowns",
@@ -2449,7 +2449,7 @@
   },
   {
    "id": "lr0oj3jpmtup3hviucqq",
-   "title": "Steel Rebellion \u2014 Biker Montage",
+   "title": "Steel Rebellion — Biker Montage",
    "style": "Biker Montage",
    "themes": [
     "Motorcycles",
@@ -2465,7 +2465,7 @@
   },
   {
    "id": "5q8h9yufhhzj8o8s42ey",
-   "title": "Cowboys \u2014 Ranch Montage",
+   "title": "Cowboys — Ranch Montage",
    "style": "Western Montage",
    "themes": [
     "Cowboys",
@@ -2881,13 +2881,13 @@
   },
   {
    "id": "6w2ladixqsj8ba309iqa",
-   "title": "Psychedelic Faces \u2014 Circuit Elf",
+   "title": "Psychedelic Faces — Circuit Elf",
    "style": "Psychedelic Montage",
    "themes": [
     "Psychedelic",
     "Portraits"
    ],
-   "description": "A montage of psychedelic faces \u2014 a third-eye man, a green circuit-patterned elf crowned with flowers, and a sunflower woman.",
+   "description": "A montage of psychedelic faces — a third-eye man, a green circuit-patterned elf crowned with flowers, and a sunflower woman.",
    "kind": "video",
    "createdAt": 1794132207889,
    "w": 720,
@@ -3009,7 +3009,7 @@
   },
   {
    "id": "fp9c9u56dbosfd6bchtv",
-   "title": "Shh \u2014 The Hallway Clown",
+   "title": "Shh — The Hallway Clown",
    "style": "Dark Fantasy",
    "themes": [
     "Clowns",
@@ -4194,13 +4194,13 @@
   },
   {
    "id": "g2my83whsl3nin66rxio",
-   "title": "Punk Princess Rebellion \u2014 Live",
+   "title": "Punk Princess Rebellion — Live",
    "style": "Punk Rock",
    "themes": [
     "Punk Band",
     "Live Music"
    ],
-   "description": "An all-girl punk band tears through a live set \u2014 pink-mohawk singer, sticker-covered bass and studded leather under purple and red stage lights.",
+   "description": "An all-girl punk band tears through a live set — pink-mohawk singer, sticker-covered bass and studded leather under purple and red stage lights.",
    "kind": "video",
    "createdAt": 1794164518668,
    "w": 1080,
@@ -5554,7 +5554,7 @@
     "Candlelight",
     "Portrait"
    ],
-   "description": "A slideshow of a young woman in ornate period gowns \u2014 purple velvet, burgundy and cream lace \u2014 posed in candlelit, fireplace-lit interiors.",
+   "description": "A slideshow of a young woman in ornate period gowns — purple velvet, burgundy and cream lace — posed in candlelit, fireplace-lit interiors.",
    "kind": "video",
    "createdAt": 1794207712625,
    "w": 1080,
@@ -6260,14 +6260,14 @@
   },
   {
    "id": "1vkjk7dqpi5oaq7i34fm",
-   "title": "The Caf\u00e9 Entrance",
+   "title": "The Café Entrance",
    "style": "Vintage Cityscape",
    "themes": [
     "Flatiron",
-    "Caf\u00e9",
+    "Café",
     "Stone Carving"
    ],
-   "description": "An ornately carved stone flatiron entrance opens onto a caf\u00e9 awning and figures in period dress.",
+   "description": "An ornately carved stone flatiron entrance opens onto a café awning and figures in period dress.",
    "kind": "image",
    "createdAt": 1794236986038,
    "w": 1008,
@@ -6316,9 +6316,9 @@
    "themes": [
     "Flatiron",
     "Modern",
-    "Caf\u00e9"
+    "Café"
    ],
-   "description": "The brick flatiron in the present day, a caf\u00e9 at its base and a blue car parked on the wet street.",
+   "description": "The brick flatiron in the present day, a café at its base and a blue car parked on the wet street.",
    "kind": "image",
    "createdAt": 1794236986041,
    "w": 1008,
@@ -6520,7 +6520,7 @@
     "Mona Lisa",
     "Portrait"
    ],
-   "description": "The timeless portrait reimagined \u2014 soft folded hands, dark tresses, and that faint, knowing smile over a misty landscape.",
+   "description": "The timeless portrait reimagined — soft folded hands, dark tresses, and that faint, knowing smile over a misty landscape.",
    "kind": "image",
    "createdAt": 1794250598944,
    "w": 1008,
@@ -6600,7 +6600,7 @@
     "Mona Lisa",
     "Profile"
    ],
-   "description": "A strict profile portrait \u2014 long dark hair, calm gaze, and the dreamy lakes and hills of the Renaissance behind her.",
+   "description": "A strict profile portrait — long dark hair, calm gaze, and the dreamy lakes and hills of the Renaissance behind her.",
    "kind": "image",
    "createdAt": 1794250598944,
    "w": 1008,
@@ -6932,14 +6932,14 @@
   },
   {
    "id": "pfcnsuf5nhzc19zjc0ie",
-   "title": "Punk Princess Rebellion \u2014 The Poster",
+   "title": "Punk Princess Rebellion — The Poster",
    "style": "Punk Collage Poster",
    "themes": [
     "Punk",
     "Music",
     "Rebellion"
    ],
-   "description": "A torn-poster collage introducing the four Punk Princesses \u2014 lead vocals, bass, guitar and drums \u2014 under the banner 'Four Princesses, No Rules, All Noise.'",
+   "description": "A torn-poster collage introducing the four Punk Princesses — lead vocals, bass, guitar and drums — under the banner 'Four Princesses, No Rules, All Noise.'",
    "kind": "image",
    "createdAt": 1794263772173,
    "w": 1600,
@@ -7833,7 +7833,7 @@
   },
   {
    "id": "ug0d6y92linimzk7p5qv",
-   "title": "Odin, the All-Father \u2014 Reel",
+   "title": "Odin, the All-Father — Reel",
    "style": "Norse Mythology",
    "themes": [
     "Odin",
@@ -7850,7 +7850,7 @@
   },
   {
    "id": "vj6m2hroc3jhdui08wfe",
-   "title": "Thor Raises Mjolnir \u2014 Reel",
+   "title": "Thor Raises Mjolnir — Reel",
    "style": "Norse Mythology",
    "themes": [
     "Thor",
@@ -8156,14 +8156,14 @@
   },
   {
    "id": "1clw8hf95cao3pz0qctl",
-   "title": "The Morr\u00edgan, Phantom Queen",
+   "title": "The Morrígan, Phantom Queen",
    "style": "Celtic Mythology",
    "themes": [
     "Morrigan",
     "Crow",
     "Battle"
    ],
-   "description": "The Morr\u00edgan watches the battlefield in a cloak of black feathers, her crows wheeling through the mist.",
+   "description": "The Morrígan watches the battlefield in a cloak of black feathers, her crows wheeling through the mist.",
    "kind": "image",
    "createdAt": 1794293915479,
    "w": 784,
@@ -8292,7 +8292,7 @@
   },
   {
    "id": "hdulio7185t4haqena52",
-   "title": "Tyr and His Wolf \u2014 Reel",
+   "title": "Tyr and His Wolf — Reel",
    "style": "Norse Mythology",
    "themes": [
     "Warrior",
@@ -8309,7 +8309,7 @@
   },
   {
    "id": "4psyiwfesuedupq7d2o7",
-   "title": "Sapphire in the Lavender Meadow \u2014 Reel",
+   "title": "Sapphire in the Lavender Meadow — Reel",
    "style": "Fantasy Portrait",
    "themes": [
     "Jewels",
@@ -8323,6 +8323,465 @@
    "h": 1152,
    "file": "media/891693215_2348016286029264_2653598032979684502_n.MP4",
    "thumb": "media/891693215_2348016286029264_2653598032979684502_n_thumb.jpg"
+  },
+  {
+   "id": "9qnfoqi3qb5ysp859lrz",
+   "title": "Chrome Siren of the Neon Rain",
+   "style": "Sci-Fi Portrait",
+   "themes": [
+    "Android",
+    "Neon City",
+    "Rain"
+   ],
+   "description": "A chrome android in sculpted silver armor strides down a rain-slick neon street beneath hovering drones.",
+   "kind": "image",
+   "createdAt": 1794308401987,
+   "w": 1184,
+   "h": 2096,
+   "file": "media/File_005.png",
+   "thumb": "media/File_005.png"
+  },
+  {
+   "id": "wcoci6yuc104ys3drwlf",
+   "title": "Sentinel of the Chrome Frontier",
+   "style": "Sci-Fi Portrait",
+   "themes": [
+    "Android",
+    "Frontier",
+    "Chrome"
+   ],
+   "description": "A black-and-chrome android strikes a pose on a mirror-metal plain before floating citadels.",
+   "kind": "image",
+   "createdAt": 1794308401988,
+   "w": 1184,
+   "h": 2096,
+   "file": "media/File_007.png",
+   "thumb": "media/File_007.png"
+  },
+  {
+   "id": "8f0j24r5kuy9vlmzo5ku",
+   "title": "The Laboratory Muse",
+   "style": "Sci-Fi Portrait",
+   "themes": [
+    "Android",
+    "Laboratory",
+    "Chrome"
+   ],
+   "description": "A chrome android woman stands poised in a dark high-tech laboratory ringed by glass and blue light.",
+   "kind": "image",
+   "createdAt": 1794308401989,
+   "w": 1184,
+   "h": 2096,
+   "file": "media/File_008.png",
+   "thumb": "media/File_008.png"
+  },
+  {
+   "id": "xmvm42h7ybnqp265k9v8",
+   "title": "Silver Angel of the Hangar",
+   "style": "Sci-Fi Portrait",
+   "themes": [
+    "Android",
+    "Hangar",
+    "Silver"
+   ],
+   "description": "A silver android with glowing blue circuitry walks through a bright futuristic hangar.",
+   "kind": "image",
+   "createdAt": 1794308401990,
+   "w": 1184,
+   "h": 2096,
+   "file": "media/File_009.png",
+   "thumb": "media/File_009.png"
+  },
+  {
+   "id": "7pp3jimxv1lxgjxyg59q",
+   "title": "The Sword Swallower's Kiss",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Freak Show",
+    "Sword Swallower",
+    "Strongman"
+   ],
+   "description": "Beneath a bold Freak Show banner, a strongman watches as the sword swallower takes the blade.",
+   "kind": "image",
+   "createdAt": 1794308401991,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2764.JPG",
+   "thumb": "media/IMG_2764.JPG"
+  },
+  {
+   "id": "xvtyncr8bkn6btrwb6s6",
+   "title": "The Freak Show Family",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Freak Show",
+    "Troupe",
+    "Sepia"
+   ],
+   "description": "The whole sideshow troupe poses in sepia beneath the big top for a family portrait.",
+   "kind": "image",
+   "createdAt": 1794308401992,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2763.JPG",
+   "thumb": "media/IMG_2763.JPG"
+  },
+  {
+   "id": "1podidwuqh6tfpkdjph1",
+   "title": "Wonders of the World",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Freak Show",
+    "Poster",
+    "Troupe"
+   ],
+   "description": "A painted poster gathers the bearded, tattooed and top-hatted wonders of the world.",
+   "kind": "image",
+   "createdAt": 1794308401993,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2762.JPG",
+   "thumb": "media/IMG_2762.JPG"
+  },
+  {
+   "id": "apxfyhklkbfkr7e32n9i",
+   "title": "The Classic Bill",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Freak Show",
+    "Poster",
+    "Wolfman"
+   ],
+   "description": "A red-and-gold billboard presents the strongman, the bearded lady and the wolfman.",
+   "kind": "image",
+   "createdAt": 1794308401994,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2760.JPG",
+   "thumb": "media/IMG_2760.JPG"
+  },
+  {
+   "id": "enshn5g9wodp5u2d8xal",
+   "title": "Freak Show in Bloom",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Freak Show",
+    "Art Nouveau",
+    "Poster"
+   ],
+   "description": "An art-nouveau poster frames three oval portraits of the sideshow stars among irises.",
+   "kind": "image",
+   "createdAt": 1794308401995,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2761.JPG",
+   "thumb": "media/IMG_2761.JPG"
+  },
+  {
+   "id": "ztjwxp19pi5874zz423r",
+   "title": "See the Wonders",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Freak Show",
+    "Poster",
+    "Triptych"
+   ],
+   "description": "An ornate triptych poster bills the Bearded Lady, the Strongman and the Sword Swallower.",
+   "kind": "image",
+   "createdAt": 1794308401996,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2758.JPG",
+   "thumb": "media/IMG_2758.JPG"
+  },
+  {
+   "id": "onqlbhl9slgpmyy7myhj",
+   "title": "The Bearded Lady and the Strongman",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Freak Show",
+    "Poster",
+    "Duo"
+   ],
+   "description": "A vintage poster pairs the bearded lady with the mustached strongman under the words See the Wonders.",
+   "kind": "image",
+   "createdAt": 1794308401997,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2759.JPG",
+   "thumb": "media/IMG_2759.JPG"
+  },
+  {
+   "id": "j5irc5vq87y08spagg0g",
+   "title": "The Electric Lady",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Electricity",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A sequined performer stands on stage with living sparks crackling from her fingertips.",
+   "kind": "image",
+   "createdAt": 1794308401998,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2757.JPG",
+   "thumb": "media/IMG_2757.JPG"
+  },
+  {
+   "id": "1e6y2uobul39l1qyss1s",
+   "title": "The Two-Headed Lady",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Two Heads",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A two-headed lady in a lace gown stands serenely on the sideshow stage.",
+   "kind": "image",
+   "createdAt": 1794308401999,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2756.JPG",
+   "thumb": "media/IMG_2756.JPG"
+  },
+  {
+   "id": "9le4lx5vzvongphvt05n",
+   "title": "The Dog-Faced Man",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Dog-Faced Man",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A hair-covered performer in a suit stands before painted portraits of himself.",
+   "kind": "image",
+   "createdAt": 1794308402000,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2754.JPG",
+   "thumb": "media/IMG_2754.JPG"
+  },
+  {
+   "id": "vi2cygv8xvr1ujkpzbaf",
+   "title": "The Elastic Man",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Contortionist",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A kneeling contortionist stretches his own skin impossibly before the tent curtain.",
+   "kind": "image",
+   "createdAt": 1794308402001,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2755.JPG",
+   "thumb": "media/IMG_2755.JPG"
+  },
+  {
+   "id": "vcp4ue7osd406iifcvr5",
+   "title": "The Living Skeleton",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Tall Man",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "An impossibly tall, thin man in a three-piece suit towers on the wooden stage.",
+   "kind": "image",
+   "createdAt": 1794308402002,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2753.JPG",
+   "thumb": "media/IMG_2753.JPG"
+  },
+  {
+   "id": "jooxhblniabnwla572o1",
+   "title": "The Fire Breather",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Fire",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A mustached performer in an embroidered jacket breathes a plume of flame.",
+   "kind": "image",
+   "createdAt": 1794308402003,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2751.JPG",
+   "thumb": "media/IMG_2751.JPG"
+  },
+  {
+   "id": "e88d8jgebewz80n62l2k",
+   "title": "The Contortionist",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Contortionist",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A sequined contortionist folds into an impossible arc on the stage boards.",
+   "kind": "image",
+   "createdAt": 1794308402004,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2752.JPG",
+   "thumb": "media/IMG_2752.JPG"
+  },
+  {
+   "id": "a1oxp7p0gsgg0t9i105s",
+   "title": "The Sword Swallower",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Sword Swallower",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A booted performer tilts his head back and takes the sword on stage.",
+   "kind": "image",
+   "createdAt": 1794308402005,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2750.JPG",
+   "thumb": "media/IMG_2750.JPG"
+  },
+  {
+   "id": "r1tercm1kgh8auofn7w9",
+   "title": "The Giant and the Boy",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Giant",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A giant in a long coat stands beside a small boy who gazes up at him.",
+   "kind": "image",
+   "createdAt": 1794308402006,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2749.JPG",
+   "thumb": "media/IMG_2749.JPG"
+  },
+  {
+   "id": "ks0htkmrx2lexvi6s7cs",
+   "title": "The Tattooed Lady",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Tattoo",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A tattooed lady in feathers and beads poses before her painted backdrop portraits.",
+   "kind": "image",
+   "createdAt": 1794308402007,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2748.JPG",
+   "thumb": "media/IMG_2748.JPG"
+  },
+  {
+   "id": "fb3oa4g35caq2gzkorjw",
+   "title": "The Bearded Lady",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Bearded Lady",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A bearded lady in a Victorian gown stands with hands folded on the stage.",
+   "kind": "image",
+   "createdAt": 1794308402008,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2746.JPG",
+   "thumb": "media/IMG_2746.JPG"
+  },
+  {
+   "id": "j44u0vg9uvuu1f9gml82",
+   "title": "The Strongman",
+   "style": "Vintage Sideshow",
+   "themes": [
+    "Strongman",
+    "Performer",
+    "Sepia"
+   ],
+   "description": "A mustached strongman in a leopard singlet lifts dumbbells before the tent.",
+   "kind": "image",
+   "createdAt": 1794308402009,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_2747.JPG",
+   "thumb": "media/IMG_2747.JPG"
+  },
+  {
+   "id": "pv0h1xfdnz9y3rl5cdtk",
+   "title": "Lamplight Alley",
+   "style": "Gothic",
+   "themes": [
+    "Alley",
+    "Night",
+    "Fog"
+   ],
+   "description": "A lone figure walks a wet cobblestone alley lit by gas lamps beneath a moonlit sky.",
+   "kind": "image",
+   "createdAt": 1794308402010,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_2728.JPG",
+   "thumb": "media/IMG_2728.JPG"
+  },
+  {
+   "id": "t7bk741teruhkj6mtqea",
+   "title": "Street of the Haunted Spire",
+   "style": "Gothic",
+   "themes": [
+    "Street",
+    "Fog",
+    "Spire"
+   ],
+   "description": "Mist rolls down a cobblestone street toward a church spire under a breaking moon.",
+   "kind": "image",
+   "createdAt": 1794308402011,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_2729.JPG",
+   "thumb": "media/IMG_2729.JPG"
+  },
+  {
+   "id": "1wuobluqwkpy3jty4i0u",
+   "title": "Zeus, Lord of the Storm — Reel",
+   "style": "Greek Mythology",
+   "themes": [
+    "Zeus",
+    "Lightning",
+    "Eagle"
+   ],
+   "description": "Zeus grips a crackling lightning spear as his eagle watches from his shoulder and the storm gathers.",
+   "kind": "video",
+   "createdAt": 1794308402087,
+   "w": 768,
+   "h": 1152,
+   "file": "media/887309678_2119753882080515_8033914350530762869_n.MP4",
+   "thumb": "media/887309678_2119753882080515_8033914350530762869_n_thumb.jpg"
+  },
+  {
+   "id": "qvvjmt5hlr71cdzb0jvj",
+   "title": "Hades and the Hound of Hell — Reel",
+   "style": "Greek Mythology",
+   "themes": [
+    "Hades",
+    "Cerberus",
+    "Underworld"
+   ],
+   "description": "Hades stands in the burning underworld beside the snarling three heads of Cerberus.",
+   "kind": "video",
+   "createdAt": 1794308402088,
+   "w": 768,
+   "h": 1152,
+   "file": "media/890869784_3467883210082967_785135845864542920_n.MP4",
+   "thumb": "media/890869784_3467883210082967_785135845864542920_n_thumb.jpg"
   }
  ]
 }
