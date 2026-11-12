@@ -9395,6 +9395,465 @@
    "h": 1152,
    "file": "media/891902843_1678759527180699_632944190175645618_n.MP4",
    "thumb": "media/891902843_1678759527180699_632944190175645618_n_thumb.jpg"
+  },
+  {
+   "id": "ti2c85k66q6u2551oimi",
+   "title": "The Puppet Politician",
+   "style": "Political Satire",
+   "themes": [
+    "Marionette",
+    "Politician",
+    "Podium"
+   ],
+   "description": "A suited politician gestures at a podium while giant hands work his marionette strings from above.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 1152,
+   "h": 2048,
+   "file": "media/File_014.png",
+   "thumb": "media/File_014.png"
+  },
+  {
+   "id": "eltbup5ix4059iatwfr4",
+   "title": "Strings Over the Wheat Field",
+   "style": "Political Satire",
+   "themes": [
+    "Marionette",
+    "Farmer",
+    "Wheat Field"
+   ],
+   "description": "A farmer in overalls and a straw hat stands in golden wheat, his movements guided by marionette strings from unseen hands.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 1152,
+   "h": 2048,
+   "file": "media/File_013.png",
+   "thumb": "media/File_013.png"
+  },
+  {
+   "id": "e2pg8mtc2bbngpnztpz8",
+   "title": "The Marionette Doctor",
+   "style": "Political Satire",
+   "themes": [
+    "Marionette",
+    "Doctor",
+    "Hospital"
+   ],
+   "description": "A doctor with a stethoscope and clipboard walks a hospital corridor, marionette strings rising from his limbs to hands above.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 1152,
+   "h": 2048,
+   "file": "media/File_012.png",
+   "thumb": "media/File_012.png"
+  },
+  {
+   "id": "awx3ukig79ztz9frwjmc",
+   "title": "The Tree Within the Eye",
+   "style": "Surrealist Vision",
+   "themes": [
+    "Eye",
+    "Tree of Life",
+    "Forest"
+   ],
+   "description": "Inside a vast human iris, a glowing tree of life rises over a forest path where a lone figure walks toward the light.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3295.JPG",
+   "thumb": "media/IMG_3295.JPG"
+  },
+  {
+   "id": "7gmommtdm926n86npzp5",
+   "title": "Ocean in the Iris",
+   "style": "Surrealist Vision",
+   "themes": [
+    "Eye",
+    "Ocean",
+    "Diver"
+   ],
+   "description": "A human iris becomes a deep blue reef, where a lone diver drifts above coral in shafts of underwater light.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3296.JPG",
+   "thumb": "media/IMG_3296.JPG"
+  },
+  {
+   "id": "v74ep3mh4dfyn29rnsna",
+   "title": "Desert in the Iris",
+   "style": "Surrealist Vision",
+   "themes": [
+    "Eye",
+    "Desert",
+    "Sunset"
+   ],
+   "description": "Within a golden-flecked iris, endless desert dunes roll toward a low sun as a tiny traveler crosses the sand.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3297.JPG",
+   "thumb": "media/IMG_3297.JPG"
+  },
+  {
+   "id": "6axbgzi2wwj2a391roa8",
+   "title": "Nebula in the Iris",
+   "style": "Surrealist Vision",
+   "themes": [
+    "Eye",
+    "Nebula",
+    "Cosmos"
+   ],
+   "description": "A human iris opens onto a violet nebula, where a lone figure stands atop a floating rock island among the stars.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3298.JPG",
+   "thumb": "media/IMG_3298.JPG"
+  },
+  {
+   "id": "e0q4ssa5pq0pqulpwx1e",
+   "title": "Winter Peaks in the Iris",
+   "style": "Surrealist Vision",
+   "themes": [
+    "Eye",
+    "Mountains",
+    "Snow"
+   ],
+   "description": "Inside a human iris, a snow-covered mountain ridge stretches out with a lone hiker walking the white peaks.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3299.JPG",
+   "thumb": "media/IMG_3299.JPG"
+  },
+  {
+   "id": "w4l4nahhcmh3weoanqqc",
+   "title": "Circle of the Golden Temple",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Temple",
+    "Ritual",
+    "Weapons"
+   ],
+   "description": "Robed figures stand in a ritual circle inside a golden temple as ancient weapons and runes float in a shaft of light.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3411.JPG",
+   "thumb": "media/IMG_3411.JPG"
+  },
+  {
+   "id": "zt5no8j9jcdvn4j9kp4u",
+   "title": "Golden Ribbon Dancers of the Shaolin",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Martial Arts",
+    "Dance",
+    "Gold"
+   ],
+   "description": "Four martial artists whirl through the dark trailing golden ribbons, their flowing forms lit like living calligraphy.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3409.JPG",
+   "thumb": "media/IMG_3409.JPG"
+  },
+  {
+   "id": "wa17lvnafcapr6eh9wbz",
+   "title": "Hooded Stranger in the Temple Quarter",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Hooded Figure",
+    "Temple",
+    "Mist"
+   ],
+   "description": "A hooded figure stands in a misty lantern-lit street, facing an ancient temple guarded by a stone lion.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3410.JPG",
+   "thumb": "media/IMG_3410.JPG"
+  },
+  {
+   "id": "byvts2k2ig3d0rb7ql1n",
+   "title": "Training in the Shaft of Light",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Martial Arts",
+    "Temple",
+    "Light"
+   ],
+   "description": "Hooded martial artists drill their stances in a dark hall, cut through by a single dramatic shaft of golden light.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3407.JPG",
+   "thumb": "media/IMG_3407.JPG"
+  },
+  {
+   "id": "997amoti1sfhkytzf4tr",
+   "title": "The Sword and the Swarm",
+   "style": "Dark Fantasy",
+   "themes": [
+    "Sword",
+    "Bees",
+    "Blade"
+   ],
+   "description": "An ornate engraved sword rises through darkness while a swarm of bees streams around its gleaming blade.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3408.JPG",
+   "thumb": "media/IMG_3408.JPG"
+  },
+  {
+   "id": "n6hq7buev628no0uhr8x",
+   "title": "Laugh of the Golden Clan",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Portrait",
+    "Gold",
+    "Street Art"
+   ],
+   "description": "A laughing performer in a camo bucket hat and gold chains bursts against a splattered black-and-yellow backdrop.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3396.JPG",
+   "thumb": "media/IMG_3396.JPG"
+  },
+  {
+   "id": "3pmqzxp4e139e045nlio",
+   "title": "Hood Up, Guard Up",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Portrait",
+    "Hoodie",
+    "Gold"
+   ],
+   "description": "A hooded figure stares down the viewer against a huge distressed yellow emblem in black-and-gold street-art style.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3395.JPG",
+   "thumb": "media/IMG_3395.JPG"
+  },
+  {
+   "id": "lm92l15d9crph5142p4j",
+   "title": "Voice of the Chamber",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Microphone",
+    "Portrait",
+    "Gold"
+   ],
+   "description": "A performer in a durag grips a microphone, framed by a massive splattered yellow emblem in black and gold.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3394.JPG",
+   "thumb": "media/IMG_3394.JPG"
+  },
+  {
+   "id": "yy6otb11hut091uj7jjj",
+   "title": "Chains and Sunglasses",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Portrait",
+    "Chains",
+    "Gold"
+   ],
+   "description": "A beanie-wearing figure in dark sunglasses and heavy gold chains poses before a distressed yellow emblem.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3391.JPG",
+   "thumb": "media/IMG_3391.JPG"
+  },
+  {
+   "id": "nu4q2766s3k42gsw0j0i",
+   "title": "Cap Tilted, Chains Heavy",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Portrait",
+    "Cap",
+    "Gold"
+   ],
+   "description": "A capped figure layered in gold chains looks off into the distance against a bold black-and-yellow splatter backdrop.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3393.JPG",
+   "thumb": "media/IMG_3393.JPG"
+  },
+  {
+   "id": "gzvuk4ydztvhvazknr1k",
+   "title": "Beanie Season in the Chamber",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Portrait",
+    "Beanie",
+    "Gold"
+   ],
+   "description": "A beanie-clad figure in a black hoodie stands solemn before a huge distressed yellow emblem.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3392.JPG",
+   "thumb": "media/IMG_3392.JPG"
+  },
+  {
+   "id": "9b1f8clxfhj4pmwnegd1",
+   "title": "Gold Chains, Chef's Coat",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Portrait",
+    "Chains",
+    "Gold"
+   ],
+   "description": "A figure in a black chef-style jacket and heavy gold chains, a crown-topped pendant at his chest, poses against yellow splatter.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3389.JPG",
+   "thumb": "media/IMG_3389.JPG"
+  },
+  {
+   "id": "3d6ux4xqecz7sx5vh32p",
+   "title": "Swordsman of the Golden Clan",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Sword",
+    "Martial Arts",
+    "Gold"
+   ],
+   "description": "A martial artist in a dragon-embroidered robe grips his sword, a gold sash at his waist and a yellow emblem blazing behind him.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3390.JPG",
+   "thumb": "media/IMG_3390.JPG"
+  },
+  {
+   "id": "x6ctpiz3vbjbpdg9awtt",
+   "title": "The Clan Assembled",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Group Portrait",
+    "Temple",
+    "Gold"
+   ],
+   "description": "Six figures in black-and-gold emblem hoodies assemble before a carved temple wall bearing their golden crest.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3387.JPG",
+   "thumb": "media/IMG_3387.JPG"
+  },
+  {
+   "id": "cfkvhgxsxvzzf2hsm9ut",
+   "title": "The Racing Jacket Emblem",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Portrait",
+    "Jacket",
+    "Gold"
+   ],
+   "description": "A figure in a black-and-gold racing jacket emblazoned with a huge yellow crest stands against a splattered backdrop.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3386.JPG",
+   "thumb": "media/IMG_3386.JPG"
+  },
+  {
+   "id": "091xu3n1kd5lveg81vev",
+   "title": "Close-Up in the Beanie",
+   "style": "Hip-Hop Portrait",
+   "themes": [
+    "Portrait",
+    "Beanie",
+    "Gold"
+   ],
+   "description": "An intimate close portrait of a beanie-wearing figure, a small gold emblem at his collar, against a distressed yellow crest.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3388.JPG",
+   "thumb": "media/IMG_3388.JPG"
+  },
+  {
+   "id": "j1feamgd39a1gtny6nto",
+   "title": "Kneeling Swordsman of the Bamboo Grove",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Sword",
+    "Bamboo",
+    "Martial Arts"
+   ],
+   "description": "A kneeling swordsman in black robes rests his blade in a bamboo grove, a distressed yellow emblem rising behind him.",
+   "kind": "image",
+   "createdAt": 1794466521675,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3385.JPG",
+   "thumb": "media/IMG_3385.JPG"
+  },
+  {
+   "id": "lxoigg9rix8a2n1evmcf",
+   "title": "Shango, Keeper of the Storm Axe",
+   "style": "Mythic Portrait",
+   "themes": [
+    "Orisha",
+    "Axe",
+    "Storm"
+   ],
+   "description": "An elder storm king in cowrie-shell necklaces grips his great double-headed axe beneath dark thunderclouds.",
+   "kind": "video",
+   "createdAt": 1794466521675,
+   "w": 768,
+   "h": 1152,
+   "file": "media/887236790_1034179369693833_3828313608710905659_n.MP4",
+   "thumb": "media/887236790_1034179369693833_3828313608710905659_n_thumb.jpg"
+  },
+  {
+   "id": "4swpuzbqrju2upjv1oja",
+   "title": "Warrior in the Rain",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Warrior",
+    "Rain",
+    "Sword"
+   ],
+   "description": "A muscular long-haired warrior stands soaked in pouring rain, sword in hand, staring down the storm.",
+   "kind": "video",
+   "createdAt": 1794466521675,
+   "w": 768,
+   "h": 1152,
+   "file": "media/888595805_1823374052142332_8485317431181321859_n.MP4",
+   "thumb": "media/888595805_1823374052142332_8485317431181321859_n_thumb.jpg"
   }
  ]
 }
