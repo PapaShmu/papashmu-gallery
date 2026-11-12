@@ -10313,6 +10313,465 @@
    "h": 1152,
    "file": "media/889873658_1021762754280772_937139291162596529_n.MP4",
    "thumb": "media/889873658_1021762754280772_937139291162596529_n_thumb.jpg"
+  },
+  {
+   "id": "27w91vr0s8ooxdgtbxnn",
+   "title": "A Card for the Veteran",
+   "style": "Heartfelt Realism",
+   "themes": [
+    "Veteran",
+    "Gratitude",
+    "Generations"
+   ],
+   "description": "A young boy presents a handmade card to a smiling elderly veteran in dress uniform, bathed in golden park light.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3358.JPG",
+   "thumb": "media/IMG_3358.JPG"
+  },
+  {
+   "id": "jh8xv8x2xd5w5ucg1hcf",
+   "title": "Grandfather at the Heart of the Family",
+   "style": "Heartfelt Realism",
+   "themes": [
+    "Family",
+    "Grandfather",
+    "Celebration"
+   ],
+   "description": "Three generations gather close around a beaming grandfather indoors, balloons and framed photos behind them.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3359.JPG",
+   "thumb": "media/IMG_3359.JPG"
+  },
+  {
+   "id": "o6n12pw0p1szskvu85tz",
+   "title": "Veterans' Picnic Portrait",
+   "style": "Heartfelt Realism",
+   "themes": [
+    "Veterans",
+    "Friendship",
+    "Picnic"
+   ],
+   "description": "A cheerful group of veterans in service caps poses together at a sunny outdoor picnic.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3357.JPG",
+   "thumb": "media/IMG_3357.JPG"
+  },
+  {
+   "id": "5szqjech5t79jdgdqo4f",
+   "title": "Old Glory Over the Heartland",
+   "style": "Patriotic Landscape",
+   "themes": [
+    "Flag",
+    "Sunrise",
+    "Fields"
+   ],
+   "description": "The American flag ripples above a quiet field as the sun breaks through dawn clouds.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3356.JPG",
+   "thumb": "media/IMG_3356.JPG"
+  },
+  {
+   "id": "m43lr7xr00y987q6v7a1",
+   "title": "The Mountain Inside the Book",
+   "style": "Storybook Fantasy",
+   "themes": [
+    "Open Book",
+    "Mountains",
+    "Climbers"
+   ],
+   "description": "A jagged mountain range rises from the cracked pages of an ancient book, three tiny climbers standing on its summit in a shaft of light.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3335.JPG",
+   "thumb": "media/IMG_3335.JPG"
+  },
+  {
+   "id": "o19vix5mih6qjpx5itvi",
+   "title": "The Forest Path in the Journal",
+   "style": "Storybook Fantasy",
+   "themes": [
+    "Open Book",
+    "Forest",
+    "Child"
+   ],
+   "description": "A handwritten journal opens into a sunlit forest trail, where a small child walks between the trees on the page.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3336.JPG",
+   "thumb": "media/IMG_3336.JPG"
+  },
+  {
+   "id": "dnvqq50r6csa3k2xfsqw",
+   "title": "Psychedelic Rock Legends in Gold and Swirls",
+   "style": "Psychedelic Rock Portrait",
+   "themes": [
+    "Band",
+    "Psychedelic",
+    "Gold"
+   ],
+   "description": "Four mop-topped musicians in ornate gold-embroidered outfits play amid swirling neon colors and a stained-glass drum.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_3493.JPG",
+   "thumb": "media/IMG_3493.JPG"
+  },
+  {
+   "id": "oifabpuq905xz94ihsvh",
+   "title": "The Singing Bassist in a Psychedelic Swirl",
+   "style": "Psychedelic Rock Portrait",
+   "themes": [
+    "Bassist",
+    "Psychedelic",
+    "Performance"
+   ],
+   "description": "A singing bassist leads his ornate, gold-trimmed band through a swirling psychedelic backdrop.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_3492.JPG",
+   "thumb": "media/IMG_3492.JPG"
+  },
+  {
+   "id": "ol2y2dqggqz8wywgqqag",
+   "title": "Psychedelic Band Portrait in Stained Glass and Gold",
+   "style": "Psychedelic Rock Portrait",
+   "themes": [
+    "Band",
+    "Stained Glass",
+    "Psychedelic"
+   ],
+   "description": "Four musicians in embroidered finery pose with their instruments over a kaleidoscope drum in swirling color.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_3491.JPG",
+   "thumb": "media/IMG_3491.JPG"
+  },
+  {
+   "id": "yvjhrc6k4ruwmakjzazm",
+   "title": "Mystery Solvers Meet the Fab Four",
+   "style": "Cartoon Crossover",
+   "themes": [
+    "Haunted Mansion",
+    "Mystery Gang",
+    "Musicians"
+   ],
+   "description": "A cartoon mystery-solving gang and four mop-topped musicians pose with their Great Dane outside a haunted mansion under a full moon.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3478.JPG",
+   "thumb": "media/IMG_3478.JPG"
+  },
+  {
+   "id": "qddaxi3v8i36i1420i3p",
+   "title": "The Map to the Haunted Castle",
+   "style": "Cartoon Crossover",
+   "themes": [
+    "Treasure Map",
+    "Castle",
+    "Mystery"
+   ],
+   "description": "Three cartoon sleuths pore over an aged map marked with a haunted castle and a red X.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3479.JPG",
+   "thumb": "media/IMG_3479.JPG"
+  },
+  {
+   "id": "sc2g0el57oxebzdqc5k2",
+   "title": "Cartoon Rockers on Stage",
+   "style": "Cartoon Music",
+   "themes": [
+    "Band",
+    "Stage",
+    "Performance"
+   ],
+   "description": "A cartoon four-piece band in black suits performs under a spotlight, guitars in hand and the drummer's stick raised.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3471.JPG",
+   "thumb": "media/IMG_3471.JPG"
+  },
+  {
+   "id": "858phm164njxuu1e7qx9",
+   "title": "Peace Sign by the Mystery Van",
+   "style": "Cartoon Crossover",
+   "themes": [
+    "Van",
+    "Peace Sign",
+    "Great Dane"
+   ],
+   "description": "A suited musician flashes a peace sign beside a smiling red-haired sleuth and his Great Dane in front of their flower-power van.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3480.JPG",
+   "thumb": "media/IMG_3480.JPG"
+  },
+  {
+   "id": "8d8k7l1ttu6i2fwtxeri",
+   "title": "Laughing with the Great Dane",
+   "style": "Cartoon Crossover",
+   "themes": [
+    "Laughter",
+    "Great Dane",
+    "Friends"
+   ],
+   "description": "Two cartoon friends share a laugh with their Great Dane in a shadowy haunted-house doorway.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3477.JPG",
+   "thumb": "media/IMG_3477.JPG"
+  },
+  {
+   "id": "as1xkj9envst386g46f8",
+   "title": "The Smiling Drummer Under the Lights",
+   "style": "Cartoon Music",
+   "themes": [
+    "Drummer",
+    "Stage",
+    "Spotlight"
+   ],
+   "description": "A cartoon drummer beams behind his red kit as purple and gold spotlights sweep the stage.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3475.JPG",
+   "thumb": "media/IMG_3475.JPG"
+  },
+  {
+   "id": "2dslvbsq41qw9lpjg4zf",
+   "title": "The Round-Glasses Songwriter",
+   "style": "Illustrated Portrait",
+   "themes": [
+    "Songwriter",
+    "Glasses",
+    "Pop Art"
+   ],
+   "description": "An illustrated portrait of a long-haired songwriter in round glasses against a warm orange backdrop.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3472.JPG",
+   "thumb": "media/IMG_3472.JPG"
+  },
+  {
+   "id": "0im7ra779f7wq9fchd74",
+   "title": "The Bassist in Blue",
+   "style": "Illustrated Portrait",
+   "themes": [
+    "Bassist",
+    "Pop Art",
+    "Guitar"
+   ],
+   "description": "An illustrated young bassist in a blue military-style jacket cradles his violin-shaped bass before bold geometric colors.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3473.JPG",
+   "thumb": "media/IMG_3473.JPG"
+  },
+  {
+   "id": "nsr3ntnbeszvh0mznjdw",
+   "title": "The Quiet Guitarist in Gold Brocade",
+   "style": "Illustrated Portrait",
+   "themes": [
+    "Guitarist",
+    "Brocade",
+    "Pop Art"
+   ],
+   "description": "An illustrated guitarist in an ornate gold-embroidered jacket gazes sideways against a glowing orange ground.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3474.JPG",
+   "thumb": "media/IMG_3474.JPG"
+  },
+  {
+   "id": "jfeymasuvq74mdf12qp6",
+   "title": "Studio Portrait of the Bassist",
+   "style": "Music Portrait",
+   "themes": [
+    "Bassist",
+    "Studio",
+    "Suit"
+   ],
+   "description": "A photographic studio portrait of a young bassist in a dark suit, his violin bass held ready.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3468.JPG",
+   "thumb": "media/IMG_3468.JPG"
+  },
+  {
+   "id": "ltxdh4jp54suj7gwvlwa",
+   "title": "Grin Behind the Black Drum",
+   "style": "Music Portrait",
+   "themes": [
+    "Drummer",
+    "Smile",
+    "Stage"
+   ],
+   "description": "A young drummer grins over his black drum kit under warm stage lights.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3470.JPG",
+   "thumb": "media/IMG_3470.JPG"
+  },
+  {
+   "id": "gvfb7bsk1su0fu2wg5zg",
+   "title": "Close Portrait of the Songwriter",
+   "style": "Music Portrait",
+   "themes": [
+    "Songwriter",
+    "Glasses",
+    "Denim"
+   ],
+   "description": "A close photographic portrait of a long-haired songwriter in round glasses and a denim jacket.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3467.JPG",
+   "thumb": "media/IMG_3467.JPG"
+  },
+  {
+   "id": "p40l9v5hvblh72p2jcp4",
+   "title": "The Gang at the Concert",
+   "style": "Cartoon Crossover",
+   "themes": [
+    "Concert",
+    "Audience",
+    "Mystery Gang"
+   ],
+   "description": "A cartoon band performs on stage while a mystery-solving gang and their Great Dane cheer from the front rows.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3476.JPG",
+   "thumb": "media/IMG_3476.JPG"
+  },
+  {
+   "id": "vnz58dsp393jv8ndjoa3",
+   "title": "Live on Stage in Black Suits",
+   "style": "Music Portrait",
+   "themes": [
+    "Live Band",
+    "Stage",
+    "Performance"
+   ],
+   "description": "Four musicians in black suits play a live set, the bassist singing center stage with the drummer behind.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3466.JPG",
+   "thumb": "media/IMG_3466.JPG"
+  },
+  {
+   "id": "ww28tjn6eotfsrqgwvgz",
+   "title": "The Pensive Guitarist",
+   "style": "Music Portrait",
+   "themes": [
+    "Guitarist",
+    "Brocade",
+    "Interior"
+   ],
+   "description": "A long-haired guitarist in an embroidered dark jacket looks away thoughtfully in an ornate, candlelit interior.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3469.JPG",
+   "thumb": "media/IMG_3469.JPG"
+  },
+  {
+   "id": "x14ki6atgsqqq4xpf73p",
+   "title": "A Head Full of Ideas",
+   "style": "Psychedelic Illustration",
+   "themes": [
+    "Imagination",
+    "Youth",
+    "Color"
+   ],
+   "description": "A joyful boy's imagination bursts outward in neon swirls of rockets, books, planets, lightbulbs and paint.",
+   "kind": "image",
+   "createdAt": 1794495803956,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3522.JPG",
+   "thumb": "media/IMG_3522.JPG"
+  },
+  {
+   "id": "qlivb9tjx0dywqc0sg6a",
+   "title": "Brigid, Keeper of the Sacred Flame",
+   "style": "Mythological Portrait",
+   "themes": [
+    "Brigid",
+    "Sacred Flame",
+    "Goddess"
+   ],
+   "description": "A red-haired Celtic goddess cups a bowl of living flame before a mossy stone shrine and waterfall.",
+   "kind": "video",
+   "createdAt": 1794495803956,
+   "w": 768,
+   "h": 1152,
+   "file": "media/886990484_28580576428291774_9013069550808369615_n.MP4",
+   "thumb": "media/886990484_28580576428291774_9013069550808369615_n_thumb.jpg"
+  },
+  {
+   "id": "ad6myamltz157du94o6g",
+   "title": "Hachiman, Guardian of the Samurai",
+   "style": "Mythological Portrait",
+   "themes": [
+    "Hachiman",
+    "Samurai",
+    "War God"
+   ],
+   "description": "An elder samurai in ornate black-and-red armor stands before a smoke-shrouded shrine, katana at his waist.",
+   "kind": "video",
+   "createdAt": 1794495803956,
+   "w": 768,
+   "h": 1152,
+   "file": "media/886819296_1647088043717849_2525635691593421877_n.MP4",
+   "thumb": "media/886819296_1647088043717849_2525635691593421877_n_thumb.jpg"
   }
  ]
 }
