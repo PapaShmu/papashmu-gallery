@@ -10772,6 +10772,465 @@
    "h": 1152,
    "file": "media/886819296_1647088043717849_2525635691593421877_n.MP4",
    "thumb": "media/886819296_1647088043717849_2525635691593421877_n_thumb.jpg"
+  },
+  {
+   "id": "p50wpb9flcvmvjx2t2yv",
+   "title": "The Overwhelmed Reader",
+   "style": "Psychedelic Illustration",
+   "themes": [
+    "Books",
+    "Curiosity",
+    "Chaos"
+   ],
+   "description": "A wide-eyed young reader clutches an open book as clocks, trophies, rockets and ideas swirl around him in a psychedelic storm.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3523.JPG",
+   "thumb": "media/IMG_3523.JPG"
+  },
+  {
+   "id": "esvjeux249h1dj3ze9cy",
+   "title": "Deadline at the Glowing Screen",
+   "style": "Psychedelic Illustration",
+   "themes": [
+    "Focus",
+    "Pressure",
+    "Night Work"
+   ],
+   "description": "A determined young man stares down a glowing laptop target amid crumpled drafts, notes and swirling midnight thoughts.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3524.JPG",
+   "thumb": "media/IMG_3524.JPG"
+  },
+  {
+   "id": "ym83glpe9bsa16ft87ex",
+   "title": "Lost in the Music",
+   "style": "Psychedelic Illustration",
+   "themes": [
+    "Music",
+    "Joy",
+    "Vinyl"
+   ],
+   "description": "A smiling young man in a hoodie stands blissfully among vinyl, speakers, trumpets and neon psychedelic swirls.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3525.JPG",
+   "thumb": "media/IMG_3525.JPG"
+  },
+  {
+   "id": "9vt20rgl2ov4ur60r711",
+   "title": "The Joyful Multitasker",
+   "style": "Comic Illustration",
+   "themes": [
+    "Creativity",
+    "Multitasking",
+    "Youth"
+   ],
+   "description": "A grinning young artist juggles painting, guitar, cooking, laundry and homework all at once in a whirlwind of hobbies.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3526.JPG",
+   "thumb": "media/IMG_3526.JPG"
+  },
+  {
+   "id": "56wtcqq4tid4mfeq7wfe",
+   "title": "Too Many Tabs Open",
+   "style": "Comic Illustration",
+   "themes": [
+    "Overload",
+    "Mind",
+    "Technology"
+   ],
+   "description": "A weary man's open head overflows with glowing browser tabs and tangled wires, a portrait of digital overload.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3527.JPG",
+   "thumb": "media/IMG_3527.JPG"
+  },
+  {
+   "id": "2tv5bab6n8imgp3dsi2g",
+   "title": "Three in Shades on the Street",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Street Style",
+    "Trio",
+    "Sunglasses"
+   ],
+   "description": "Three young men in leather jackets and sunglasses pose with quiet confidence on a brick city street.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3536.JPG",
+   "thumb": "media/IMG_3536.JPG"
+  },
+  {
+   "id": "kxm5w4cpzsfqwn6v6n1r",
+   "title": "The Beanie Portrait in Shadow",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Beanie",
+    "Moody",
+    "Portrait"
+   ],
+   "description": "A long-haired man in a black beanie gazes into the distance in a moody, shadow-lit portrait.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3537.JPG",
+   "thumb": "media/IMG_3537.JPG"
+  },
+  {
+   "id": "rzs944b7fit4gkc0hz1q",
+   "title": "The Curly-Haired Smile",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Smile",
+    "Street",
+    "Portrait"
+   ],
+   "description": "A curly-haired young man in a dark jacket beams at the camera on a soft-focus city street.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3538.JPG",
+   "thumb": "media/IMG_3538.JPG"
+  },
+  {
+   "id": "37iio2aif9l7jzb7htky",
+   "title": "Beanie and Beard in Warm Light",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Beanie",
+    "Beard",
+    "Portrait"
+   ],
+   "description": "A bearded man in a grey beanie looks thoughtfully aside, lit by warm indoor light.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3539.JPG",
+   "thumb": "media/IMG_3539.JPG"
+  },
+  {
+   "id": "xr841bbixj87vqcsy25c",
+   "title": "Trio Under the Stage Lights",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Stage",
+    "Trio",
+    "Sunglasses"
+   ],
+   "description": "Three men in dark jackets and sunglasses stand together under bright stage lights.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3540.JPG",
+   "thumb": "media/IMG_3540.JPG"
+  },
+  {
+   "id": "th481gtcnbjttfvc2ma2",
+   "title": "Comic Crew in Caps and Chains",
+   "style": "Comic Pop Art",
+   "themes": [
+    "Hip-Hop",
+    "Trio",
+    "Street Style"
+   ],
+   "description": "Three smiling comic-style friends in caps, plaid and gold chains pose against an orange starburst.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3541.JPG",
+   "thumb": "media/IMG_3541.JPG"
+  },
+  {
+   "id": "prqzgyub38yr13glof04",
+   "title": "Leather Jacket, Orange Burst",
+   "style": "Comic Pop Art",
+   "themes": [
+    "Portrait",
+    "Leather Jacket",
+    "Pop Art"
+   ],
+   "description": "A comic-style portrait of a dark-haired man in a leather jacket against slashing orange and black brushstrokes.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3542.JPG",
+   "thumb": "media/IMG_3542.JPG"
+  },
+  {
+   "id": "1l5dfqx47ek4fffawbwl",
+   "title": "Fist Raised in Pop Colour",
+   "style": "Comic Pop Art",
+   "themes": [
+    "Joy",
+    "Sunglasses",
+    "Pop Art"
+   ],
+   "description": "A laughing curly-haired man in sunglasses raises a triumphant fist against a magenta and yellow starburst.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3543.JPG",
+   "thumb": "media/IMG_3543.JPG"
+  },
+  {
+   "id": "4ylca7znqryf6rbxu9x7",
+   "title": "The Varsity Beanie Portrait",
+   "style": "Comic Pop Art",
+   "themes": [
+    "Beanie",
+    "Varsity",
+    "Portrait"
+   ],
+   "description": "A calm young man in a paw-print beanie and varsity jacket poses against abstract navy and gold strokes.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3544.JPG",
+   "thumb": "media/IMG_3544.JPG"
+  },
+  {
+   "id": "qvp66chui6czaqhw73rh",
+   "title": "Mic in Hand, Band Behind",
+   "style": "Comic Pop Art",
+   "themes": [
+    "Music",
+    "Performance",
+    "Rap"
+   ],
+   "description": "A comic-style singer grips a microphone mid-performance, backed by a vocalist and a guitarist against a radiant burst.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3545.JPG",
+   "thumb": "media/IMG_3545.JPG"
+  },
+  {
+   "id": "qa102593qomz7jj4mbj9",
+   "title": "Sticker Style: Cap and Gold Chain",
+   "style": "Sticker Art",
+   "themes": [
+    "Sticker",
+    "Sunglasses",
+    "Splatter"
+   ],
+   "description": "A sticker-style portrait of a man in a cap and sunglasses with a gold chain, bursting from purple and orange paint splatter.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3546.JPG",
+   "thumb": "media/IMG_3546.JPG"
+  },
+  {
+   "id": "3y4e5mj41qcf7ar3wcfc",
+   "title": "Sticker Style: The Dancer",
+   "style": "Sticker Art",
+   "themes": [
+    "Sticker",
+    "Dance",
+    "Splatter"
+   ],
+   "description": "A sticker-style curly-haired dancer in sunglasses and ripped jeans moves through red, blue and yellow paint splatter.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3547.JPG",
+   "thumb": "media/IMG_3547.JPG"
+  },
+  {
+   "id": "4f72c4fs6n3j2vfanjvw",
+   "title": "Sticker Style: The Band Trio",
+   "style": "Sticker Art",
+   "themes": [
+    "Sticker",
+    "Band",
+    "Bass"
+   ],
+   "description": "Three sticker-style musicians flash peace and rock signs around a red bass guitar in a spray of neon colour.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3548.JPG",
+   "thumb": "media/IMG_3548.JPG"
+  },
+  {
+   "id": "l4htqh0wi3cw9qy8n4o1",
+   "title": "Ink and the Top-Hat Tank",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Tattoos",
+    "Tank Top",
+    "Portrait"
+   ],
+   "description": "A heavily tattooed man with dreadlocks wears a black tank printed with a grinning top-hat character, lit by window light.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_3610.JPG",
+   "thumb": "media/IMG_3610.JPG"
+  },
+  {
+   "id": "1vmuguvtbgd1jqfnit3d",
+   "title": "The Top-Hat Tank, Second Look",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Tattoos",
+    "Tank Top",
+    "Portrait"
+   ],
+   "description": "The tattooed dreadlocked model in the top-hat character tank meets the camera in soft window light.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_3609.JPG",
+   "thumb": "media/IMG_3609.JPG"
+  },
+  {
+   "id": "h1g4rx2vi6mecdllgks7",
+   "title": "Gummy Ghouls and Braided Ink",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Tattoos",
+    "Braids",
+    "Graphic Tee"
+   ],
+   "description": "A tattooed woman with a long braid wears a pink Gummy Ghouls tee, her inked neck and arm catching the light.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_3606.JPG",
+   "thumb": "media/IMG_3606.JPG"
+  },
+  {
+   "id": "84ylhwdxvso7osld8ky1",
+   "title": "Pink Bunny Tee, Tilted Gaze",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Tattoos",
+    "Graphic Tee",
+    "Portrait"
+   ],
+   "description": "A tattooed woman tilts her head in a black tee with a dripping pink bunny, gold chains at her neck.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3605.JPG",
+   "thumb": "media/IMG_3605.JPG"
+  },
+  {
+   "id": "ohxoeafxqayvnowu0k1u",
+   "title": "Ink, Dreadlocks and Window Light",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Tattoos",
+    "Dreadlocks",
+    "Portrait"
+   ],
+   "description": "A muscular tattooed man with dreadlocks in the top-hat tank stands solemn in pale window light.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_3611.JPG",
+   "thumb": "media/IMG_3611.JPG"
+  },
+  {
+   "id": "lfol4y004pwod41p6jwf",
+   "title": "The Younger Ink Portrait",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Tattoos",
+    "Tank Top",
+    "Youth"
+   ],
+   "description": "A young man with a rose tattoo climbing his neck wears the top-hat character tank in bright window light.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3608.JPG",
+   "thumb": "media/IMG_3608.JPG"
+  },
+  {
+   "id": "5rvkbseqkqr52wmgjh8o",
+   "title": "Pink Teddy Tee Portrait",
+   "style": "Photorealistic Portrait",
+   "themes": [
+    "Tattoos",
+    "Graphic Tee",
+    "Portrait"
+   ],
+   "description": "A long-haired tattooed woman wears a black tee with a pink teddy in a top hat, gazing up in soft light.",
+   "kind": "image",
+   "createdAt": 1794509655845,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3604.JPG",
+   "thumb": "media/IMG_3604.JPG"
+  },
+  {
+   "id": "ake2lyqfl5dxm0ak98w9",
+   "title": "Sun Goddess in Golden Radiance",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Goddess",
+    "Sun",
+    "Radiance"
+   ],
+   "description": "A serene goddess in white and gold robes stands before a blazing golden halo as light streams through temple clouds.",
+   "kind": "video",
+   "createdAt": 1794509655845,
+   "w": 768,
+   "h": 1152,
+   "file": "media/886807033_1807598287057524_4552463049027426249_n.MP4",
+   "thumb": "media/886807033_1807598287057524_4552463049027426249_n_thumb.jpg"
+  },
+  {
+   "id": "fo1xlz8u8fsxqmue9rgo",
+   "title": "The Druid Elder and His Cauldron",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Druid",
+    "Celtic",
+    "Elder"
+   ],
+   "description": "A grey-bearded druid elder in a green Celtic-embroidered robe grips a carved staff beside a cauldron of fresh herbs.",
+   "kind": "video",
+   "createdAt": 1794509655845,
+   "w": 768,
+   "h": 1152,
+   "file": "media/891326621_1148250900886003_4333003376211064479_n.MP4",
+   "thumb": "media/891326621_1148250900886003_4333003376211064479_n_thumb.jpg"
   }
  ]
 }
