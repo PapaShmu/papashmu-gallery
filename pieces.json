@@ -9378,6 +9378,438 @@
    "h": 1024,
    "file": "media/v12044gd0000dbm60mfog65thnb1dkc0.MP4",
    "thumb": "media/v12044gd0000dbm60mfog65thnb1dkc0_thumb.jpg"
+  },
+  {
+   "id": "zarifhw7kjg6t7o5otue",
+   "title": "The Melting Neon Visage",
+   "style": "Psychedelic Portrait",
+   "themes": [
+    "Neon",
+    "Portrait"
+   ],
+   "description": "A young man's face drips with iridescent neon gel in a psychedelic close-up portrait.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_3823.JPG",
+   "thumb": "media/IMG_3823.JPG"
+  },
+  {
+   "id": "mrox34juqqxcgxuf5y95",
+   "title": "The Survivor at Dawn",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Survival",
+    "Dawn"
+   ],
+   "description": "A bloodied young survivor sits in a misty meadow at sunrise while a small bird lands nearby.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/survivor_watermarked.JPG",
+   "thumb": "media/survivor_watermarked.JPG"
+  },
+  {
+   "id": "iy313j9oh6f98ogzqpx1",
+   "title": "Cornered by the Mutts",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Forest",
+    "Wolves"
+   ],
+   "description": "A young tribute clutches a makeshift spear as snarling wolf mutts close in through the misty forest.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/mutts_watermarked.JPG",
+   "thumb": "media/mutts_watermarked.JPG"
+  },
+  {
+   "id": "jjx57nkv0wh9umwyk97i",
+   "title": "Night Camp Under the Dome",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Campfire",
+    "Forest"
+   ],
+   "description": "Two young survivors keep watch by a small campfire beneath a hexagonal energy dome in the forest.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/night_camp_watermarked.JPG",
+   "thumb": "media/night_camp_watermarked.JPG"
+  },
+  {
+   "id": "7h4bbrz1rt5w23ksucs2",
+   "title": "The Gamemaker's Console",
+   "style": "Sci-Fi Realism",
+   "themes": [
+    "Control Room",
+    "Arena"
+   ],
+   "description": "A smiling operator watches a holographic arena map from a futuristic control room console.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/control_room_watermarked.JPG",
+   "thumb": "media/control_room_watermarked.JPG"
+  },
+  {
+   "id": "umv357a94vdyj2b42ae7",
+   "title": "Before the Interview",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Stage",
+    "Spotlight"
+   ],
+   "description": "A young woman grips the rail under bright stage lights as a vast audience waits in the darkness.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/interview_stage_watermarked.JPG",
+   "thumb": "media/interview_stage_watermarked.JPG"
+  },
+  {
+   "id": "mrl09ea7wae2gl09p41d",
+   "title": "Mine No. 7 at Dawn",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Miners",
+    "Dawn"
+   ],
+   "description": "A column of young miners with headlamps files into Mine No. 7 as dawn breaks over the district.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/mine_dawn_watermarked.JPG",
+   "thumb": "media/mine_dawn_watermarked.JPG"
+  },
+  {
+   "id": "if60rhi81wip13u4naex",
+   "title": "Eyes on the Drone",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Drone",
+    "Sunset"
+   ],
+   "description": "A young tribute looks up at a hovering drone while a bird takes flight against a fiery sunset sky.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3892.JPG",
+   "thumb": "media/IMG_3892.JPG"
+  },
+  {
+   "id": "yo01wtygycn1vdedcncv",
+   "title": "The Violet Blade",
+   "style": "Sci-Fi Portrait",
+   "themes": [
+    "Cyborg",
+    "Sword"
+   ],
+   "description": "A warrior in iridescent violet cyborg armor raises a great sword beneath an arena spotlight.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3917.JPG",
+   "thumb": "media/IMG_3917.JPG"
+  },
+  {
+   "id": "s553sglq3qbi5wqq9anw",
+   "title": "Training Hall Silhouettes",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Training",
+    "Archery"
+   ],
+   "description": "Young tributes train with bows and hand-to-hand combat in a sunlit industrial training hall.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3889.JPG",
+   "thumb": "media/IMG_3889.JPG"
+  },
+  {
+   "id": "mjbhata7s83olok76zei",
+   "title": "The Cornucopia Rush",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Arena",
+    "Waterfall"
+   ],
+   "description": "Tributes sprint through the mud toward scattered supplies as a towering waterfall wall glitters at sunset.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3891.JPG",
+   "thumb": "media/IMG_3891.JPG"
+  },
+  {
+   "id": "o45ydbeo2tvm1n7vr4y4",
+   "title": "The Reaching Steel Hand",
+   "style": "Sci-Fi Portrait",
+   "themes": [
+    "Cyborg",
+    "Prosthetic"
+   ],
+   "description": "A dark-haired girl reaches toward the viewer with a gleaming metallic prosthetic arm among hanging chains.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3914.JPG",
+   "thumb": "media/IMG_3914.JPG"
+  },
+  {
+   "id": "ji8xqisqlhkl0e7ssl4p",
+   "title": "Arrival at the Capitol",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Train",
+    "City"
+   ],
+   "description": "A young tribute gazes from a train window at a gleaming futuristic capital and its gathered crowds.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3887.JPG",
+   "thumb": "media/IMG_3887.JPG"
+  },
+  {
+   "id": "2gcxiocb5cex8iqqtsq0",
+   "title": "Racer 04",
+   "style": "Sci-Fi Portrait",
+   "themes": [
+    "Cyborg",
+    "Stadium"
+   ],
+   "description": "A cyborg racer in violet armor marked 04 looks back from the edge of a floodlit stadium track.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3916.JPG",
+   "thumb": "media/IMG_3916.JPG"
+  },
+  {
+   "id": "bjebbs2d8ed9zyfga845",
+   "title": "Chrome Arms in Black",
+   "style": "Sci-Fi Portrait",
+   "themes": [
+    "Cyborg",
+    "Bodysuit"
+   ],
+   "description": "A woman in a black bodysuit stands in a concrete corridor, her arms replaced by polished chrome machinery.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3915.JPG",
+   "thumb": "media/IMG_3915.JPG"
+  },
+  {
+   "id": "yhctki58tqhkg07gzqos",
+   "title": "The Tribute Parade",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Parade",
+    "Crowd"
+   ],
+   "description": "A young tribute rides in an ornate chariot past a torch flame as a massive crowd cheers at sunset.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3888.JPG",
+   "thumb": "media/IMG_3888.JPG"
+  },
+  {
+   "id": "x81csvds6lctxxjjx35f",
+   "title": "Huddled at the Window",
+   "style": "Dystopian Realism",
+   "themes": [
+    "Window",
+    "Sunset"
+   ],
+   "description": "Young tributes huddle together by a window, watching the sun set over the city with a small bird on the sill.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3890.JPG",
+   "thumb": "media/IMG_3890.JPG"
+  },
+  {
+   "id": "0ccc5pbdzgvrirzf19hw",
+   "title": "Face-Off on the Neon Bridge",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Neon",
+    "Duel"
+   ],
+   "description": "Two fighters face off on a neon-lit bridge \u2014 one with glowing pink gauntlets, the other with long blue braids.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3784.JPG",
+   "thumb": "media/IMG_3784.JPG"
+  },
+  {
+   "id": "gog0khjivjr0q0t8g631",
+   "title": "The Undercity Inventor",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Workshop",
+    "Hextech"
+   ],
+   "description": "A young inventor fine-tunes a glowing blue hextech orb in a cluttered undercity workshop.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3787.JPG",
+   "thumb": "media/IMG_3787.JPG"
+  },
+  {
+   "id": "cyo4cwkyx2jgqu1e1tez",
+   "title": "Blue Braids and Cloud Ink",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Portrait",
+    "Tattoo"
+   ],
+   "description": "A blue-braided woman with a cloud tattoo turns toward the viewer against a purple graffiti wall.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3783.JPG",
+   "thumb": "media/IMG_3783.JPG"
+  },
+  {
+   "id": "9iurpwiv90jzqm1g2uvw",
+   "title": "The Enforcer's New Gauntlet",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Gauntlet",
+    "Uniform"
+   ],
+   "description": "A pink-haired enforcer in a blue-and-gold uniform shows a shoulder of glowing hextech gauntlet plates.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3780.JPG",
+   "thumb": "media/IMG_3780.JPG"
+  },
+  {
+   "id": "60dzjs0qoywhmgirqzso",
+   "title": "Rain Over Zaun",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Rain",
+    "Neon"
+   ],
+   "description": "An armored woman stands in a rainy undercity street beneath a glowing pink Zaun sign.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3785.JPG",
+   "thumb": "media/IMG_3785.JPG"
+  },
+  {
+   "id": "z4o2rl6sz6l4ijfn785q",
+   "title": "Piltover Ennui",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Rocket Launcher",
+    "Neon"
+   ],
+   "description": "A grinning blue-braided fighter aims an enormous rocket launcher beneath a neon 'Piltover Ennui' sign.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3782.JPG",
+   "thumb": "media/IMG_3782.JPG"
+  },
+  {
+   "id": "cctdvwden3hx22xlmi77",
+   "title": "Gauntlets of the Undercity",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Gauntlets",
+    "Industrial"
+   ],
+   "description": "A pink-haired enforcer strides through an industrial street with both hextech gauntlets glowing blue.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3778.JPG",
+   "thumb": "media/IMG_3778.JPG"
+  },
+  {
+   "id": "1yqdddgvx0w7znsmfprf",
+   "title": "Electric Fists",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Gauntlets",
+    "Street"
+   ],
+   "description": "A pink-haired fighter in a blue-and-gold jacket raises crackling electric gauntlets on a smoky street.",
+   "kind": "image",
+   "createdAt": 1794826460165,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_3814.JPG",
+   "thumb": "media/IMG_3814.JPG"
+  },
+  {
+   "id": "5stwowboncozzf73tpy2",
+   "title": "Angel on the Rooftop at Sunset",
+   "style": "Fantasy Video",
+   "themes": [
+    "Angel",
+    "Sunset"
+   ],
+   "description": "A winged blonde angel sits on a graffiti rooftop, gazing over the city as the sun sets.",
+   "kind": "video",
+   "createdAt": 1794826460165,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/28aba63c86974e059973532adc432a2e.MOV",
+   "thumb": "media/28aba63c86974e059973532adc432a2e_thumb.jpg"
+  },
+  {
+   "id": "l28kv206mntsfvg9cuz3",
+   "title": "Freak Show Posters",
+   "style": "Sideshow Montage",
+   "themes": [
+    "Freak Show",
+    "Posters"
+   ],
+   "description": "A slideshow of vintage freak show posters and performers, closing with the Papa Shmu outro card.",
+   "kind": "video",
+   "createdAt": 1794826460165,
+   "w": 1080,
+   "h": 1920,
+   "file": "media/424626deca2f466b9fd078300729a4b1.MOV",
+   "thumb": "media/424626deca2f466b9fd078300729a4b1_thumb.jpg"
   }
  ]
 }
