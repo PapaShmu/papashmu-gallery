@@ -9810,6 +9810,438 @@
    "h": 1920,
    "file": "media/424626deca2f466b9fd078300729a4b1.MOV",
    "thumb": "media/424626deca2f466b9fd078300729a4b1_thumb.jpg"
+  },
+  {
+   "id": "qqs1q32pnjin1hpi1oek",
+   "title": "Chaos in Blue Braids",
+   "style": "Sci-Fi Fantasy Portrait",
+   "themes": [
+    "Undercity",
+    "Graffiti"
+   ],
+   "description": "A blue-braided gunner grins in a graffiti-covered alley, a crackling hextech cannon slung over her shoulder.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_3813.JPG",
+   "thumb": "media/IMG_3813.JPG"
+  },
+  {
+   "id": "utcn68kenx3tn69b5q1c",
+   "title": "The Arcane Reactor Unleashed",
+   "style": "Sci-Fi Fantasy",
+   "themes": [
+    "Explosion",
+    "Undercity"
+   ],
+   "description": "Two figures stand silhouetted before a towering reactor erupting in arcs of blue arcane lightning.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3790.JPG",
+   "thumb": "media/IMG_3790.JPG"
+  },
+  {
+   "id": "kav0ew4hi0fwtnjywvn8",
+   "title": "The Cannon and the Grin",
+   "style": "Sci-Fi Fantasy Portrait",
+   "themes": [
+    "Undercity",
+    "Portrait"
+   ],
+   "description": "A tattooed blue-braided gunner cradles a lightning-charged cannon against a purple graffiti wall.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3781.JPG",
+   "thumb": "media/IMG_3781.JPG"
+  },
+  {
+   "id": "wtkimt7krzjs4ssonbto",
+   "title": "Zaun's Blue Blast",
+   "style": "Sci-Fi Fantasy",
+   "themes": [
+    "Undercity",
+    "Energy"
+   ],
+   "description": "A blue-haired fighter fires a swirling blast of arcane energy from a massive cannon in a Zaun alley.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3789.JPG",
+   "thumb": "media/IMG_3789.JPG"
+  },
+  {
+   "id": "7y4mkkea7wncocxxrh3v",
+   "title": "The Undercity Forever",
+   "style": "Sci-Fi Fantasy Portrait",
+   "themes": [
+    "Gauntlet",
+    "Undercity"
+   ],
+   "description": "A pink-haired enforcer raises a giant lightning-wrapped gauntlet beneath a neon 'Undercity Forever' sign.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3779.JPG",
+   "thumb": "media/IMG_3779.JPG"
+  },
+  {
+   "id": "9u0q4q57jgg2lhh9cnqc",
+   "title": "The Crystal Gauntlet",
+   "style": "Sci-Fi Fantasy",
+   "themes": [
+    "Gauntlet",
+    "Crystal"
+   ],
+   "description": "A close-up of a massive armored gauntlet gripping a glowing blue crystal, electricity crawling over its plates.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3788.JPG",
+   "thumb": "media/IMG_3788.JPG"
+  },
+  {
+   "id": "0ajv9rf4bpu1kjx9gszc",
+   "title": "No Gods, Only Chaos",
+   "style": "Sci-Fi Fantasy",
+   "themes": [
+    "Duel",
+    "Undercity"
+   ],
+   "description": "Two fighters duel with glowing energy blades in a burning undercity street beneath 'No Gods Only Chaos' graffiti.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3786.JPG",
+   "thumb": "media/IMG_3786.JPG"
+  },
+  {
+   "id": "ghbzx2p9g1j0c6zakw9b",
+   "title": "The Autumn Owl",
+   "style": "Watercolor Wildlife",
+   "themes": [
+    "Owl",
+    "Autumn"
+   ],
+   "description": "A great horned owl's portrait dissolves into an autumn forest beneath a harvest moon in watercolor.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3773.JPG",
+   "thumb": "media/IMG_3773.JPG"
+  },
+  {
+   "id": "3dtd96dk95lhhfycfqf5",
+   "title": "The Harvest Deer",
+   "style": "Watercolor Wildlife",
+   "themes": [
+    "Deer",
+    "Autumn"
+   ],
+   "description": "A deer's profile holds a golden harvest sunset, pumpkins and falling leaves spilling from its silhouette.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3776.JPG",
+   "thumb": "media/IMG_3776.JPG"
+  },
+  {
+   "id": "xqwko3yfi1mbtrvbor8g",
+   "title": "The Harvest Turkey",
+   "style": "Watercolor Wildlife",
+   "themes": [
+    "Turkey",
+    "Harvest"
+   ],
+   "description": "A turkey's portrait carries a cornfield sunset and pumpkins within its feathers in warm watercolor.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3772.JPG",
+   "thumb": "media/IMG_3772.JPG"
+  },
+  {
+   "id": "cftl8jp6xujtqtpchvsm",
+   "title": "The Harvest Fox",
+   "style": "Watercolor Wildlife",
+   "themes": [
+    "Fox",
+    "Harvest"
+   ],
+   "description": "A red fox in profile holds a pumpkin-field sunset inside its silhouette in dripping watercolor.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3775.JPG",
+   "thumb": "media/IMG_3775.JPG"
+  },
+  {
+   "id": "1yv6oofkgqbq5iytaq2p",
+   "title": "The Autumn Moose",
+   "style": "Watercolor Wildlife",
+   "themes": [
+    "Moose",
+    "Lake"
+   ],
+   "description": "A moose's head dissolves into a misty autumn lake ringed with red and gold trees in watercolor.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3774.JPG",
+   "thumb": "media/IMG_3774.JPG"
+  },
+  {
+   "id": "adrx3xstdhopezjox5h4",
+   "title": "Leopard Print and Headlines",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Newspaper",
+    "Portrait"
+   ],
+   "description": "A braided woman in leopard print leans over a marble table beside a newspaper announcing Papa Shmu's art goes viral.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3678.JPG",
+   "thumb": "media/IMG_3678.JPG"
+  },
+  {
+   "id": "vq98etnz5r21f91jrvpf",
+   "title": "The Viral Headline",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Newspaper",
+    "Portrait"
+   ],
+   "description": "A braided woman in leopard print rests her arms on a marble table, a 'Papa Shmu's A.I. Art Design Goes Viral' newspaper before her.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_3673.JPG",
+   "thumb": "media/IMG_3673.JPG"
+  },
+  {
+   "id": "6q0ihntdoj1umcxh1rgx",
+   "title": "Front Page Muse",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Newspaper",
+    "Portrait"
+   ],
+   "description": "A green-eyed woman with long braids poses at a marble table with a viral-headline newspaper and a glass of whiskey.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3672.JPG",
+   "thumb": "media/IMG_3672.JPG"
+  },
+  {
+   "id": "oo8kiyvr4rzkc1i6c2jp",
+   "title": "Goes Viral",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Newspaper",
+    "Portrait"
+   ],
+   "description": "A braided woman in leopard print gazes over a newspaper declaring Papa Shmu's A.I. Art Design has gone viral.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3675.JPG",
+   "thumb": "media/IMG_3675.JPG"
+  },
+  {
+   "id": "tlmdf8djaogkoc5g5wfj",
+   "title": "Viral Sensation",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Newspaper",
+    "Portrait"
+   ],
+   "description": "A braided woman in leopard print sits at a marble table with a 'Viral Sensation' newspaper spread before her.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3671.JPG",
+   "thumb": "media/IMG_3671.JPG"
+  },
+  {
+   "id": "gxxa5opvd49wnbt1hqfv",
+   "title": "The Artist's Sketch Table",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Sketches",
+    "Portrait"
+   ],
+   "description": "A curly blonde woman in a striped shirt leans over character sketches at a marble table, a whiskey glass beside her.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3657.JPG",
+   "thumb": "media/IMG_3657.JPG"
+  },
+  {
+   "id": "qi7o8z83cgi6ulhnenoq",
+   "title": "Sketches and Whiskey",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Sketches",
+    "Portrait"
+   ],
+   "description": "A windswept blonde woman rests her hand on a sheet of face sketches at a marble table.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3656.JPG",
+   "thumb": "media/IMG_3656.JPG"
+  },
+  {
+   "id": "p7x5tq1wock2o8suvpbc",
+   "title": "The Old Men's Faces",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Sketches",
+    "Portrait"
+   ],
+   "description": "A blonde woman in a striped shirt leans over pencil sketches of elderly men's faces at a marble table.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3653.JPG",
+   "thumb": "media/IMG_3653.JPG"
+  },
+  {
+   "id": "4y2rop4iwfjt2c4mx9lb",
+   "title": "Morning at the Sketch Table",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Sketches",
+    "Portrait"
+   ],
+   "description": "A blonde woman in a blue striped shirt sits at a marble table with her character sketches and a glass of whiskey.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 784,
+   "h": 1168,
+   "file": "media/IMG_3651.JPG",
+   "thumb": "media/IMG_3651.JPG"
+  },
+  {
+   "id": "ddrer08m6iqifl8yqluf",
+   "title": "Airborne Over the Barrel",
+   "style": "Ocean Realism",
+   "themes": [
+    "Surfer",
+    "Wave"
+   ],
+   "description": "A dreadlocked surfer launches airborne off the lip of a turquoise barrel wave at sunset.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_3642.JPG",
+   "thumb": "media/IMG_3642.JPG"
+  },
+  {
+   "id": "z57mm62aceztm45ux6s3",
+   "title": "Under the Shimmering Surface",
+   "style": "Underwater Portrait",
+   "themes": [
+    "Underwater",
+    "Girl"
+   ],
+   "description": "A young girl with curly blue-streaked hair looks up through sun-dappled water, ribbons and beads in her hair.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 1152,
+   "h": 1712,
+   "file": "media/IMG_3616.JPG",
+   "thumb": "media/IMG_3616.JPG"
+  },
+  {
+   "id": "s9pxi7tet1gdaxm467dk",
+   "title": "Inside the Emerald Barrel",
+   "style": "Ocean Realism",
+   "themes": [
+    "Surfer",
+    "Wave"
+   ],
+   "description": "A dreadlocked surfer rides deep inside a glowing emerald barrel wave.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_3641.JPG",
+   "thumb": "media/IMG_3641.JPG"
+  },
+  {
+   "id": "nroib1cd43hvwk3o5m4t",
+   "title": "The Barrel's Eye",
+   "style": "Ocean Realism",
+   "themes": [
+    "Surfer",
+    "Wave"
+   ],
+   "description": "A surfer crouches inside the curling eye of a turquoise wave as sunlight pours through the barrel.",
+   "kind": "image",
+   "createdAt": 1794840896745,
+   "w": 1008,
+   "h": 1792,
+   "file": "media/IMG_3643.JPG",
+   "thumb": "media/IMG_3643.JPG"
+  },
+  {
+   "id": "ts0jvy0p8fwr1ax0tcew",
+   "title": "The Leopard Strongman",
+   "style": "Vintage Circus",
+   "themes": [
+    "Strongman",
+    "Circus"
+   ],
+   "description": "A mustached vintage strongman in a leopard singlet poses with heavy dumbbells before a circus banner in sepia tones.",
+   "kind": "video",
+   "createdAt": 1794840896745,
+   "w": 768,
+   "h": 1152,
+   "file": "media/892069794_1142493908172258_1608139596673686634_n.MP4",
+   "thumb": "media/892069794_1142493908172258_1608139596673686634_n_thumb.jpg"
+  },
+  {
+   "id": "u2a2s9du215anmtpobna",
+   "title": "The Contortionist",
+   "style": "Vintage Circus",
+   "themes": [
+    "Contortionist",
+    "Circus"
+   ],
+   "description": "A vintage circus contortionist bends into an impossible arc on a draped stage in sepia tones.",
+   "kind": "video",
+   "createdAt": 1794840896745,
+   "w": 768,
+   "h": 1152,
+   "file": "media/891902831_2537265466748233_3087276552356915876_n.MP4",
+   "thumb": "media/891902831_2537265466748233_3087276552356915876_n_thumb.jpg"
   }
  ]
 }
