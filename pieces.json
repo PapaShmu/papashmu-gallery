@@ -313,7 +313,7 @@
     "Mona Lisa",
     "Portrait"
    ],
-   "description": "The timeless portrait reimagined — soft folded hands, dark tresses, and that faint, knowing smile over a misty landscape.",
+   "description": "The timeless portrait reimagined \u2014 soft folded hands, dark tresses, and that faint, knowing smile over a misty landscape.",
    "kind": "image",
    "createdAt": 1794250598944,
    "w": 1008,
@@ -393,7 +393,7 @@
     "Mona Lisa",
     "Profile"
    ],
-   "description": "A strict profile portrait — long dark hair, calm gaze, and the dreamy lakes and hills of the Renaissance behind her.",
+   "description": "A strict profile portrait \u2014 long dark hair, calm gaze, and the dreamy lakes and hills of the Renaissance behind her.",
    "kind": "image",
    "createdAt": 1794250598944,
    "w": 1008,
@@ -725,14 +725,14 @@
   },
   {
    "id": "pfcnsuf5nhzc19zjc0ie",
-   "title": "Punk Princess Rebellion — The Poster",
+   "title": "Punk Princess Rebellion \u2014 The Poster",
    "style": "Punk Collage Poster",
    "themes": [
     "Punk",
     "Music",
     "Rebellion"
    ],
-   "description": "A torn-poster collage introducing the four Punk Princesses — lead vocals, bass, guitar and drums — under the banner 'Four Princesses, No Rules, All Noise.'",
+   "description": "A torn-poster collage introducing the four Punk Princesses \u2014 lead vocals, bass, guitar and drums \u2014 under the banner 'Four Princesses, No Rules, All Noise.'",
    "kind": "image",
    "createdAt": 1794263772173,
    "w": 1600,
@@ -1626,7 +1626,7 @@
   },
   {
    "id": "ug0d6y92linimzk7p5qv",
-   "title": "Odin, the All-Father — Reel",
+   "title": "Odin, the All-Father \u2014 Reel",
    "style": "Norse Mythology",
    "themes": [
     "Odin",
@@ -1643,7 +1643,7 @@
   },
   {
    "id": "vj6m2hroc3jhdui08wfe",
-   "title": "Thor Raises Mjolnir — Reel",
+   "title": "Thor Raises Mjolnir \u2014 Reel",
    "style": "Norse Mythology",
    "themes": [
     "Thor",
@@ -1949,14 +1949,14 @@
   },
   {
    "id": "1clw8hf95cao3pz0qctl",
-   "title": "The Morrígan, Phantom Queen",
+   "title": "The Morr\u00edgan, Phantom Queen",
    "style": "Celtic Mythology",
    "themes": [
     "Morrigan",
     "Crow",
     "Battle"
    ],
-   "description": "The Morrígan watches the battlefield in a cloak of black feathers, her crows wheeling through the mist.",
+   "description": "The Morr\u00edgan watches the battlefield in a cloak of black feathers, her crows wheeling through the mist.",
    "kind": "image",
    "createdAt": 1794293915479,
    "w": 784,
@@ -2085,7 +2085,7 @@
   },
   {
    "id": "hdulio7185t4haqena52",
-   "title": "Tyr and His Wolf — Reel",
+   "title": "Tyr and His Wolf \u2014 Reel",
    "style": "Norse Mythology",
    "themes": [
     "Warrior",
@@ -2102,7 +2102,7 @@
   },
   {
    "id": "4psyiwfesuedupq7d2o7",
-   "title": "Sapphire in the Lavender Meadow — Reel",
+   "title": "Sapphire in the Lavender Meadow \u2014 Reel",
    "style": "Fantasy Portrait",
    "themes": [
     "Jewels",
@@ -2544,7 +2544,7 @@
   },
   {
    "id": "1wuobluqwkpy3jty4i0u",
-   "title": "Zeus, Lord of the Storm — Reel",
+   "title": "Zeus, Lord of the Storm \u2014 Reel",
    "style": "Greek Mythology",
    "themes": [
     "Zeus",
@@ -2561,7 +2561,7 @@
   },
   {
    "id": "qvvjmt5hlr71cdzb0jvj",
-   "title": "Hades and the Hound of Hell — Reel",
+   "title": "Hades and the Hound of Hell \u2014 Reel",
    "style": "Greek Mythology",
    "themes": [
     "Hades",
@@ -2867,11 +2867,11 @@
   },
   {
    "id": "9m540uww1o8v7jggkhe6",
-   "title": "Morning Coffee in the Garden Café",
+   "title": "Morning Coffee in the Garden Caf\u00e9",
    "style": "Country Portrait",
    "themes": [
     "White Dress",
-    "Café",
+    "Caf\u00e9",
     "Morning"
    ],
    "description": "A dark-haired woman in a white dress lingers over coffee and a croissant at a rustic garden table.",
@@ -2993,7 +2993,7 @@
     "Tattoo Machine",
     "Roses"
    ],
-   "description": "An ornate vintage crest shows a hand driving a tattoo machine, ringed by swallows and roses — Papa Shmu's, Est. 2026.",
+   "description": "An ornate vintage crest shows a hand driving a tattoo machine, ringed by swallows and roses \u2014 Papa Shmu's, Est. 2026.",
    "kind": "image",
    "createdAt": 1794323056556,
    "w": 1152,
@@ -3054,7 +3054,7 @@
   },
   {
    "id": "t9nh6cevybdm8skvnlza",
-   "title": "Papa Shmu's — The Artist's Hand",
+   "title": "Papa Shmu's \u2014 The Artist's Hand",
    "style": "Tattoo Design",
    "themes": [
     "Tattoo Machine",
@@ -3088,7 +3088,7 @@
   },
   {
    "id": "m79v42gbj34xu5qulqrd",
-   "title": "Papa Shmu's Crest — Ink in the Blood",
+   "title": "Papa Shmu's Crest \u2014 Ink in the Blood",
    "style": "Tattoo Design",
    "themes": [
     "Tattoo Machine",
@@ -3105,7 +3105,7 @@
   },
   {
    "id": "sf1f6mvj2l2cy1nzsn8d",
-   "title": "Ink & Needle — Custom Tattoo Co.",
+   "title": "Ink & Needle \u2014 Custom Tattoo Co.",
    "style": "Tattoo Design",
    "themes": [
     "Tattoo Machine",
@@ -3241,7 +3241,7 @@
   },
   {
    "id": "ruzjthskc1416q7ekw13",
-   "title": "Loyalty — Eagle and Dagger",
+   "title": "Loyalty \u2014 Eagle and Dagger",
    "style": "Tattoo Design",
    "themes": [
     "Eagle",
@@ -5474,7 +5474,7 @@
     "Forest",
     "Watercolor"
    ],
-   "description": "A grey wolf’s face emerges from watercolor washes of snowy pines and a pale winter moon.",
+   "description": "A grey wolf\u2019s face emerges from watercolor washes of snowy pines and a pale winter moon.",
    "kind": "image",
    "createdAt": 1794423379412,
    "w": 784,
@@ -5508,7 +5508,7 @@
     "Forest",
     "Sunset"
    ],
-   "description": "A raven’s dark profile carries a sunset pine forest and drifting embers within its watercolor feathers.",
+   "description": "A raven\u2019s dark profile carries a sunset pine forest and drifting embers within its watercolor feathers.",
    "kind": "image",
    "createdAt": 1794423379416,
    "w": 784,
@@ -5525,7 +5525,7 @@
     "Mountains",
     "Forest"
    ],
-   "description": "A bear’s gentle face is filled with misty mountain peaks and evergreen forest in soft watercolor.",
+   "description": "A bear\u2019s gentle face is filled with misty mountain peaks and evergreen forest in soft watercolor.",
    "kind": "image",
    "createdAt": 1794423379418,
    "w": 784,
@@ -5559,7 +5559,7 @@
     "Ocean",
     "Watercolor"
    ],
-   "description": "A dolphin’s curved form becomes a breaking blue wave under rays of sunlight in watercolor.",
+   "description": "A dolphin\u2019s curved form becomes a breaking blue wave under rays of sunlight in watercolor.",
    "kind": "image",
    "createdAt": 1794423379422,
    "w": 784,
@@ -5593,7 +5593,7 @@
     "Savanna",
     "Sunset"
    ],
-   "description": "A cheetah’s spotted profile carries the warm colors of a savanna sunset and a lone acacia tree.",
+   "description": "A cheetah\u2019s spotted profile carries the warm colors of a savanna sunset and a lone acacia tree.",
    "kind": "image",
    "createdAt": 1794423379426,
    "w": 784,
@@ -5610,7 +5610,7 @@
     "Jungle",
     "Watercolor"
    ],
-   "description": "A gorilla’s solemn face rises out of dense green jungle foliage in layered watercolor.",
+   "description": "A gorilla\u2019s solemn face rises out of dense green jungle foliage in layered watercolor.",
    "kind": "image",
    "createdAt": 1794423379428,
    "w": 784,
@@ -5661,7 +5661,7 @@
     "Acacia",
     "Sunset"
    ],
-   "description": "A cheetah’s face is painted with a blazing sunset and a spreading acacia tree in watercolor.",
+   "description": "A cheetah\u2019s face is painted with a blazing sunset and a spreading acacia tree in watercolor.",
    "kind": "image",
    "createdAt": 1794423379434,
    "w": 784,
@@ -5695,7 +5695,7 @@
     "Ocean",
     "Mountains"
    ],
-   "description": "An orca’s head carries crashing waves and snowy sea mountains in deep blue watercolor.",
+   "description": "An orca\u2019s head carries crashing waves and snowy sea mountains in deep blue watercolor.",
    "kind": "image",
    "createdAt": 1794423379438,
    "w": 784,
@@ -8531,7 +8531,7 @@
   },
   {
    "id": "g4ehyv2qwd7berh013kg",
-   "title": "Rehab — Live at the Racehorse Tavern",
+   "title": "Rehab \u2014 Live at the Racehorse Tavern",
    "style": "Concert Poster Art",
    "themes": [
     "Live Music",
@@ -8565,7 +8565,7 @@
   },
   {
    "id": "ckdef8b6zby0tou3lbxk",
-   "title": "Southern Rebel Soul — Crowned in Camo",
+   "title": "Southern Rebel Soul \u2014 Crowned in Camo",
    "style": "Graffiti Poster Art",
    "themes": [
     "Southern",
@@ -8582,7 +8582,7 @@
   },
   {
    "id": "2na54ikxowr7odzgnsss",
-   "title": "Rehab — Neon Over the Bottle Line",
+   "title": "Rehab \u2014 Neon Over the Bottle Line",
    "style": "Concert Poster Art",
    "themes": [
     "Live Music",
@@ -8633,7 +8633,7 @@
   },
   {
    "id": "re5w55stmueua79ts4il",
-   "title": "Rehab — One More Glass",
+   "title": "Rehab \u2014 One More Glass",
    "style": "Atmospheric Still Life",
    "themes": [
     "Neon",
@@ -8684,7 +8684,7 @@
   },
   {
    "id": "jt33z6408k46m9p6h7nz",
-   "title": "Southern Rebel Soul — Backroad Mark",
+   "title": "Southern Rebel Soul \u2014 Backroad Mark",
    "style": "Graffiti Poster Art",
    "themes": [
     "Southern",
@@ -8718,14 +8718,14 @@
   },
   {
    "id": "hdlw2msejb430jgfdvnd",
-   "title": "Small Town — Sounds and Sunsets",
+   "title": "Small Town \u2014 Sounds and Sunsets",
    "style": "Southern Americana",
    "themes": [
     "Sunset",
     "Trailer",
     "Dirt Road"
    ],
-   "description": "A trailer home sits at the end of a dirt road under a fiery sunset, captioned Small Town — Sounds and Sunsets.",
+   "description": "A trailer home sits at the end of a dirt road under a fiery sunset, captioned Small Town \u2014 Sounds and Sunsets.",
    "kind": "image",
    "createdAt": 1794792290279,
    "w": 784,
@@ -8735,7 +8735,7 @@
   },
   {
    "id": "iwwrke1bg4uwexx9pa5g",
-   "title": "Hot Sauce — Front and Center",
+   "title": "Hot Sauce \u2014 Front and Center",
    "style": "Photorealistic Portrait",
    "themes": [
     "Tattoos",
@@ -8769,7 +8769,7 @@
   },
   {
    "id": "8wvgs6uccqehybhwtt9r",
-   "title": "Rehab — Last Call, 1:47 AM",
+   "title": "Rehab \u2014 Last Call, 1:47 AM",
    "style": "Concert Poster Art",
    "themes": [
     "Live Music",
@@ -8820,7 +8820,7 @@
   },
   {
    "id": "priy53ttef2z6ay9y6pm",
-   "title": "Hot Sauce — Close Up",
+   "title": "Hot Sauce \u2014 Close Up",
    "style": "Photorealistic Portrait",
    "themes": [
     "Tattoos",
@@ -8939,7 +8939,7 @@
   },
   {
    "id": "7vqygsqderc1z617xiy7",
-   "title": "Morning Light, Borrowed Shirt — Sketch",
+   "title": "Morning Light, Borrowed Shirt \u2014 Sketch",
    "style": "Pencil Portrait",
    "themes": [
     "Sketch",
@@ -8973,7 +8973,7 @@
   },
   {
    "id": "q67zostyh7wopqoj7u0l",
-   "title": "Seated in Silence — Sketch Study",
+   "title": "Seated in Silence \u2014 Sketch Study",
    "style": "Pencil Portrait",
    "themes": [
     "Sketch",
@@ -9065,7 +9065,7 @@
     "Occult",
     "Framed Art"
    ],
-   "description": "A row of five framed artworks — the Wild Hunt, the Tree of Life, the Morrigan, the Alchemist's Laboratory, and the High Priestess — hangs in a line.",
+   "description": "A row of five framed artworks \u2014 the Wild Hunt, the Tree of Life, the Morrigan, the Alchemist's Laboratory, and the High Priestess \u2014 hangs in a line.",
    "kind": "image",
    "createdAt": 1794797799175,
    "w": 1408,
@@ -9143,7 +9143,7 @@
   },
   {
    "id": "h5a3tcwci8z6b93d6tkw",
-   "title": "Chin on Hand — Sketch Portrait",
+   "title": "Chin on Hand \u2014 Sketch Portrait",
    "style": "Pencil Portrait",
    "themes": [
     "Sketch",
@@ -9296,7 +9296,7 @@
   },
   {
    "id": "s4jz8ohmirit66g5dw4o",
-   "title": "Iridescent Tears — Study in Violet",
+   "title": "Iridescent Tears \u2014 Study in Violet",
    "style": "Surreal Portrait",
    "themes": [
     "Makeup Art",
@@ -9313,7 +9313,7 @@
   },
   {
    "id": "9zmgrl9y379vh36i00k4",
-   "title": "Iridescent Tears — Full Face",
+   "title": "Iridescent Tears \u2014 Full Face",
    "style": "Surreal Portrait",
    "themes": [
     "Makeup Art",
@@ -9330,7 +9330,7 @@
   },
   {
    "id": "3qra9fb13gy0ihjngxq9",
-   "title": "Iridescent Tears — The Young Man",
+   "title": "Iridescent Tears \u2014 The Young Man",
    "style": "Surreal Portrait",
    "themes": [
     "Makeup Art",
@@ -9659,7 +9659,7 @@
     "Neon",
     "Duel"
    ],
-   "description": "Two fighters face off on a neon-lit bridge — one with glowing pink gauntlets, the other with long blue braids.",
+   "description": "Two fighters face off on a neon-lit bridge \u2014 one with glowing pink gauntlets, the other with long blue braids.",
    "kind": "image",
    "createdAt": 1794826460165,
    "w": 784,
@@ -10739,6 +10739,134 @@
    "h": 1248,
    "file": "media/886917762_1642444234277030_8312008475864449347_n.MP4",
    "thumb": "media/886917762_1642444234277030_8312008475864449347_n_thumb.jpg"
+  },
+  {
+   "id": "aclv9dwn9rfzqxuh891g",
+   "title": "Laundry Over the Dark Alley",
+   "style": "Gothic Horror",
+   "themes": [
+    "Alley",
+    "Night"
+   ],
+   "description": "Laundry hangs over a narrow, lamp-lit alley where wet cobbles vanish into the dark.",
+   "kind": "video",
+   "createdAt": 1794884125572,
+   "w": 704,
+   "h": 1248,
+   "file": "media/888459016_1955268832512557_5197215919347495537_n.MP4",
+   "thumb": "media/888459016_1955268832512557_5197215919347495537_n_thumb.jpg"
+  },
+  {
+   "id": "fpwza74medl01e6sfcfx",
+   "title": "The Ghost on the Stairs",
+   "style": "Gothic Horror",
+   "themes": [
+    "Ghost",
+    "Haunted House"
+   ],
+   "description": "A shrouded ghost drifts on the ruined staircase of a decaying mansion as a shaft of light breaks through the gloom.",
+   "kind": "video",
+   "createdAt": 1794884125572,
+   "w": 704,
+   "h": 1248,
+   "file": "media/886917765_4586257128310949_7417446966021264216_n.MP4",
+   "thumb": "media/886917765_4586257128310949_7417446966021264216_n_thumb.jpg"
+  },
+  {
+   "id": "8ixd5mh32j23r8e04ye4",
+   "title": "The Archway Watch",
+   "style": "Gothic Horror",
+   "themes": [
+    "Archway",
+    "Fog"
+   ],
+   "description": "Torchlight and fog fill a vaulted stone archway where a lone figure waits at the far end.",
+   "kind": "video",
+   "createdAt": 1794884125572,
+   "w": 704,
+   "h": 1248,
+   "file": "media/889993374_1437791757845470_4915907960876538724_n.MP4",
+   "thumb": "media/889993374_1437791757845470_4915907960876538724_n_thumb.jpg"
+  },
+  {
+   "id": "mec7zt36gxozxlvew7z5",
+   "title": "Moon Over the Old Graveyard",
+   "style": "Gothic Horror",
+   "themes": [
+    "Graveyard",
+    "Moonlight"
+   ],
+   "description": "Tilted tombstones lean through ground fog beneath a cloud-torn full moon and bare twisted trees.",
+   "kind": "video",
+   "createdAt": 1794884125572,
+   "w": 704,
+   "h": 1248,
+   "file": "media/888319282_902007986234644_494323786212189059_n.MP4",
+   "thumb": "media/888319282_902007986234644_494323786212189059_n_thumb.jpg"
+  },
+  {
+   "id": "lpyraidx0a3xqwa9g6ux",
+   "title": "Fog on the Lamplit Street",
+   "style": "Gothic Horror",
+   "themes": [
+    "Fog",
+    "Victorian Street"
+   ],
+   "description": "Gas lamps glow through rolling fog on a wet Victorian street as a lone figure walks away into the night.",
+   "kind": "video",
+   "createdAt": 1794884125572,
+   "w": 704,
+   "h": 1248,
+   "file": "media/891757326_2282302809293132_3803772466659867311_n.MP4",
+   "thumb": "media/891757326_2282302809293132_3803772466659867311_n_thumb.jpg"
+  },
+  {
+   "id": "fkvhtptp6ivln41vmcmk",
+   "title": "The Green Mist Alley",
+   "style": "Urban Gothic",
+   "themes": [
+    "Alley",
+    "Mist"
+   ],
+   "description": "A lone figure stands in a mist-choked alley between weathered tenements under a sickly green-grey light.",
+   "kind": "video",
+   "createdAt": 1794884125572,
+   "w": 704,
+   "h": 1248,
+   "file": "media/887323256_1592615009283889_4372132436273085039_n.MP4",
+   "thumb": "media/887323256_1592615009283889_4372132436273085039_n_thumb.jpg"
+  },
+  {
+   "id": "9k0ewqaezavjyu6k8txd",
+   "title": "Wind at the Boardwalk",
+   "style": "Coastal Portrait",
+   "themes": [
+    "Beach",
+    "Summer"
+   ],
+   "description": "A smiling woman in a white sundress leans on a boardwalk rail as sea wind and gulls sweep the shore behind her.",
+   "kind": "video",
+   "createdAt": 1794884125572,
+   "w": 720,
+   "h": 1280,
+   "file": "media/887156926_2379830889446164_4116691664760228124_n.MP4",
+   "thumb": "media/887156926_2379830889446164_4116691664760228124_n_thumb.jpg"
+  },
+  {
+   "id": "a0g18k9iaq7yt6bpsgvt",
+   "title": "Girl in the Golden Wheat",
+   "style": "Fantasy Portrait",
+   "themes": [
+    "Wheat Field",
+    "Sunset"
+   ],
+   "description": "A young woman in a white lace dress walks through tall golden wheat glowing in the sunset haze.",
+   "kind": "video",
+   "createdAt": 1794884125572,
+   "w": 720,
+   "h": 1280,
+   "file": "media/888564231_2041667099873566_4883584685130949415_n.MP4",
+   "thumb": "media/888564231_2041667099873566_4883584685130949415_n_thumb.jpg"
   }
  ]
 }
